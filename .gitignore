@@ -131,3 +131,9 @@ dist
 
 # Frida specifications folder
 .frida-specs/**
+
+# Astro generated files
+.astro/
+
+# Claude Code local settings
+.claude/settings.local.json

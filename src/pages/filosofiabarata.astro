@@ -1,0 +1,32 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import '../assets/components/Filosofiabarata.scss';
+
+const filosofiabarata: CollectionEntry<'filosofiabarata'>[] = await getCollection('filosofiabarata');
+---
+
+
+  <>
+    <h2 class="">Últimas entradas</h2>
+    <p class="">Explorando el pensamiento filosófico sin complicaciones.</p>
+    <section>
+      <ul class="posts">
+        {
+        filosofiabarata.map(filosofiabarata => {
+          const { data } = filosofiabarata;
+          const { date, categorias, title } = data;
+          return (
+            <a class="posts__link" href={`/blog/${filosofiabarata.slug}`}>
+              <li class="posts__item">
+                <h2 class="posts__title">{title}</h2>
+                <p class="posts__date">Fecha: {date}</p>
+                <p class="posts__categories">Categorias: {categorias}</p>
+              </li>
+            </a>
+          );
+        })
+      }
+      </ul>
+    </section>
+  </>
+

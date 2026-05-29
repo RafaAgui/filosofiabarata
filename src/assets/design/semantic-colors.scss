@@ -1,0 +1,284 @@
+/* ==========================================================================
+   SEMANTIC COLOR TOKENS — Light/Dark Theme Architecture
+   Source: DESIGN.md — "The Dialectic"
+   
+   Purpose:
+   - Provides semantic naming for color usage contexts
+   - Decouples visual implementation from semantic meaning
+   - Enables flexible theme switching without changing component code
+   - Supports both [data-theme] attribute and prefers-color-scheme fallback
+   
+   Usage Pattern:
+   - Use semantic tokens in components (--color-text-primary, --color-background)
+   - Base tokens handle the actual values (--color-on-surface, --color-surface)
+   - Themes control which base tokens are referenced
+   ========================================================================== */
+
+/* ============================================================
+   SEMANTIC ALIASES — LIGHT THEME (default)
+   Maps semantic names to base color tokens
+   ============================================================ */
+:root,
+[data-theme="light"] {
+  /* --- Text & Typography --- */
+  --color-text-primary: var(--color-on-surface);
+  --color-text-secondary: var(--color-on-surface-variant);
+  --color-text-tertiary: var(--color-outline);
+  --color-text-disabled: var(--color-outline-variant);
+  --color-text-inverse: var(--color-inverse-on-surface);
+
+  /* --- Interactive Elements --- */
+  --color-text-on-primary: var(--color-on-primary);
+  --color-text-on-secondary: var(--color-on-secondary);
+  --color-text-on-tertiary: var(--color-on-tertiary);
+  --color-text-on-error: var(--color-on-error);
+
+  /* --- Background & Surface --- */
+  --color-background: var(--color-background);
+  --color-background-secondary: var(--color-surface);
+  --color-background-tertiary: var(--color-surface-container);
+  --color-background-inverse: var(--color-inverse-surface);
+
+  /* --- Surface Containers (Cards, Panels, Elevated Elements) --- */
+  --color-surface-primary: var(--color-surface-container);
+  --color-surface-secondary: var(--color-surface-container-high);
+  --color-surface-tertiary: var(--color-surface-container-highest);
+  --color-surface-dim: var(--color-surface-dim);
+  --color-surface-bright: var(--color-surface-bright);
+
+  /* --- Interactive States --- */
+  --color-primary-base: var(--color-primary);
+  --color-primary-container: var(--color-primary-container);
+  --color-primary-fixed: var(--color-primary-fixed);
+  --color-primary-fixed-dim: var(--color-primary-fixed-dim);
+
+  --color-secondary-base: var(--color-secondary);
+  --color-secondary-container: var(--color-secondary-container);
+  --color-secondary-fixed: var(--color-secondary-fixed);
+  --color-secondary-fixed-dim: var(--color-secondary-fixed-dim);
+
+  --color-tertiary-base: var(--color-tertiary);
+  --color-tertiary-container: var(--color-tertiary-container);
+  --color-tertiary-fixed: var(--color-tertiary-fixed);
+  --color-tertiary-fixed-dim: var(--color-tertiary-fixed-dim);
+
+  /* --- Feedback & Status Colors --- */
+  --color-error-base: var(--color-error);
+  --color-error-container: var(--color-error-container);
+  --color-error-text: var(--color-on-error-container);
+  --color-success-base: var(--color-primary-base);
+  --color-warning-base: var(--color-secondary-base);
+  --color-info-base: var(--color-tertiary-base);
+
+  /* --- Borders & Dividers --- */
+  --color-border-primary: var(--color-outline);
+  --color-border-secondary: var(--color-outline-variant);
+  --color-divider: var(--color-outline-variant);
+
+  /* --- Special Use Cases --- */
+  --color-tint-surface: var(--color-surface-tint);
+  --color-accent: var(--color-primary-base);
+  --color-accent-secondary: var(--color-secondary-base);
+
+  /* --- UI Component Shortcuts --- */
+  --color-bg: var(--color-background);
+  --color-text: var(--color-on-surface);
+  --color-heading: var(--color-on-surface);
+  --color-meta: var(--color-on-surface-variant);
+  --color-border: var(--color-outline-variant);
+  --color-link: var(--color-primary);
+  --color-icon: var(--color-on-surface-variant);
+
+  --color-pill-bg: var(--color-surface-container);
+  --color-pill-text: var(--color-on-surface-variant);
+  --color-pill-active-bg: var(--color-primary);
+  --color-pill-active-text: var(--color-on-primary);
+
+  --color-featured-bg: var(--color-surface-container-low);
+  --color-footer-bg: var(--color-surface-container-low);
+
+  --color-btn-bg: var(--color-surface-container);
+  --color-btn-text: var(--color-on-surface);
+  --color-btn-hover-bg: var(--color-surface-container-high);
+
+  --font-serif: var(--font-display);
+}
+
+/* ============================================================
+   SEMANTIC ALIASES — DARK THEME
+   Remaps semantic names to dark-theme base tokens
+   ============================================================ */
+[data-theme="dark"] {
+  /* --- Text & Typography --- */
+  --color-text-primary: var(--color-on-surface);
+  --color-text-secondary: var(--color-on-surface-variant);
+  --color-text-tertiary: var(--color-outline);
+  --color-text-disabled: var(--color-outline-variant);
+  --color-text-inverse: var(--color-inverse-on-surface);
+
+  /* --- Interactive Elements --- */
+  --color-text-on-primary: var(--color-on-primary);
+  --color-text-on-secondary: var(--color-on-secondary);
+  --color-text-on-tertiary: var(--color-on-tertiary);
+  --color-text-on-error: var(--color-on-error);
+
+  /* --- Background & Surface --- */
+  --color-background: var(--color-background);
+  --color-background-secondary: var(--color-surface);
+  --color-background-tertiary: var(--color-surface-container);
+  --color-background-inverse: var(--color-inverse-surface);
+
+  /* --- Surface Containers (Cards, Panels, Elevated Elements) --- */
+  --color-surface-primary: var(--color-surface-container);
+  --color-surface-secondary: var(--color-surface-container-high);
+  --color-surface-tertiary: var(--color-surface-container-highest);
+  --color-surface-dim: var(--color-surface-dim);
+  --color-surface-bright: var(--color-surface-bright);
+
+  /* --- Interactive States --- */
+  --color-primary-base: var(--color-primary);
+  --color-primary-container: var(--color-primary-container);
+  --color-primary-fixed: var(--color-primary-fixed);
+  --color-primary-fixed-dim: var(--color-primary-fixed-dim);
+
+  --color-secondary-base: var(--color-secondary);
+  --color-secondary-container: var(--color-secondary-container);
+  --color-secondary-fixed: var(--color-secondary-fixed);
+  --color-secondary-fixed-dim: var(--color-secondary-fixed-dim);
+
+  --color-tertiary-base: var(--color-tertiary);
+  --color-tertiary-container: var(--color-tertiary-container);
+  --color-tertiary-fixed: var(--color-tertiary-fixed);
+  --color-tertiary-fixed-dim: var(--color-tertiary-fixed-dim);
+
+  /* --- Feedback & Status Colors --- */
+  --color-error-base: var(--color-error);
+  --color-error-container: var(--color-error-container);
+  --color-error-text: var(--color-on-error-container);
+  --color-success-base: var(--color-primary-base);
+  --color-warning-base: var(--color-secondary-base);
+  --color-info-base: var(--color-tertiary-base);
+
+  /* --- Borders & Dividers --- */
+  --color-border-primary: var(--color-outline);
+  --color-border-secondary: var(--color-outline-variant);
+  --color-divider: var(--color-outline-variant);
+
+  /* --- Special Use Cases --- */
+  --color-tint-surface: var(--color-surface-tint);
+  --color-accent: var(--color-primary-base);
+  --color-accent-secondary: var(--color-secondary-base);
+
+  /* --- UI Component Shortcuts --- */
+  --color-bg: var(--color-background);
+  --color-text: var(--color-on-surface);
+  --color-heading: var(--color-on-surface);
+  --color-meta: var(--color-on-surface-variant);
+  --color-border: var(--color-outline-variant);
+  --color-link: var(--color-primary);
+  --color-icon: var(--color-on-surface-variant);
+
+  --color-pill-bg: var(--color-surface-container);
+  --color-pill-text: var(--color-on-surface-variant);
+  --color-pill-active-bg: var(--color-primary);
+  --color-pill-active-text: var(--color-on-primary);
+
+  --color-featured-bg: var(--color-surface-container-low);
+  --color-footer-bg: var(--color-surface-container-low);
+
+  --color-btn-bg: var(--color-surface-container);
+  --color-btn-text: var(--color-on-surface);
+  --color-btn-hover-bg: var(--color-surface-container-high);
+
+  --font-serif: var(--font-display);
+}
+
+/* ============================================================
+   Media Query Fallback (prefers-color-scheme: dark)
+   ============================================================ */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    /* --- Text & Typography --- */
+    --color-text-primary: var(--color-on-surface);
+    --color-text-secondary: var(--color-on-surface-variant);
+    --color-text-tertiary: var(--color-outline);
+    --color-text-disabled: var(--color-outline-variant);
+    --color-text-inverse: var(--color-inverse-on-surface);
+
+    /* --- Interactive Elements --- */
+    --color-text-on-primary: var(--color-on-primary);
+    --color-text-on-secondary: var(--color-on-secondary);
+    --color-text-on-tertiary: var(--color-on-tertiary);
+    --color-text-on-error: var(--color-on-error);
+
+    /* --- Background & Surface --- */
+    --color-background: var(--color-background);
+    --color-background-secondary: var(--color-surface);
+    --color-background-tertiary: var(--color-surface-container);
+    --color-background-inverse: var(--color-inverse-surface);
+
+    /* --- Surface Containers (Cards, Panels, Elevated Elements) --- */
+    --color-surface-primary: var(--color-surface-container);
+    --color-surface-secondary: var(--color-surface-container-high);
+    --color-surface-tertiary: var(--color-surface-container-highest);
+    --color-surface-dim: var(--color-surface-dim);
+    --color-surface-bright: var(--color-surface-bright);
+
+    /* --- Interactive States --- */
+    --color-primary-base: var(--color-primary);
+    --color-primary-container: var(--color-primary-container);
+    --color-primary-fixed: var(--color-primary-fixed);
+    --color-primary-fixed-dim: var(--color-primary-fixed-dim);
+
+    --color-secondary-base: var(--color-secondary);
+    --color-secondary-container: var(--color-secondary-container);
+    --color-secondary-fixed: var(--color-secondary-fixed);
+    --color-secondary-fixed-dim: var(--color-secondary-fixed-dim);
+
+    --color-tertiary-base: var(--color-tertiary);
+    --color-tertiary-container: var(--color-tertiary-container);
+    --color-tertiary-fixed: var(--color-tertiary-fixed);
+    --color-tertiary-fixed-dim: var(--color-tertiary-fixed-dim);
+
+    /* --- Feedback & Status Colors --- */
+    --color-error-base: var(--color-error);
+    --color-error-container: var(--color-error-container);
+    --color-error-text: var(--color-on-error-container);
+    --color-success-base: var(--color-primary-base);
+    --color-warning-base: var(--color-secondary-base);
+    --color-info-base: var(--color-tertiary-base);
+
+    /* --- Borders & Dividers --- */
+    --color-border-primary: var(--color-outline);
+    --color-border-secondary: var(--color-outline-variant);
+    --color-divider: var(--color-outline-variant);
+
+    /* --- Special Use Cases --- */
+    --color-tint-surface: var(--color-surface-tint);
+    --color-accent: var(--color-primary-base);
+    --color-accent-secondary: var(--color-secondary-base);
+
+    /* --- UI Component Shortcuts --- */
+    --color-bg: var(--color-background);
+    --color-text: var(--color-on-surface);
+    --color-heading: var(--color-on-surface);
+    --color-meta: var(--color-on-surface-variant);
+    --color-border: var(--color-outline-variant);
+    --color-link: var(--color-primary);
+    --color-icon: var(--color-on-surface-variant);
+
+    --color-pill-bg: var(--color-surface-container);
+    --color-pill-text: var(--color-on-surface-variant);
+    --color-pill-active-bg: var(--color-primary);
+    --color-pill-active-text: var(--color-on-primary);
+
+    --color-featured-bg: var(--color-surface-container-low);
+    --color-footer-bg: var(--color-surface-container-low);
+
+    --color-btn-bg: var(--color-surface-container);
+    --color-btn-text: var(--color-on-surface);
+    --color-btn-hover-bg: var(--color-surface-container-high);
+
+    --font-serif: var(--font-display);
+  }
+}

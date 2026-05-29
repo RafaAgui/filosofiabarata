@@ -1,0 +1,38 @@
+{
+  "name": "rafaelaguilara-blog",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "test": "vitest",
+    "coverage": "vitest run --coverage",
+    "verbose": "vitest --reporter verbose --run",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "dependencies": {
+    "@astrojs/react": "4.0.0",
+    "astro": "^5.18.2",
+    "lucide-astro": "^0.556.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@testing-library/jest-dom": "6.6.3",
+    "@testing-library/react": "16.1.0",
+    "@testing-library/user-event": "14.5.2",
+    "@types/react": "18.3.14",
+    "@types/react-dom": "18.3.2",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.13.0",
+    "jsdom": "25.0.1",
+    "sass": "^1.100.0",
+    "typescript-eslint": "^8.18.1",
+    "vitest": "^2.1.9"
+  }
+}

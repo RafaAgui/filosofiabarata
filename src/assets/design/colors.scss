@@ -1,0 +1,218 @@
+/* ==========================================================================
+   DESIGN TOKENS — Colors (oklch format with Light/Dark Theme Support)
+   Source: DESIGN.md — "The Dialectic"
+   
+   Color System:
+   - Semantic naming (theme-agnostic)
+   - oklch() color space for perceptually uniform colors
+   - Light theme: [data-theme="light"]
+   - Dark theme: [data-theme="dark"]
+   - Fallback: prefers-color-scheme media query
+   ========================================================================== */
+
+/* ============================================================
+   LIGHT THEME (default)
+   ============================================================ */
+:root,
+[data-theme="light"] {
+  /* --- Surface (Cream base) --- */
+  --color-surface: oklch(97.8% 0.003 70);
+  --color-surface-dim: oklch(85.5% 0.008 80);
+  --color-surface-bright: oklch(97.8% 0.003 70);
+  --color-surface-container-lowest: oklch(100% 0 0);
+  --color-surface-container-low: oklch(96.5% 0.004 75);
+  --color-surface-container: oklch(94.8% 0.006 70);
+  --color-surface-container-high: oklch(92.8% 0.008 75);
+  --color-surface-container-highest: oklch(90.5% 0.008 75);
+  --color-surface-variant: oklch(90.5% 0.008 75);
+  --color-surface-tint: oklch(32.5% 0.07 140);
+
+  /* --- On Surface (Dark text/content) --- */
+  --color-on-surface: oklch(11% 0.008 240);
+  --color-on-surface-variant: oklch(26.5% 0.023 155);
+  --color-inverse-surface: oklch(18.5% 0.008 240);
+  --color-inverse-on-surface: oklch(94.5% 0.004 70);
+
+  /* --- Outline --- */
+  --color-outline: oklch(45.5% 0.023 155);
+  --color-outline-variant: oklch(76.5% 0.017 155);
+
+  /* --- Primary (Sage Green) --- */
+  --color-primary: oklch(31% 0.075 155);
+  --color-on-primary: oklch(100% 0 0);
+  --color-primary-container: oklch(37.5% 0.065 155);
+  --color-on-primary-container: oklch(75.5% 0.055 150);
+  --color-inverse-primary: oklch(71.5% 0.055 155);
+  --color-primary-fixed: oklch(83% 0.045 155);
+  --color-primary-fixed-dim: oklch(71.5% 0.055 155);
+  --color-on-primary-fixed: oklch(5.5% 0.008 150);
+  --color-on-primary-fixed-variant: oklch(22.5% 0.045 155);
+
+  /* --- Secondary (Terracotta) --- */
+  --color-secondary: oklch(42% 0.15 35);
+  --color-on-secondary: oklch(100% 0 0);
+  --color-secondary-container: oklch(78.5% 0.17 45);
+  --color-on-secondary-container: oklch(34% 0.095 30);
+  --color-secondary-fixed: oklch(88.5% 0.11 40);
+  --color-secondary-fixed-dim: oklch(78.5% 0.17 45);
+  --color-on-secondary-fixed: oklch(9% 0.02 20);
+  --color-on-secondary-fixed-variant: oklch(45% 0.12 35);
+
+  /* --- Tertiary (Mauve/Brown) --- */
+  --color-tertiary: oklch(32% 0.05 5);
+  --color-on-tertiary: oklch(100% 0 0);
+  --color-tertiary-container: oklch(43% 0.05 10);
+  --color-on-tertiary-container: oklch(93% 0.015 5);
+  --color-tertiary-fixed: oklch(86.5% 0.065 355);
+  --color-tertiary-fixed-dim: oklch(78.5% 0.08 355);
+  --color-on-tertiary-fixed: oklch(16% 0.02 355);
+  --color-on-tertiary-fixed-variant: oklch(35.5% 0.05 10);
+
+  /* --- Error --- */
+  --color-error: oklch(45% 0.25 30);
+  --color-on-error: oklch(100% 0 0);
+  --color-error-container: oklch(92.5% 0.13 30);
+  --color-on-error-container: oklch(27% 0.2 30);
+
+  /* --- Background --- */
+  --color-background: oklch(97.8% 0.003 70);
+  --color-on-background: oklch(11% 0.008 240);
+}
+
+/* ============================================================
+   DARK THEME
+   ============================================================ */
+[data-theme="dark"] {
+  /* --- Surface (Dark base) --- */
+  --color-surface: oklch(18.5% 0.008 240);
+  --color-surface-dim: oklch(12.5% 0.008 240);
+  --color-surface-bright: oklch(25% 0.01 240);
+  --color-surface-container-lowest: oklch(9% 0.005 240);
+  --color-surface-container-low: oklch(15.5% 0.008 240);
+  --color-surface-container: oklch(17.5% 0.008 240);
+  --color-surface-container-high: oklch(23.5% 0.01 240);
+  --color-surface-container-highest: oklch(28.5% 0.015 240);
+  --color-surface-variant: oklch(29.5% 0.015 240);
+  --color-surface-tint: oklch(71.5% 0.055 155);
+
+  /* --- On Surface (Light text/content) --- */
+  --color-on-surface: oklch(94.5% 0.004 70);
+  --color-on-surface-variant: oklch(79.5% 0.015 155);
+  --color-inverse-surface: oklch(97.8% 0.003 70);
+  --color-inverse-on-surface: oklch(11% 0.008 240);
+
+  /* --- Outline --- */
+  --color-outline: oklch(60.5% 0.015 155);
+  --color-outline-variant: oklch(35.5% 0.01 240);
+
+  /* --- Primary (Sage Green - adjusted for dark) --- */
+  --color-primary: oklch(71.5% 0.055 155);
+  --color-on-primary: oklch(11% 0.008 240);
+  --color-primary-container: oklch(47.5% 0.06 155);
+  --color-on-primary-container: oklch(83% 0.045 155);
+  --color-inverse-primary: oklch(31% 0.075 155);
+  --color-primary-fixed: oklch(83% 0.045 155);
+  --color-primary-fixed-dim: oklch(71.5% 0.055 155);
+  --color-on-primary-fixed: oklch(5.5% 0.008 150);
+  --color-on-primary-fixed-variant: oklch(47.5% 0.06 155);
+
+  /* --- Secondary (Terracotta - adjusted for dark) --- */
+  --color-secondary: oklch(78.5% 0.17 45);
+  --color-on-secondary: oklch(20% 0.08 35);
+  --color-secondary-container: oklch(55% 0.15 35);
+  --color-on-secondary-container: oklch(88.5% 0.11 40);
+  --color-secondary-fixed: oklch(88.5% 0.11 40);
+  --color-secondary-fixed-dim: oklch(78.5% 0.17 45);
+  --color-on-secondary-fixed: oklch(9% 0.02 20);
+  --color-on-secondary-fixed-variant: oklch(55% 0.15 35);
+
+  /* --- Tertiary (Mauve/Brown - adjusted for dark) --- */
+  --color-tertiary: oklch(78.5% 0.08 355);
+  --color-on-tertiary: oklch(16% 0.02 355);
+  --color-tertiary-container: oklch(56% 0.07 10);
+  --color-on-tertiary-container: oklch(86.5% 0.065 355);
+  --color-tertiary-fixed: oklch(86.5% 0.065 355);
+  --color-tertiary-fixed-dim: oklch(78.5% 0.08 355);
+  --color-on-tertiary-fixed: oklch(16% 0.02 355);
+  --color-on-tertiary-fixed-variant: oklch(56% 0.07 10);
+
+  /* --- Error (adjusted for dark) --- */
+  --color-error: oklch(75% 0.22 30);
+  --color-on-error: oklch(15% 0.15 30);
+  --color-error-container: oklch(56% 0.22 30);
+  --color-on-error-container: oklch(92.5% 0.13 30);
+
+  /* --- Background --- */
+  --color-background: oklch(18.5% 0.008 240);
+  --color-on-background: oklch(94.5% 0.004 70);
+}
+
+/* ============================================================
+   Media Query Fallback (prefers-color-scheme)
+   ============================================================ */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    /* --- Surface (Dark base) --- */
+    --color-surface: oklch(18.5% 0.008 240);
+    --color-surface-dim: oklch(12.5% 0.008 240);
+    --color-surface-bright: oklch(25% 0.01 240);
+    --color-surface-container-lowest: oklch(9% 0.005 240);
+    --color-surface-container-low: oklch(15.5% 0.008 240);
+    --color-surface-container: oklch(17.5% 0.008 240);
+    --color-surface-container-high: oklch(23.5% 0.01 240);
+    --color-surface-container-highest: oklch(28.5% 0.015 240);
+    --color-surface-variant: oklch(29.5% 0.015 240);
+    --color-surface-tint: oklch(71.5% 0.055 155);
+
+    /* --- On Surface (Light text/content) --- */
+    --color-on-surface: oklch(94.5% 0.004 70);
+    --color-on-surface-variant: oklch(79.5% 0.015 155);
+    --color-inverse-surface: oklch(97.8% 0.003 70);
+    --color-inverse-on-surface: oklch(11% 0.008 240);
+
+    /* --- Outline --- */
+    --color-outline: oklch(60.5% 0.015 155);
+    --color-outline-variant: oklch(35.5% 0.01 240);
+
+    /* --- Primary (Sage Green - adjusted for dark) --- */
+    --color-primary: oklch(71.5% 0.055 155);
+    --color-on-primary: oklch(11% 0.008 240);
+    --color-primary-container: oklch(47.5% 0.06 155);
+    --color-on-primary-container: oklch(83% 0.045 155);
+    --color-inverse-primary: oklch(31% 0.075 155);
+    --color-primary-fixed: oklch(83% 0.045 155);
+    --color-primary-fixed-dim: oklch(71.5% 0.055 155);
+    --color-on-primary-fixed: oklch(5.5% 0.008 150);
+    --color-on-primary-fixed-variant: oklch(47.5% 0.06 155);
+
+    /* --- Secondary (Terracotta - adjusted for dark) --- */
+    --color-secondary: oklch(78.5% 0.17 45);
+    --color-on-secondary: oklch(20% 0.08 35);
+    --color-secondary-container: oklch(55% 0.15 35);
+    --color-on-secondary-container: oklch(88.5% 0.11 40);
+    --color-secondary-fixed: oklch(88.5% 0.11 40);
+    --color-secondary-fixed-dim: oklch(78.5% 0.17 45);
+    --color-on-secondary-fixed: oklch(9% 0.02 20);
+    --color-on-secondary-fixed-variant: oklch(55% 0.15 35);
+
+    /* --- Tertiary (Mauve/Brown - adjusted for dark) --- */
+    --color-tertiary: oklch(78.5% 0.08 355);
+    --color-on-tertiary: oklch(16% 0.02 355);
+    --color-tertiary-container: oklch(56% 0.07 10);
+    --color-on-tertiary-container: oklch(86.5% 0.065 355);
+    --color-tertiary-fixed: oklch(86.5% 0.065 355);
+    --color-tertiary-fixed-dim: oklch(78.5% 0.08 355);
+    --color-on-tertiary-fixed: oklch(16% 0.02 355);
+    --color-on-tertiary-fixed-variant: oklch(56% 0.07 10);
+
+    /* --- Error (adjusted for dark) --- */
+    --color-error: oklch(75% 0.22 30);
+    --color-on-error: oklch(15% 0.15 30);
+    --color-error-container: oklch(56% 0.22 30);
+    --color-on-error-container: oklch(92.5% 0.13 30);
+
+    /* --- Background --- */
+    --color-background: oklch(18.5% 0.008 240);
+    --color-on-background: oklch(94.5% 0.004 70);
+  }
+}

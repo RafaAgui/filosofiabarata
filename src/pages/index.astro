@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Filosofiabarata from './Filosofiabarata.astro';
+
+/* environment vars */
+const isProd = import.meta.env.PROD;
+const isDev = import.meta.env.DEV;
+const content = import.meta.env.foo ? import.meta.env.foo : 'var not found';
+
+
+---
+
+<Layout>
+	<Filosofiabarata />
+</Layout>

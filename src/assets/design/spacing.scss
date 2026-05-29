@@ -1,0 +1,16 @@
+/* ==========================================================================
+   DESIGN TOKENS — Spacing
+   Source: DESIGN.md — "The Dialectic"
+   ========================================================================== */
+
+:root {
+  /* --- Layout --- */
+  --spacing-container-max: 800px;
+  --spacing-section-gap: 5rem;
+  --spacing-element-gap: 1.5rem;
+  --spacing-gutter: 1.5rem;
+
+  /* --- Margins --- */
+  --spacing-margin-mobile: 1.25rem;
+  --spacing-margin-desktop: 2.5rem;
+}

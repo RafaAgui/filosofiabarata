@@ -1,0 +1,123 @@
+@use '../variables';
+
+.header {
+  background-color: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* ---- Top bar ---- */
+
+.header__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem var(--spacing-margin-mobile);
+}
+
+.header__title {
+  font-family: var(--font-display);
+  font-size: var(--type-headline-sm-font-size);
+  font-weight: var(--type-headline-sm-font-weight);
+  color: var(--color-heading);
+  margin: 0;
+}
+
+.header__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem;
+  color: var(--color-icon);
+}
+
+.header__btn--menu {
+}
+
+.header__btn--search {
+}
+
+/* ---- Desktop nav (inside header__top) ---- */
+
+.header__nav {
+  display: none;
+}
+
+.header__nav-list {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header__nav-link {
+  font-family: var(--font-ui);
+  font-size: var(--type-label-md-font-size);
+  font-weight: var(--type-label-md-font-weight);
+  letter-spacing: var(--type-label-md-letter-spacing);
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.header__nav-link--active {
+  color: var(--color-text-primary);
+}
+
+/* ---- Mobile drawer ---- */
+
+.header__drawer {
+  display: none;
+  border-top: 1px solid var(--color-border);
+  padding: 0.5rem var(--spacing-margin-mobile) 1rem;
+}
+
+.header__drawer--open {
+  display: block;
+}
+
+.header__drawer-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.header__drawer-link {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: var(--type-label-md-font-size);
+  font-weight: var(--type-label-md-font-weight);
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* ---- Desktop layout ---- */
+
+@media (min-width: 768px) {
+  .header__top {
+    justify-content: flex-start;
+    gap: 0;
+    padding: 1rem var(--spacing-margin-desktop);
+  }
+
+  .header__btn--menu {
+    display: none;
+  }
+
+  .header__nav {
+    display: block;
+    margin-left: auto;
+    margin-right: var(--spacing-element-gap);
+  }
+
+  .header__drawer {
+    display: none !important;
+  }
+}

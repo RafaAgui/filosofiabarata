@@ -1,0 +1,44 @@
+name: Deploy Astro
+
+on:
+  workflow_dispatch: # Permite ejecutar manualmente el workflow
+
+jobs:
+  deploy:
+    name: Deploy to Cloudflare Workers
+    runs-on: ubuntu-latest
+    # Especificamos el environment con la variable CLOUDFLARE_API_TOKEN
+    environment: cloudfare
+
+    steps:
+      # 1. Clonamos el repo
+      - name: Checkout the code
+        uses: actions/checkout@v4
+
+      # 2. Instalamos Node
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18.x'
+
+      # 3. Dependencias
+      - name: Install dependencies
+        run: npm install
+
+      # 4. Construimos el proyecto
+      - name: Build Astro project
+        run: npm run build
+
+      # 5. Instalamos Wrangler CLI
+      #- name: Install Wrangler
+        #run: npm install -g wrangler
+
+      # 6. Desplegamos con Wrangler
+      - name: Deploy
+        run: npx wrangler pages deploy ./dist
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+
+      # run: wrangler pages deploy ./dist
+      #  env:
+      #   CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}

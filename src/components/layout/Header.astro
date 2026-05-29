@@ -1,0 +1,40 @@
+---
+  import Menu from 'lucide-astro/Menu';
+  import Search from 'lucide-astro/Search';
+  import '../../assets/components/Header.scss';
+---
+
+<header class="header">
+  <div class="header__top">
+    <button class="header__btn header__btn--menu" aria-label="Abrir menú">
+      <Menu size="24" />
+    </button>
+    <h2 class="header__title">La filosofía barata</h2>
+    <nav class="header__nav">
+      <ul class="header__nav-list">
+        <li><a href="#" class="header__nav-link">Essays</a></li>
+        <li><a href="#" class="header__nav-link">Categories</a></li>
+        <li><a href="#" class="header__nav-link">About</a></li>
+      </ul>
+    </nav>
+    <button class="header__btn header__btn--search" aria-label="Buscar">
+      <Search size="24" />
+    </button>
+  </div>
+
+  <div class="header__drawer" id="header-drawer">
+    <ul class="header__drawer-list">
+      <li><a href="#" class="header__drawer-link">Essays</a></li>
+      <li><a href="#" class="header__drawer-link">Categories</a></li>
+      <li><a href="#" class="header__drawer-link">About</a></li>
+    </ul>
+  </div>
+</header>
+
+<script>
+  const menuBtn = document.querySelector('.header__btn--menu');
+  const drawer = document.getElementById('header-drawer');
+  menuBtn?.addEventListener('click', () => {
+    drawer?.classList.toggle('header__drawer--open');
+  });
+</script>

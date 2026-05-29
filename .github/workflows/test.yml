@@ -1,0 +1,54 @@
+# .github/workflows/test.yml
+
+######################################
+# Pipeline para solicitar MRs #
+######################################
+
+name: Run Tests
+
+on:
+  pull_request:
+    # Se ejecuta al pedirlos y al actualizarlos
+    types: [opened, synchronize]
+    # Sobre estos branches
+    branches:
+      - 'main'
+      - 'releases'
+      - '!develop' #lo excluimos específicamente
+
+# Evitamos que se pueda lanzar dos veces al mismo tiempo
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  # Inspecciona los mensajes de los commits
+  check-commit-messages:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Clonamos el repo
+      - name: Checkout the code
+        uses: actions/checkout@v4
+
+      # 2. Instalamos Node
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18.x'
+
+      # 3. Dependencias
+      - name: Install dependencies
+        run: npm install
+
+      # 4. Linter
+      - name: Linter
+        run: |
+          echo "🚀 start linter"
+          npm run lint
+
+      # 5. Corremos los tests
+      - name: Unit Tests
+        run: |
+          echo "🚀 start tests"
+          npm run test

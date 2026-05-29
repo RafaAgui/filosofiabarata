@@ -1,0 +1,39 @@
+---
+import { getCollection, render } from "astro:content";
+import Layout  from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const filosofiabarata = await getCollection('filosofiabarata');
+  return filosofiabarata.map(filosofiabarata => ({
+    params: { id: filosofiabarata.id.replace(/\.md$/, '') },
+    props: { filosofiabarata },
+  }));
+}
+
+const { filosofiabarata } = Astro.props;
+const { data } = filosofiabarata;
+const { date, descripcion, title, etiquetas } = data;
+
+const { Content } = await render(filosofiabarata);
+
+console.log(filosofiabarata);
+---
+
+<Layout>
+  <section class="section">
+      <div class="content">
+        <Content />
+      </div>
+      <p>date: {date}</p>
+      <p>etiquetas: {etiquetas}</p>
+  </section>
+</>
+
+<style>
+  .section {
+
+  }
+  .section-img{
+    max-width: 300px;
+  }
+</style>

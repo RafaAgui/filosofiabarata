@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 
 const { filosofiabarata } = Astro.props;
 const { data } = filosofiabarata;
-const { date, descripcion, title, etiquetas } = data;
+const { date, description, title, etiquetas } = data;
 
 const { Content } = await render(filosofiabarata);
 

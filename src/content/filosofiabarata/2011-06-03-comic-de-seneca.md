@@ -1,6 +1,6 @@
 ---
 title: "Cómic de Séneca"
-descripcion: "Viñeta filosófica sobre Séneca y su pensamiento estoico acerca de los vicios y las pasiones como obstáculos para alcanzar la virtud y la tranquilidad del alma."
+description: "Viñeta filosófica sobre Séneca y su pensamiento estoico acerca de los vicios y las pasiones como obstáculos para alcanzar la virtud y la tranquilidad del alma."
 date: 2011-06-03
 url: https://lafilosofiabarata.wordpress.com/2011/06/03/comic-de-seneca/
 tipo: entrada

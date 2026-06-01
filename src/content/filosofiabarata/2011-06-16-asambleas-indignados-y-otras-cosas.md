@@ -1,6 +1,6 @@
 ---
 title: "Asambleas, indignados y otras cosas"
-descripcion: "Reflexión un mes después del 15M sobre la necesidad de pasar de la protesta a la acción constructiva, proponiendo alternativas concretas como bancos de tiempo y comercio sin intermediarios en el ámbito local."
+description: "Reflexión un mes después del 15M sobre la necesidad de pasar de la protesta a la acción constructiva, proponiendo alternativas concretas como bancos de tiempo y comercio sin intermediarios en el ámbito local."
 date: 2011-06-16
 url: https://lafilosofiabarata.wordpress.com/2011/06/16/asambleas-indignados-y-otras-cosas/
 tipo: entrada

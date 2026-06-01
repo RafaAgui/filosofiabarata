@@ -1,6 +1,6 @@
 ---
 title: "Sobre la identidad"
-descripcion: "Reflexión sobre la identidad individual frente a la grupal, mostrando cómo la pertenencia a un grupo puede alienar al individuo y hacerle actuar contra sus propios valores personales."
+description: "Reflexión sobre la identidad individual frente a la grupal, mostrando cómo la pertenencia a un grupo puede alienar al individuo y hacerle actuar contra sus propios valores personales."
 date: 2013-03-03
 url: https://lafilosofiabarata.wordpress.com/2013/03/03/sobre-la-identidad/
 tipo: entrada

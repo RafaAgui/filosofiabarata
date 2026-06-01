@@ -1,6 +1,6 @@
 ---
 title: "Derecho y libertad"
-descripcion: "Exposición de la tesis de Schiller sobre la necesidad de una educación estética como condición previa para alcanzar un estado de derecho y libertad en que los individuos sean capaces de darse y obedecer la ley."
+description: "Exposición de la tesis de Schiller sobre la necesidad de una educación estética como condición previa para alcanzar un estado de derecho y libertad en que los individuos sean capaces de darse y obedecer la ley."
 date: 2010-12-27
 url: https://lafilosofiabarata.wordpress.com/2010/12/27/derecho-y-libertad/
 tipo: entrada

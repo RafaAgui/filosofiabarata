@@ -1,6 +1,6 @@
 ---
 title: "El abandono de la técnica IV"
-descripcion: "Cuarta parte: Han describe al homo digitalis que solo teclea y ya no actúa, viviendo en la sociedad del rendimiento donde los dispositivos digitales crean una nueva esclavitud invisible pero más eficiente que la industrial."
+description: "Cuarta parte: Han describe al homo digitalis que solo teclea y ya no actúa, viviendo en la sociedad del rendimiento donde los dispositivos digitales crean una nueva esclavitud invisible pero más eficiente que la industrial."
 date: 2020-05-11
 url: https://lafilosofiabarata.wordpress.com/2020/05/11/el-abandono-de-la-tecnica-iv/
 tipo: entrada

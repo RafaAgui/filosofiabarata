@@ -1,6 +1,6 @@
 ---
 title: "Tabú y la banalidad del mal"
-descripcion: "Análisis del programa Tabú de Jon Sistiaga sobre el mal, destacando que la mayoría de los psicópatas ocupan puestos directivos y cuestionando la teoría de la banalidad del mal de Hannah Arendt como insuficiente."
+description: "Análisis del programa Tabú de Jon Sistiaga sobre el mal, destacando que la mayoría de los psicópatas ocupan puestos directivos y cuestionando la teoría de la banalidad del mal de Hannah Arendt como insuficiente."
 date: 2017-11-29
 url: https://lafilosofiabarata.wordpress.com/2017/11/29/tabu-y-la-banalidad-del-mal/
 tipo: entrada

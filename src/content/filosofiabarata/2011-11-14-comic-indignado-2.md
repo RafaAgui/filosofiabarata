@@ -1,6 +1,6 @@
 ---
 title: "Cómic indignado 2"
-descripcion: "Segunda viñeta de la serie sobre la indignación ciudadana, presentando al visionario que anticipa los cambios necesarios frente al conformismo generalizado."
+description: "Segunda viñeta de la serie sobre la indignación ciudadana, presentando al visionario que anticipa los cambios necesarios frente al conformismo generalizado."
 date: 2011-11-14
 url: https://lafilosofiabarata.wordpress.com/2011/11/14/comic-indignado-2/
 tipo: entrada

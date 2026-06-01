@@ -1,6 +1,6 @@
 ---
 title: "Leviatán II"
-descripcion: "Análisis del pensamiento de Hobbes sobre la necesidad de un estado absolutista para controlar la naturaleza egoísta del hombre, con referencias al colapso del sistema financiero como ejemplo actual."
+description: "Análisis del pensamiento de Hobbes sobre la necesidad de un estado absolutista para controlar la naturaleza egoísta del hombre, con referencias al colapso del sistema financiero como ejemplo actual."
 date: 2010-03-12
 url: https://lafilosofiabarata.wordpress.com/2010/03/12/leviatan-ii/
 tipo: entrada

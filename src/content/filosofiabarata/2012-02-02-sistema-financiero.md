@@ -1,6 +1,6 @@
 ---
 title: "Sistema Financiero"
-descripcion: "Viñeta cómica sobre el sistema financiero y sus contradicciones, en el contexto del movimiento de indignados y la crisis económica."
+description: "Viñeta cómica sobre el sistema financiero y sus contradicciones, en el contexto del movimiento de indignados y la crisis económica."
 date: 2012-02-02
 url: https://lafilosofiabarata.wordpress.com/2012/02/02/sistema-financiero/
 tipo: entrada

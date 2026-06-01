@@ -1,6 +1,6 @@
 ---
 title: "Consideraciones éticas sobre el libro electrónico II"
-descripcion: "Segunda parte sobre el libro electrónico: explica los distintos tipos de licencias (propietaria, Creative Commons, dominio público) y defiende la funcionalidad abierta como alternativa ética a los sistemas cerrados."
+description: "Segunda parte sobre el libro electrónico: explica los distintos tipos de licencias (propietaria, Creative Commons, dominio público) y defiende la funcionalidad abierta como alternativa ética a los sistemas cerrados."
 date: 2020-07-01
 url: https://lafilosofiabarata.wordpress.com/2020/07/01/consideraciones-eticas-sobre-el-libro-electronico-ii/
 tipo: entrada

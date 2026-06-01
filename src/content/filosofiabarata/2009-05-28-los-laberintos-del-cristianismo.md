@@ -1,6 +1,6 @@
 ---
 title: "Los laberintos del cristianismo"
-descripcion: "Reflexión sobre cómo el cristianismo se apropió de la mitología pagana, ilustrada con un texto de San Jerónimo que muestra la adopción de ritos y símbolos griegos como estrategia de expansión religiosa."
+description: "Reflexión sobre cómo el cristianismo se apropió de la mitología pagana, ilustrada con un texto de San Jerónimo que muestra la adopción de ritos y símbolos griegos como estrategia de expansión religiosa."
 date: 2009-05-28
 url: https://lafilosofiabarata.wordpress.com/2009/05/28/los-laberintos-del-cristianismo/
 tipo: entrada

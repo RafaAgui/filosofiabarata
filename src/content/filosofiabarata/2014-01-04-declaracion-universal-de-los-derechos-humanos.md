@@ -1,6 +1,6 @@
 ---
 title: "Declaración universal de los derechos humanos"
-descripcion: "Transcripción del Artículo 2 de la Declaración Universal de Derechos Humanos, que proclama la igualdad de derechos para todas las personas sin distinción de raza, sexo, religión u origen."
+description: "Transcripción del Artículo 2 de la Declaración Universal de Derechos Humanos, que proclama la igualdad de derechos para todas las personas sin distinción de raza, sexo, religión u origen."
 date: 2014-01-04
 url: https://lafilosofiabarata.wordpress.com/2014/01/04/declaracion-universal-de-los-derechos-humanos/
 tipo: entrada

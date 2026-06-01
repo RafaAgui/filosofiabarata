@@ -1,6 +1,6 @@
 ---
 title: "Rouseau y el buen salvaje"
-descripcion: "Explicación del concepto rousseauniano del buen salvaje como crítica a la sociedad competitiva occidental, aclarando que no propone regresar al estado natural sino superar el orden social injusto actual."
+description: "Explicación del concepto rousseauniano del buen salvaje como crítica a la sociedad competitiva occidental, aclarando que no propone regresar al estado natural sino superar el orden social injusto actual."
 date: 2019-06-05
 url: https://lafilosofiabarata.wordpress.com/2019/06/05/rouseaau-y-el-buen-salvaje/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "Craven y la identidad"
-descripcion: "Viñeta en la que el personaje Craven reflexiona sobre la identidad y el libro Nada es lo que es de Daniel Tubau, explorando el problema filosófico de lo que somos realmente."
+description: "Viñeta en la que el personaje Craven reflexiona sobre la identidad y el libro Nada es lo que es de Daniel Tubau, explorando el problema filosófico de lo que somos realmente."
 date: 2013-07-24
 url: https://lafilosofiabarata.wordpress.com/2013/07/24/craven-y-la-identidad/
 tipo: entrada

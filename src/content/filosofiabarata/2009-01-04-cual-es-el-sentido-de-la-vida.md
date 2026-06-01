@@ -1,6 +1,6 @@
 ---
 title: "¿Cuál es el sentido de la vida?"
-descripcion: "Cita del monólogo final del replicante Roy Batty en Blade Runner, reflexionando sobre la fugacidad de la existencia y la muerte como umbral de la experiencia vivida."
+description: "Cita del monólogo final del replicante Roy Batty en Blade Runner, reflexionando sobre la fugacidad de la existencia y la muerte como umbral de la experiencia vivida."
 date: 2009-01-04
 url: https://lafilosofiabarata.wordpress.com/2009/01/04/cual-es-el-sentido-de-la-vida/
 tipo: entrada

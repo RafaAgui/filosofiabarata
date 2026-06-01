@@ -1,6 +1,6 @@
 ---
 title: "Pitágoras en Crotona"
-descripcion: "Cita del segundo discurso de Pitágoras a los gobernantes de Crotona, en la que les instaba a considerar la patria como un depósito común recibido de todos los ciudadanos."
+description: "Cita del segundo discurso de Pitágoras a los gobernantes de Crotona, en la que les instaba a considerar la patria como un depósito común recibido de todos los ciudadanos."
 date: 2011-10-10
 url: https://lafilosofiabarata.wordpress.com/2011/10/10/pitagoras-en-crotona/
 tipo: entrada

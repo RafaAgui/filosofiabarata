@@ -1,6 +1,6 @@
 ---
 title: "El gabinete del Dr. Caligari"
-descripcion: "Análisis filosófico de la película El gabinete del Dr. Caligari explorando el problema de la identidad y la realidad distorsionada, en paralelo con el genio maligno cartesiano que nos muestra una realidad falsa."
+description: "Análisis filosófico de la película El gabinete del Dr. Caligari explorando el problema de la identidad y la realidad distorsionada, en paralelo con el genio maligno cartesiano que nos muestra una realidad falsa."
 date: 2013-03-17
 url: https://lafilosofiabarata.wordpress.com/2013/03/17/el-gabinete-del-dr-caligari/
 tipo: entrada

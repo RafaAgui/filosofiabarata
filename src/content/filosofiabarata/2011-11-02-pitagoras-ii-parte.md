@@ -1,6 +1,6 @@
 ---
 title: "Pitágoras II Parte"
-descripcion: "Segunda parte sobre Pitágoras que explora la leyenda de su descenso al Hades, comparándola con mitos similares de Jesucristo y Gilgamesh, como viaje iniciático universal a los infiernos."
+description: "Segunda parte sobre Pitágoras que explora la leyenda de su descenso al Hades, comparándola con mitos similares de Jesucristo y Gilgamesh, como viaje iniciático universal a los infiernos."
 date: 2011-11-02
 url: https://lafilosofiabarata.wordpress.com/2011/11/02/pitagoras-ii-parte/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "El placer por el trabajo y William Morris"
-descripcion: "Exposición del ideal de William Morris de trabajar por placer mediante la artesanía bella, y cómo el diseño al servicio del capitalismo pervirtió esa idea creando obsolescencia programada y moda efímera."
+description: "Exposición del ideal de William Morris de trabajar por placer mediante la artesanía bella, y cómo el diseño al servicio del capitalismo pervirtió esa idea creando obsolescencia programada y moda efímera."
 date: 2018-01-10
 url: https://lafilosofiabarata.wordpress.com/2018/01/10/el-placer-por-el-trabajo-y-william-morris/
 tipo: entrada

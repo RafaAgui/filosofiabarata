@@ -1,6 +1,6 @@
 ---
 title: "Sobre la memoria"
-descripcion: "Breve cita humorística de la película Evelyn sobre la paradoja de olvidar beber como peor mal que beber para olvidar."
+description: "Breve cita humorística de la película Evelyn sobre la paradoja de olvidar beber como peor mal que beber para olvidar."
 date: 2010-04-10
 url: https://lafilosofiabarata.wordpress.com/2010/04/10/sobre-la-memoria/
 tipo: entrada

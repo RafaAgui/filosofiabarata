@@ -1,6 +1,6 @@
 ---
 title: "Filosofía con el 15M"
-descripcion: "Manifiesto de profesores y estudiantes de Filosofía en apoyo al movimiento 15M, denunciando la desinformación mediática y reivindicando la dimensión sociopolítica y democrática del fenómeno."
+description: "Manifiesto de profesores y estudiantes de Filosofía en apoyo al movimiento 15M, denunciando la desinformación mediática y reivindicando la dimensión sociopolítica y democrática del fenómeno."
 date: 2011-07-02
 url: https://lafilosofiabarata.wordpress.com/2011/07/02/filosofia-con-el-15m/
 tipo: entrada

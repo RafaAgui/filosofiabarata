@@ -1,6 +1,6 @@
 ---
 title: "El abandono de la técnica II"
-descripcion: "Segunda parte sobre el abandono de la técnica: Ortega muestra cómo los avances tecnológicos ocultan la naturaleza primaria y nos hacen olvidar que fueron creados, conectando con el concepto de enjambre de Byung-Chul Han."
+description: "Segunda parte sobre el abandono de la técnica: Ortega muestra cómo los avances tecnológicos ocultan la naturaleza primaria y nos hacen olvidar que fueron creados, conectando con el concepto de enjambre de Byung-Chul Han."
 date: 2020-04-24
 url: https://lafilosofiabarata.wordpress.com/2020/04/24/el-abandono-de-la-tecnica-ii/
 tipo: entrada

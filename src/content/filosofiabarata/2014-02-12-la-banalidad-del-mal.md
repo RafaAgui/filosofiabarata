@@ -1,6 +1,6 @@
 ---
 title: "La banalidad del mal"
-descripcion: "Viñeta sobre el concepto de la banalidad del mal de Hannah Arendt, acuñado al cubrir el juicio de Adolf Eichmann, mostrando cómo personas ordinarias pueden ejecutar el mal sin aparente conciencia moral."
+description: "Viñeta sobre el concepto de la banalidad del mal de Hannah Arendt, acuñado al cubrir el juicio de Adolf Eichmann, mostrando cómo personas ordinarias pueden ejecutar el mal sin aparente conciencia moral."
 date: 2014-02-12
 url: https://lafilosofiabarata.wordpress.com/2014/02/12/la-banalidad-del-mal/
 tipo: entrada

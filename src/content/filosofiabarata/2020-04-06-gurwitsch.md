@@ -1,6 +1,6 @@
 ---
 title: "Gurwitsch"
-descripcion: "Viñeta de la serie Filosofía de Barra sobre el filósofo lituano Gurwitsch, que vivió la II Guerra Mundial y el auge de los totalitarismos y escribió sobre el nihilismo occidental."
+description: "Viñeta de la serie Filosofía de Barra sobre el filósofo lituano Gurwitsch, que vivió la II Guerra Mundial y el auge de los totalitarismos y escribió sobre el nihilismo occidental."
 date: 2020-04-06
 url: https://lafilosofiabarata.wordpress.com/2020/04/06/gurwitsch/
 tipo: entrada

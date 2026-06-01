@@ -1,6 +1,6 @@
 ---
 title: "Cómic indignado"
-descripcion: "Viñeta cómica sobre la indignación ciudadana ante las injusticias del sistema político y económico, en el contexto del movimiento social que eclosionaría con el 15M."
+description: "Viñeta cómica sobre la indignación ciudadana ante las injusticias del sistema político y económico, en el contexto del movimiento social que eclosionaría con el 15M."
 date: 2011-04-25
 url: https://lafilosofiabarata.wordpress.com/2011/04/25/comic-indignado/
 tipo: entrada

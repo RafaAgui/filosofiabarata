@@ -1,6 +1,6 @@
 ---
 title: "Cita de Descartes"
-descripcion: "Cita de René Descartes sobre la necesidad de la filosofía para vivir con los ojos abiertos, afirmando que vivir sin filosofar equivale a renunciar a la reflexión crítica."
+description: "Cita de René Descartes sobre la necesidad de la filosofía para vivir con los ojos abiertos, afirmando que vivir sin filosofar equivale a renunciar a la reflexión crítica."
 date: 2010-01-11
 url: https://lafilosofiabarata.wordpress.com/2010/01/11/cita-de-descartes/
 tipo: entrada

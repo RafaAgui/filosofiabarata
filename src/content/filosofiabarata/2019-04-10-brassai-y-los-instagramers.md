@@ -1,6 +1,6 @@
 ---
 title: "Brassai y los instagramers"
-descripcion: "Defensa de la fotografía artística de Brassaï frente a la fotografía narcisista de los instagramers, argumentando que el fotógrafo húngaro retrató el alma de París mientras los selfies de hoy son vacíos y efímeros."
+description: "Defensa de la fotografía artística de Brassaï frente a la fotografía narcisista de los instagramers, argumentando que el fotógrafo húngaro retrató el alma de París mientras los selfies de hoy son vacíos y efímeros."
 date: 2019-04-10
 url: https://lafilosofiabarata.wordpress.com/2019/04/10/brassai-y-los-instagramers/
 tipo: entrada

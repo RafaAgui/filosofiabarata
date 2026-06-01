@@ -1,6 +1,6 @@
 ---
 title: "El abandono de la técnica I"
-descripcion: "Primera parte sobre el abandono de la técnica: Ortega y Gasset advertía que la hipercomunicación nos impide ensimismarnos, perdiendo la capacidad de inventar y humanizar el mundo como hacía el homo faber."
+description: "Primera parte sobre el abandono de la técnica: Ortega y Gasset advertía que la hipercomunicación nos impide ensimismarnos, perdiendo la capacidad de inventar y humanizar el mundo como hacía el homo faber."
 date: 2020-04-13
 url: https://lafilosofiabarata.wordpress.com/2020/04/13/el-abandono-de-la-tecnica-i/
 tipo: entrada

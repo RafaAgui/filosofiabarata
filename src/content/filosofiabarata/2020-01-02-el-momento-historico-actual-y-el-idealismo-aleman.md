@@ -1,6 +1,6 @@
 ---
 title: "El momento histórico actual y el idealismo aleman"
-descripcion: "Conclusión de la serie sobre el idealismo alemán: ni Fichte ni Schiller lograron sus utopías y hoy vivimos en un nihilismo caracterizado por guerras constantes y la pérdida de la racionalidad y los valores humanos."
+description: "Conclusión de la serie sobre el idealismo alemán: ni Fichte ni Schiller lograron sus utopías y hoy vivimos en un nihilismo caracterizado por guerras constantes y la pérdida de la racionalidad y los valores humanos."
 date: 2020-01-02
 url: https://lafilosofiabarata.wordpress.com/2020/01/02/el-momento-historico-actual-y-el-idealismo-aleman/
 tipo: entrada

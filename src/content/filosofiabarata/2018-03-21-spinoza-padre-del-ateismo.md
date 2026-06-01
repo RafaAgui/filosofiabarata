@@ -1,6 +1,6 @@
 ---
 title: "Spinoza, padre del ateísmo"
-descripcion: "Análisis del panteísmo de Spinoza y si realmente puede considerarse el padre del ateísmo occidental, concluyendo que su concepto racional y universal de Dios es más innovador que ateo."
+description: "Análisis del panteísmo de Spinoza y si realmente puede considerarse el padre del ateísmo occidental, concluyendo que su concepto racional y universal de Dios es más innovador que ateo."
 date: 2018-03-21
 url: https://lafilosofiabarata.wordpress.com/2018/03/21/spinoza-padre-del-ateismo/
 tipo: entrada

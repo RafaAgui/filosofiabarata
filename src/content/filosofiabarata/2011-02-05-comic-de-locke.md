@@ -1,6 +1,6 @@
 ---
 title: "Cómic de Locke"
-descripcion: "Viñeta filosófica sobre la defensa de Locke a la propiedad privada como derecho natural del individuo, base del liberalismo político moderno."
+description: "Viñeta filosófica sobre la defensa de Locke a la propiedad privada como derecho natural del individuo, base del liberalismo político moderno."
 date: 2011-02-05
 url: https://lafilosofiabarata.wordpress.com/2011/02/05/comic-de-locke/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "Elogio a la infidelidad"
-descripcion: "Presentación del libro Elogio a la infidelidad de Daniel Tubau mediante una viñeta de su personaje Mosca, con una recomendación del blog y las series del autor."
+description: "Presentación del libro Elogio a la infidelidad de Daniel Tubau mediante una viñeta de su personaje Mosca, con una recomendación del blog y las series del autor."
 date: 2011-07-11
 url: https://lafilosofiabarata.wordpress.com/2011/07/11/elogio-a-la-infidelidad/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "Cómic sobre Cándido de Voltaire"
-descripcion: "Viñeta filosófica basada en Cándido o el Optimismo de Voltaire, que ilustra la pregunta central de la obra sobre si este puede ser el mejor de los mundos posibles."
+description: "Viñeta filosófica basada en Cándido o el Optimismo de Voltaire, que ilustra la pregunta central de la obra sobre si este puede ser el mejor de los mundos posibles."
 date: 2010-10-12
 url: https://lafilosofiabarata.wordpress.com/2010/10/12/comic-sobre-candido-de-voltaire/
 tipo: entrada

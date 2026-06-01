@@ -1,6 +1,6 @@
 ---
 title: "Descartes Feat Pitbull"
-descripcion: "Imagen humorística que mezcla el racionalismo de Descartes con el reggaeton de Pitbull, un ejemplo de filosofía popular y meme filosófico encontrado en Internet."
+description: "Imagen humorística que mezcla el racionalismo de Descartes con el reggaeton de Pitbull, un ejemplo de filosofía popular y meme filosófico encontrado en Internet."
 date: 2014-05-07
 url: https://lafilosofiabarata.wordpress.com/2014/05/07/descartes-feat-pitbull/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "Los niños de la estación Leningradsky"
-descripcion: "Reseña del documental sobre los niños abandonados en la estación Leningradsky tras el colapso soviético, mostrando cómo los más desprotegidos pagaron el precio de la transición al capitalismo."
+description: "Reseña del documental sobre los niños abandonados en la estación Leningradsky tras el colapso soviético, mostrando cómo los más desprotegidos pagaron el precio de la transición al capitalismo."
 date: 2017-10-18
 url: https://lafilosofiabarata.wordpress.com/2017/10/18/los-ninos-de-la-estacion-leningradsky/
 tipo: entrada

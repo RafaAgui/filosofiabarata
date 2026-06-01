@@ -1,6 +1,6 @@
 ---
 title: "El desacoplado"
-descripcion: "Cita del libro Desacoplados de Jordi Claramonte sobre el modo relacional del western, donde el héroe no encuentra acoplamiento con el mundo hegemónico y debe actuar desde la contingencia radical."
+description: "Cita del libro Desacoplados de Jordi Claramonte sobre el modo relacional del western, donde el héroe no encuentra acoplamiento con el mundo hegemónico y debe actuar desde la contingencia radical."
 date: 2020-04-09
 url: https://lafilosofiabarata.wordpress.com/2020/04/09/el-desacoplado/
 tipo: entrada

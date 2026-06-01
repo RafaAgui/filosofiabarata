@@ -1,6 +1,6 @@
 ---
 title: "Imperativo categórico"
-descripcion: "Ilustración del imperativo categórico de Kant a través de una anécdota de un profesor que narra cómo un camarero interviene para defender a un anciano, actuando al hombre como fin y nunca como medio."
+description: "Ilustración del imperativo categórico de Kant a través de una anécdota de un profesor que narra cómo un camarero interviene para defender a un anciano, actuando al hombre como fin y nunca como medio."
 date: 2009-01-21
 url: https://lafilosofiabarata.wordpress.com/2009/01/21/imperativo-categorico/
 tipo: entrada

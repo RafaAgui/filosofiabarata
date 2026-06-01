@@ -1,6 +1,6 @@
 ---
 title: "Cervantes"
-descripcion: "Presentación de una fotonovela basada en textos del Quijote de Cervantes, interpretada por los hijos del autor y renombrada humorísticamente como Mayuca de la Mancha y Kike Panza."
+description: "Presentación de una fotonovela basada en textos del Quijote de Cervantes, interpretada por los hijos del autor y renombrada humorísticamente como Mayuca de la Mancha y Kike Panza."
 date: 2010-10-07
 url: https://lafilosofiabarata.wordpress.com/2010/10/07/cervantes/
 tipo: entrada

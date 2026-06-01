@@ -1,6 +1,6 @@
 ---
 title: "Ideas y creencias de Ortega y Gasset"
-descripcion: "Exposición de la distinción de Ortega y Gasset entre ideas y creencias: las creencias nos sostienen y somos ellas, mientras que las ideas son construcciones conscientes de la imaginación que pueden volverse creencias."
+description: "Exposición de la distinción de Ortega y Gasset entre ideas y creencias: las creencias nos sostienen y somos ellas, mientras que las ideas son construcciones conscientes de la imaginación que pueden volverse creencias."
 date: 2019-11-13
 url: https://lafilosofiabarata.wordpress.com/2019/11/13/ideas-y-creencias-de-ortega-y-gasset/
 tipo: entrada

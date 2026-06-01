@@ -1,6 +1,6 @@
 ---
 title: "La sangre del capitalismo"
-descripcion: "Denuncia de la guerra en el Congo como consecuencia directa del consumo tecnológico occidental: millones de muertos por el control del coltán en nuestros móviles, mostrando el nihilismo de nuestra desconexión moral."
+description: "Denuncia de la guerra en el Congo como consecuencia directa del consumo tecnológico occidental: millones de muertos por el control del coltán en nuestros móviles, mostrando el nihilismo de nuestra desconexión moral."
 date: 2012-11-16
 url: https://lafilosofiabarata.wordpress.com/2012/11/16/la-sangre-del-capitalismo/
 tipo: entrada

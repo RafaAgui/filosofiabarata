@@ -1,6 +1,6 @@
 ---
 title: "Sobre los vicios"
-descripcion: "Reflexión irónica sobre vicios y virtudes a través de la historia de Carrie Nation, la radical abolicionista del alcohol que recorría Kansas destruyendo bares, y la propuesta aristotélica del término medio."
+description: "Reflexión irónica sobre vicios y virtudes a través de la historia de Carrie Nation, la radical abolicionista del alcohol que recorría Kansas destruyendo bares, y la propuesta aristotélica del término medio."
 date: 2010-04-24
 url: https://lafilosofiabarata.wordpress.com/2010/04/24/sobre-los-vicios/
 tipo: entrada

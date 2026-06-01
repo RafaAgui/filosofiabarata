@@ -1,6 +1,6 @@
 ---
 title: "Leviatán I"
-descripcion: "Presentación del monstruo bíblico Leviatán, su presencia en el Libro de Job y su uso por Hobbes como metáfora del Estado absolutista que protege a los individuos devorándolos."
+description: "Presentación del monstruo bíblico Leviatán, su presencia en el Libro de Job y su uso por Hobbes como metáfora del Estado absolutista que protege a los individuos devorándolos."
 date: 2010-03-10
 url: https://lafilosofiabarata.wordpress.com/2010/03/10/leviatan-i/
 tipo: entrada

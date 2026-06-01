@@ -1,6 +1,6 @@
 ---
 title: "Hay dos clases de gente"
-descripcion: "Cita de la película La leyenda de la ciudad sin nombre sobre la distinción existencial entre quienes van hacia algún destino vital y quienes no tienen rumbo, reflexionando sobre el sentido de pertenencia."
+description: "Cita de la película La leyenda de la ciudad sin nombre sobre la distinción existencial entre quienes van hacia algún destino vital y quienes no tienen rumbo, reflexionando sobre el sentido de pertenencia."
 date: 2012-09-29
 url: https://lafilosofiabarata.wordpress.com/2012/09/29/hay-dos-clases-de-gente/
 tipo: entrada

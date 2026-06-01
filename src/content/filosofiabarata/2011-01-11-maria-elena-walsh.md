@@ -1,6 +1,6 @@
 ---
 title: "María Elena Walsh"
-descripcion: "Fragmento de La Marcha de Osias de María Elena Walsh sobre el deseo de un tiempo libre y sin prisa, que no esté enjaulado dentro de un despertador."
+description: "Fragmento de La Marcha de Osias de María Elena Walsh sobre el deseo de un tiempo libre y sin prisa, que no esté enjaulado dentro de un despertador."
 date: 2011-01-11
 url: https://lafilosofiabarata.wordpress.com/2011/01/11/maria-elena-walsh/
 tipo: entrada

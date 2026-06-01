@@ -1,6 +1,6 @@
 ---
 title: "Los tres estados del positivismo"
-descripcion: "Explicación de los tres estados del positivismo de Comte: el teológico, el metafísico y el positivo, que representan la evolución del pensamiento humano desde las explicaciones sobrenaturales hasta la observación empírica."
+description: "Explicación de los tres estados del positivismo de Comte: el teológico, el metafísico y el positivo, que representan la evolución del pensamiento humano desde las explicaciones sobrenaturales hasta la observación empírica."
 date: 2019-05-08
 url: https://lafilosofiabarata.wordpress.com/2019/05/08/los-tres-estados-del-positivismo/
 tipo: entrada
@@ -31,4 +31,4 @@ Esta fase implica cierta racionalización, pero sigue dejando respuestas a la in
 
 #### **Estado positivo:**
 
-Se deja de interrogar los fenómenos y se rechazan cuestiones teológicas y metafísicias. No se buscan tanto las explicaciones, sino las descripciones de los fenómenos y de sus regularidades mediante la observación y el razonamiento de los hechos.
+Se deja de interrogar los fenómenos y se rechazan cuestiones teológicas y metafísicias. No se buscan tanto las explicaciones, sino las descriptiones de los fenómenos y de sus regularidades mediante la observación y el razonamiento de los hechos.

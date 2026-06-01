@@ -1,6 +1,6 @@
 ---
 title: "Ludwig Wittgenstein"
-descripcion: "Viñeta filosófica sobre Wittgenstein y su célebre aforismo de que de lo que no se puede hablar hay que callar, ilustrando los límites del lenguaje como herramienta del conocimiento."
+description: "Viñeta filosófica sobre Wittgenstein y su célebre aforismo de que de lo que no se puede hablar hay que callar, ilustrando los límites del lenguaje como herramienta del conocimiento."
 date: 2014-03-24
 url: https://lafilosofiabarata.wordpress.com/2014/03/24/ludwig-wittgenstein/
 tipo: entrada

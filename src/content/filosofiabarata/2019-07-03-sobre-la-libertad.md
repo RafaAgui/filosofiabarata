@@ -1,6 +1,6 @@
 ---
 title: "Sobre la libertad"
-descripcion: "Apuntes sobre el libro Sobre la libertad de John Stuart Mill, que analiza la lucha histórica entre libertad y autoridad, las tres libertades fundamentales y los límites del poder del estado sobre el individuo."
+description: "Apuntes sobre el libro Sobre la libertad de John Stuart Mill, que analiza la lucha histórica entre libertad y autoridad, las tres libertades fundamentales y los límites del poder del estado sobre el individuo."
 date: 2019-07-03
 url: https://lafilosofiabarata.wordpress.com/2019/07/03/sobre-la-libertad/
 tipo: entrada

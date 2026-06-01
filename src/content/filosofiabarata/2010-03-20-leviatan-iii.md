@@ -1,6 +1,6 @@
 ---
 title: "Leviatán III"
-descripcion: "Cita directa de Hobbes en el Leviatán sobre la República como gran Dios Mortal que garantiza la paz interior y la defensa exterior mediante el terror y la autoridad concentrada."
+description: "Cita directa de Hobbes en el Leviatán sobre la República como gran Dios Mortal que garantiza la paz interior y la defensa exterior mediante el terror y la autoridad concentrada."
 date: 2010-03-20
 url: https://lafilosofiabarata.wordpress.com/2010/03/20/leviatan-iii/
 tipo: entrada

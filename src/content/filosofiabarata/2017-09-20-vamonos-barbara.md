@@ -1,6 +1,6 @@
 ---
 title: "¡Vámonos, Bárbara!"
-descripcion: "Reseña de la película feminista ¡Vámonos, Bárbara! de Cecilia Bartolomé (1978), un retrato valiente de mujeres empoderadas en la España preconstitucional marcada por el machismo y la ausencia del divorcio."
+description: "Reseña de la película feminista ¡Vámonos, Bárbara! de Cecilia Bartolomé (1978), un retrato valiente de mujeres empoderadas en la España preconstitucional marcada por el machismo y la ausencia del divorcio."
 date: 2017-09-20
 url: https://lafilosofiabarata.wordpress.com/2017/09/20/vamonos-barbara/
 tipo: entrada

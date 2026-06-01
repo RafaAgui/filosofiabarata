@@ -1,6 +1,6 @@
 ---
 title: "Asno de Buridán"
-descripcion: "Viñeta cómica sobre la paradoja del Asno de Buridán, que introduce la discusión filosófica clásica sobre el libre albedrío y la capacidad de decisión humana ante opciones equivalentes."
+description: "Viñeta cómica sobre la paradoja del Asno de Buridán, que introduce la discusión filosófica clásica sobre el libre albedrío y la capacidad de decisión humana ante opciones equivalentes."
 date: 2009-09-04
 url: https://lafilosofiabarata.wordpress.com/2009/09/04/asno-de-buridan/
 tipo: entrada

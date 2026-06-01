@@ -1,6 +1,6 @@
 ---
 title: "El mito de la caverna y Gustavo Bueno"
-descripcion: "Complemento a la entrada sobre el mito de la caverna con una entrevista a Gustavo Bueno en Radio 3, en la que el filósofo materialista hace reflexiones afines sobre las redes sociales como caverna moderna."
+description: "Complemento a la entrada sobre el mito de la caverna con una entrevista a Gustavo Bueno en Radio 3, en la que el filósofo materialista hace reflexiones afines sobre las redes sociales como caverna moderna."
 date: 2015-10-14
 url: https://lafilosofiabarata.wordpress.com/2015/10/14/el-mito-de-la-caverna-y-gustavo-bueno/
 tipo: entrada

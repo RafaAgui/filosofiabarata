@@ -1,6 +1,6 @@
 ---
 title: "I love Papa"
-descripcion: "Reflexión sobre la visita del Papa a España durante las JMJ, cuestionando si la devoción juvenil responde a una fe auténtica o al marketing religioso y el consumo de merchandising espiritual."
+description: "Reflexión sobre la visita del Papa a España durante las JMJ, cuestionando si la devoción juvenil responde a una fe auténtica o al marketing religioso y el consumo de merchandising espiritual."
 date: 2011-08-16
 url: https://lafilosofiabarata.wordpress.com/2011/08/16/i-love-papa/
 tipo: entrada

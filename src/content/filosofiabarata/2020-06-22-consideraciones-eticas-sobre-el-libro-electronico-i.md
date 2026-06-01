@@ -1,6 +1,6 @@
 ---
 title: "Consideraciones éticas sobre el libro electrónico I"
-descripcion: "Primera parte sobre la ética del libro electrónico: analiza la distracción hipermedia, el DRM como limitación a la propiedad del lector y los problemas de la autoedición frente a los modelos editoriales tradicionales."
+description: "Primera parte sobre la ética del libro electrónico: analiza la distracción hipermedia, el DRM como limitación a la propiedad del lector y los problemas de la autoedición frente a los modelos editoriales tradicionales."
 date: 2020-06-22
 url: https://lafilosofiabarata.wordpress.com/2020/06/22/consideraciones-eticas-sobre-el-libro-electronico-i/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "FILOCOMIC"
-descripcion: "Presentación de un cómic filosófico de Daniel Tubau basado en un texto de Epicarmo sobre Heráclito y su deudor, que ilustra con humor la filosofía del devenir y el cambio constante."
+description: "Presentación de un cómic filosófico de Daniel Tubau basado en un texto de Epicarmo sobre Heráclito y su deudor, que ilustra con humor la filosofía del devenir y el cambio constante."
 date: 2009-06-30
 url: https://lafilosofiabarata.wordpress.com/2009/06/30/filocomic/
 tipo: entrada

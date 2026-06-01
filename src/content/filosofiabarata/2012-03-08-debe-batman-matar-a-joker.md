@@ -1,6 +1,6 @@
 ---
 title: "¿Debe Batman matar a Joker?"
-descripcion: "Enlace a un análisis filosófico del dilema ético de si Batman debería matar a Joker, examinado desde cinco perspectivas filosóficas distintas en relación al uso de la violencia y la justicia."
+description: "Enlace a un análisis filosófico del dilema ético de si Batman debería matar a Joker, examinado desde cinco perspectivas filosóficas distintas en relación al uso de la violencia y la justicia."
 date: 2012-03-08
 url: https://lafilosofiabarata.wordpress.com/2012/03/08/debe-batman-matar-a-joker/
 tipo: entrada

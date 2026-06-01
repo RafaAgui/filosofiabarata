@@ -1,6 +1,6 @@
 ---
 title: "Cándido o el Optimismo"
-descripcion: "Reseña de la novela filosófica de Voltaire que critica el optimismo metafísico de Spinoza a través de las desgracias de Cándido, destacando la necesidad de cultivar el propio jardín para alcanzar la felicidad."
+description: "Reseña de la novela filosófica de Voltaire que critica el optimismo metafísico de Spinoza a través de las desgracias de Cándido, destacando la necesidad de cultivar el propio jardín para alcanzar la felicidad."
 date: 2010-10-05
 url: https://lafilosofiabarata.wordpress.com/2010/10/05/candido-o-el-optimismo/
 tipo: entrada

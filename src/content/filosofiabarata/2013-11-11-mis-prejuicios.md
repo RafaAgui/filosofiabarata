@@ -1,6 +1,6 @@
 ---
 title: "Mis prejuicios"
-descripcion: "Reflexión personal sobre los prejuicios propios, argumentando que tenerlos no es lo malo sino no poder romperlos, y cómo el autor los ha ido superando con la experiencia excepto hacia la policía."
+description: "Reflexión personal sobre los prejuicios propios, argumentando que tenerlos no es lo malo sino no poder romperlos, y cómo el autor los ha ido superando con la experiencia excepto hacia la policía."
 date: 2013-11-11
 url: https://lafilosofiabarata.wordpress.com/2013/11/11/mis-prejuicios/
 tipo: entrada

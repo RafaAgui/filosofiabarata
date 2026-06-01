@@ -1,6 +1,6 @@
 ---
 title: "Francisco Giner de los Ríos"
-descripcion: "Cita de Francisco Giner de los Ríos sobre el ideal educativo del krausismo: formar hombres íntegros atendiendo a todas sus facultades, más allá de la mera transmisión de conocimientos."
+description: "Cita de Francisco Giner de los Ríos sobre el ideal educativo del krausismo: formar hombres íntegros atendiendo a todas sus facultades, más allá de la mera transmisión de conocimientos."
 date: 2010-06-30
 url: https://lafilosofiabarata.wordpress.com/2010/06/30/francisco-giner-de-los-rios/
 tipo: entrada

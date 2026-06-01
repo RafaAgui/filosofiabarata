@@ -1,6 +1,6 @@
 ---
 title: "Platón y cañas"
-descripcion: "Imagen de una cita de Platón sobre los amigos como ladrones del tiempo, presentada como ejemplo auténtico de filosofía de barra callejera."
+description: "Imagen de una cita de Platón sobre los amigos como ladrones del tiempo, presentada como ejemplo auténtico de filosofía de barra callejera."
 date: 2011-01-18
 url: https://lafilosofiabarata.wordpress.com/2011/01/18/platon-y-canas/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "El coronavirus y el cambio de valores"
-descripcion: "Reflexión sobre si la pandemia del coronavirus cambiará realmente los valores sociales o si, como otras tragedias históricas, el olvido llegará pronto y volveremos a las mismas rutinas consumistas de antes."
+description: "Reflexión sobre si la pandemia del coronavirus cambiará realmente los valores sociales o si, como otras tragedias históricas, el olvido llegará pronto y volveremos a las mismas rutinas consumistas de antes."
 date: 2020-04-15
 url: https://lafilosofiabarata.wordpress.com/2020/04/15/el-coronavirus-y-el-cambio-de-valores/
 tipo: entrada

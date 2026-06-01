@@ -1,6 +1,6 @@
 ---
 title: "El tercer hombre"
-descripcion: "Cita del villano Harry Lime en El tercer hombre que reduce la empatía humana a cálculo económico, preguntando si sentiríamos compasión por personas convertidas en meros puntos insignificantes."
+description: "Cita del villano Harry Lime en El tercer hombre que reduce la empatía humana a cálculo económico, preguntando si sentiríamos compasión por personas convertidas en meros puntos insignificantes."
 date: 2011-08-31
 url: https://lafilosofiabarata.wordpress.com/2011/08/31/el-tercer-hombre/
 tipo: entrada

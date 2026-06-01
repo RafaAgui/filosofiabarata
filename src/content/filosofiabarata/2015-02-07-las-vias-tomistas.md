@@ -1,6 +1,6 @@
 ---
 title: "Las vías tomistas"
-descripcion: "Exposición de las cinco vías de Santo Tomás para demostrar la existencia de Dios mediante argumentos aristotélicos, analizando sus límites desde la perspectiva de un teólogo que parte de la fe como axioma."
+description: "Exposición de las cinco vías de Santo Tomás para demostrar la existencia de Dios mediante argumentos aristotélicos, analizando sus límites desde la perspectiva de un teólogo que parte de la fe como axioma."
 date: 2015-02-07
 url: https://lafilosofiabarata.wordpress.com/2015/02/07/las-vias-tomistas/
 tipo: entrada

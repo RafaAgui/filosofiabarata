@@ -1,6 +1,6 @@
 ---
 title: "Wittgenstein"
-descripcion: "Reseña de la película sobre la vida de Ludwig Wittgenstein, que con una puesta en escena minimalista y teatral expone los fundamentos del pensamiento de uno de los filósofos más influyentes del siglo XX."
+description: "Reseña de la película sobre la vida de Ludwig Wittgenstein, que con una puesta en escena minimalista y teatral expone los fundamentos del pensamiento de uno de los filósofos más influyentes del siglo XX."
 date: 2014-01-29
 url: https://lafilosofiabarata.wordpress.com/2014/01/29/wittgenstein/
 tipo: entrada

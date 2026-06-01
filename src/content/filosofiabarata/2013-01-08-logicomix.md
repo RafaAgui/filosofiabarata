@@ -1,6 +1,6 @@
 ---
 title: "Logicomix"
-descripcion: "Reseña entusiasta de la novela gráfica Logicomix sobre Bertrand Russell y su búsqueda de fundamentos lógicos para las matemáticas, con dos hilos narrativos paralelos que combinan filosofía y cómic."
+description: "Reseña entusiasta de la novela gráfica Logicomix sobre Bertrand Russell y su búsqueda de fundamentos lógicos para las matemáticas, con dos hilos narrativos paralelos que combinan filosofía y cómic."
 date: 2013-01-08
 url: https://lafilosofiabarata.wordpress.com/2013/01/08/logicomix/
 tipo: entrada

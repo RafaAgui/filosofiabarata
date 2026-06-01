@@ -1,6 +1,6 @@
 ---
 title: "Cómic sobre Neopositivismo"
-descripcion: "Viñeta sobre Rudolf Carnap y el Círculo de Viena, representante del neopositivismo lógico que rechazaba la metafísica por considerarla inservible frente al análisis científico del lenguaje."
+description: "Viñeta sobre Rudolf Carnap y el Círculo de Viena, representante del neopositivismo lógico que rechazaba la metafísica por considerarla inservible frente al análisis científico del lenguaje."
 date: 2010-07-28
 url: https://lafilosofiabarata.wordpress.com/2010/07/28/comic-sobre-neopositivismo/
 tipo: entrada

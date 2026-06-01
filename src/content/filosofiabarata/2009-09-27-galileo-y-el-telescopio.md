@@ -1,6 +1,6 @@
 ---
 title: "Galileo y el telescopio"
-descripcion: "Exposición de los conflictos de Galileo con la Iglesia tras sus descubrimientos telescópicos que confirmaron el heliocentrismo copernicano, mostrando cómo defendió sus ideas frente a la censura religiosa."
+description: "Exposición de los conflictos de Galileo con la Iglesia tras sus descubrimientos telescópicos que confirmaron el heliocentrismo copernicano, mostrando cómo defendió sus ideas frente a la censura religiosa."
 date: 2009-09-27
 url: https://lafilosofiabarata.wordpress.com/2009/09/27/galileo-y-el-telescopio/
 tipo: entrada

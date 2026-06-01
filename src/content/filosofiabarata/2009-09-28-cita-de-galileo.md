@@ -1,6 +1,6 @@
 ---
 title: "Cita de Galileo"
-descripcion: "Cita de Galileo sobre la imposibilidad de suprimir el conocimiento científico prohibiendo libros, afirmando que ello implicaría prohibir también que los hombres mirasen al cielo."
+description: "Cita de Galileo sobre la imposibilidad de suprimir el conocimiento científico prohibiendo libros, afirmando que ello implicaría prohibir también que los hombres mirasen al cielo."
 date: 2009-09-28
 url: https://lafilosofiabarata.wordpress.com/2009/09/28/cita-de-galileo/
 tipo: entrada

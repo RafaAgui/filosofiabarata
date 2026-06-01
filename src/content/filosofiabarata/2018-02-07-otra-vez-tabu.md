@@ -1,6 +1,6 @@
 ---
 title: "Otra vez Tabú"
-descripcion: "Recomendación del programa Tabú de Jon Sistiaga en su temporada sobre el machismo, que recorre desde los micromachismos hasta el maltrato para mostrar que queda mucho camino por recorrer."
+description: "Recomendación del programa Tabú de Jon Sistiaga en su temporada sobre el machismo, que recorre desde los micromachismos hasta el maltrato para mostrar que queda mucho camino por recorrer."
 date: 2018-02-07
 url: https://lafilosofiabarata.wordpress.com/2018/02/07/otra-vez-tabu/
 tipo: entrada

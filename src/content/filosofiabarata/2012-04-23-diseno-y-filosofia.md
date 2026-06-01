@@ -1,6 +1,6 @@
 ---
 title: "Diseño y filosofía"
-descripcion: "Presentación del proyecto Filographics de Genís Carreras, que ilustra conceptos filosóficos complejos mediante diseños minimalistas basados en formas geométricas básicas."
+description: "Presentación del proyecto Filographics de Genís Carreras, que ilustra conceptos filosóficos complejos mediante diseños minimalistas basados en formas geométricas básicas."
 date: 2012-04-23
 url: https://lafilosofiabarata.wordpress.com/2012/04/23/diseno-y-filosofia/
 tipo: entrada

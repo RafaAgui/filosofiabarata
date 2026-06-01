@@ -1,6 +1,6 @@
 ---
 title: "John Locke y la tolerancia"
-descripcion: "Análisis de la Carta sobre la tolerancia de Locke, que defiende la separación entre estado y religión: el gobierno garantiza libertades civiles y la religión pertenece al ámbito privado de cada individuo."
+description: "Análisis de la Carta sobre la tolerancia de Locke, que defiende la separación entre estado y religión: el gobierno garantiza libertades civiles y la religión pertenece al ámbito privado de cada individuo."
 date: 2019-04-06
 url: https://lafilosofiabarata.wordpress.com/2019/04/06/john-locke-y-la-tolerancia/
 tipo: entrada

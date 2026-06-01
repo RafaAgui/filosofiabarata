@@ -1,6 +1,6 @@
 ---
 title: "Caja y mosca"
-descripcion: "Presentación de la serie filosófica Caja y Mosca de Daniel Tubau, inspiradora de la propia serie Filosofía de Barra, con un ejemplo de viñeta sobre Berkeley."
+description: "Presentación de la serie filosófica Caja y Mosca de Daniel Tubau, inspiradora de la propia serie Filosofía de Barra, con un ejemplo de viñeta sobre Berkeley."
 date: 2011-03-29
 url: https://lafilosofiabarata.wordpress.com/2011/03/29/caja-y-mosca/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "Causalidad"
-descripcion: "Viñeta filosófica sobre el concepto de causalidad, que explora la relación entre causa y efecto desde Aristóteles hasta Santo Tomás con el habitual tono humorístico de la serie."
+description: "Viñeta filosófica sobre el concepto de causalidad, que explora la relación entre causa y efecto desde Aristóteles hasta Santo Tomás con el habitual tono humorístico de la serie."
 date: 2010-01-25
 url: https://lafilosofiabarata.wordpress.com/2010/01/25/causalidad/
 tipo: entrada

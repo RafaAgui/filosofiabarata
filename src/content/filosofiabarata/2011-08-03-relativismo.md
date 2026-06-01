@@ -1,6 +1,6 @@
 ---
 title: "Relativismo"
-descripcion: "Viñeta sobre el relativismo de Protágoras y su máxima el hombre es la medida de todas las cosas, que niega las certezas absolutas y el conocimiento científico en favor de la fe y las creencias individuales."
+description: "Viñeta sobre el relativismo de Protágoras y su máxima el hombre es la medida de todas las cosas, que niega las certezas absolutas y el conocimiento científico en favor de la fe y las creencias individuales."
 date: 2011-08-03
 url: https://lafilosofiabarata.wordpress.com/2011/08/03/relativismo/
 tipo: entrada

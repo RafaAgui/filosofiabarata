@@ -1,6 +1,6 @@
 ---
 title: "La guerra es bella"
-descripcion: "Reflexión sobre la estética fascista del Manifiesto Futurista de Marinetti, analizando cómo los regímenes autoritarios convierten la guerra en un objeto de belleza que anula al individuo como persona."
+description: "Reflexión sobre la estética fascista del Manifiesto Futurista de Marinetti, analizando cómo los regímenes autoritarios convierten la guerra en un objeto de belleza que anula al individuo como persona."
 date: 2014-09-17
 url: https://lafilosofiabarata.wordpress.com/2014/09/17/la-guerra-es-bella/
 tipo: entrada

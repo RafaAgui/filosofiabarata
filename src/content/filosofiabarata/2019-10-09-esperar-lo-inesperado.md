@@ -1,6 +1,6 @@
 ---
 title: "Esperar lo inesperado"
-descripcion: "Reflexión sobre el texto de Rodríguez Huescar La ecuación de la contingencia, que explora cómo lo esperado siempre puede volverse inesperado al presentarse de formas distintas, transformando la vida en aventura."
+description: "Reflexión sobre el texto de Rodríguez Huescar La ecuación de la contingencia, que explora cómo lo esperado siempre puede volverse inesperado al presentarse de formas distintas, transformando la vida en aventura."
 date: 2019-10-09
 url: https://lafilosofiabarata.wordpress.com/2019/10/09/esperar-lo-inesperado/
 tipo: entrada

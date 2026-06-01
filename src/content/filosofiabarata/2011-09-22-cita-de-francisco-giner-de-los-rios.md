@@ -1,6 +1,6 @@
 ---
 title: "Cita de Francisco Giner de los Ríos"
-descripcion: "Cita de Giner de los Ríos proponiendo transformar el aula tradicional en un círculo activo de alumnos que piensan y discutan junto al maestro, eliminando la distancia jerárquica de la enseñanza clásica."
+description: "Cita de Giner de los Ríos proponiendo transformar el aula tradicional en un círculo activo de alumnos que piensan y discutan junto al maestro, eliminando la distancia jerárquica de la enseñanza clásica."
 date: 2011-09-22
 url: https://lafilosofiabarata.wordpress.com/2011/09/22/cita-de-francisco-giner-de-los-rios/
 tipo: entrada

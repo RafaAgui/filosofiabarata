@@ -1,6 +1,6 @@
 ---
 title: "Indignados"
-descripcion: "Reportaje fotográfico de las acampadas del movimiento 15M en la Puerta del Sol de Madrid, con pancartas y lemas que reflejaban la indignación ciudadana ante el sistema político y económico."
+description: "Reportaje fotográfico de las acampadas del movimiento 15M en la Puerta del Sol de Madrid, con pancartas y lemas que reflejaban la indignación ciudadana ante el sistema político y económico."
 date: 2011-05-22
 url: https://lafilosofiabarata.wordpress.com/2011/05/22/indignados/
 tipo: entrada

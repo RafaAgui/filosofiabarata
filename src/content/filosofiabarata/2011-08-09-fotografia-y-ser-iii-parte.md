@@ -1,6 +1,6 @@
 ---
 title: "Fotografía y ser (III Parte)"
-descripcion: "Tercera parte sobre la fotografía que examina la manipulación de imágenes desde Bin Laden hasta los Tasaday, cuestionando si la fotografía nos muestra la realidad o puede ser un instrumento de engaño."
+description: "Tercera parte sobre la fotografía que examina la manipulación de imágenes desde Bin Laden hasta los Tasaday, cuestionando si la fotografía nos muestra la realidad o puede ser un instrumento de engaño."
 date: 2011-08-09
 url: https://lafilosofiabarata.wordpress.com/2011/08/09/fotografia-y-ser-iii-parte/
 tipo: entrada

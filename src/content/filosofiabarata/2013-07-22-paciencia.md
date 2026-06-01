@@ -1,6 +1,6 @@
 ---
 title: "Paciencia"
-descripcion: "Reflexión personal sobre la paciencia como acto de resistencia contra el consumismo y las prisas impuestas por la sociedad occidental, aprendida durante una larga espera en un hospital."
+description: "Reflexión personal sobre la paciencia como acto de resistencia contra el consumismo y las prisas impuestas por la sociedad occidental, aprendida durante una larga espera en un hospital."
 date: 2013-07-22
 url: https://lafilosofiabarata.wordpress.com/2013/07/22/paciencia/
 tipo: entrada

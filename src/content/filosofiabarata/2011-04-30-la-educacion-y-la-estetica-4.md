@@ -1,6 +1,6 @@
 ---
 title: "La educación y la estética 4"
-descripcion: "Conclusiones de la serie sobre educación y estética, defendiendo con Schiller que una enseñanza profunda de la estética haría a los jóvenes más libres y autónomos frente al modelo educativo productivista."
+description: "Conclusiones de la serie sobre educación y estética, defendiendo con Schiller que una enseñanza profunda de la estética haría a los jóvenes más libres y autónomos frente al modelo educativo productivista."
 date: 2011-04-30
 url: https://lafilosofiabarata.wordpress.com/2011/04/30/la-educacion-y-la-estetica-4/
 tipo: entrada

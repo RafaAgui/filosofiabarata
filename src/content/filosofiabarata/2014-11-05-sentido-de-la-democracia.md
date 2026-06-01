@@ -1,6 +1,6 @@
 ---
 title: "Sentido de la democracia"
-descripcion: "Debate sobre si se debe votar al programa o a la persona en democracia, argumentando que los programas son el verdadero contrato con el ciudadano y que la honradez debería ser la primera cualidad del político."
+description: "Debate sobre si se debe votar al programa o a la persona en democracia, argumentando que los programas son el verdadero contrato con el ciudadano y que la honradez debería ser la primera cualidad del político."
 date: 2014-11-05
 url: https://lafilosofiabarata.wordpress.com/2014/11/05/sentido-de-la-democracia/
 tipo: entrada

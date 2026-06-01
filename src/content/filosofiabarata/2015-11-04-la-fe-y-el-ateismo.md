@@ -1,6 +1,6 @@
 ---
 title: "La fe y el ateísmo"
-descripcion: "Reseña de la novela La fe de Armando Palacio Valdés y su adaptación cinematográfica, destacando el diálogo central entre un sacerdote y un ateo sobre la creencia y la razón."
+description: "Reseña de la novela La fe de Armando Palacio Valdés y su adaptación cinematográfica, destacando el diálogo central entre un sacerdote y un ateo sobre la creencia y la razón."
 date: 2015-11-04
 url: https://lafilosofiabarata.wordpress.com/2015/11/04/la-fe-y-el-ateismo/
 tipo: entrada

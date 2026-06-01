@@ -1,6 +1,6 @@
 ---
 title: "Alfred Kubin"
-descripcion: "Descubrimiento del artista Alfred Kubin, exponente del expresionismo y precursor del surrealismo, presentado mediante una de sus obras caracterizadas por su imaginería oscura y perturbadora."
+description: "Descubrimiento del artista Alfred Kubin, exponente del expresionismo y precursor del surrealismo, presentado mediante una de sus obras caracterizadas por su imaginería oscura y perturbadora."
 date: 2010-10-27
 url: https://lafilosofiabarata.wordpress.com/2010/10/27/alfred-kubin/
 tipo: entrada

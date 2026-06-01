@@ -1,6 +1,6 @@
 ---
 title: "El código Platón"
-descripcion: "Reflexión escéptica sobre la moda de buscar mensajes ocultos en los escritos de Platón, criticando las interpretaciones esotéricas que supuestamente revelan que el universo está regido por las matemáticas."
+description: "Reflexión escéptica sobre la moda de buscar mensajes ocultos en los escritos de Platón, criticando las interpretaciones esotéricas que supuestamente revelan que el universo está regido por las matemáticas."
 date: 2010-11-23
 url: https://lafilosofiabarata.wordpress.com/2010/11/23/el-codigo-platon/
 tipo: entrada

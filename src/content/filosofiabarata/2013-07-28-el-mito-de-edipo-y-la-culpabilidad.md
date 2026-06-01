@@ -1,6 +1,6 @@
 ---
 title: "El mito de Edipo y la culpabilidad"
-descripcion: "Reflexión inspirada en Kundera sobre el mito de Edipo y la culpabilidad, aplicada a la clase política: no saber lo que sucede en tu partido no te exime de responsabilidad cuando los hechos se hacen públicos."
+description: "Reflexión inspirada en Kundera sobre el mito de Edipo y la culpabilidad, aplicada a la clase política: no saber lo que sucede en tu partido no te exime de responsabilidad cuando los hechos se hacen públicos."
 date: 2013-07-28
 url: https://lafilosofiabarata.wordpress.com/2013/07/28/el-mito-de-edipo-y-la-culpabilidad/
 tipo: entrada

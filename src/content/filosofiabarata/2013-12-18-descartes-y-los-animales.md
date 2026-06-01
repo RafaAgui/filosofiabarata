@@ -1,6 +1,6 @@
 ---
 title: "Descartes y los animales"
-descripcion: "Viñeta filosófica que cuestiona la visión cartesiana de los animales como máquinas sin alma, abordando el antropocentrismo y sus consecuencias éticas para el trato hacia otras especies."
+description: "Viñeta filosófica que cuestiona la visión cartesiana de los animales como máquinas sin alma, abordando el antropocentrismo y sus consecuencias éticas para el trato hacia otras especies."
 date: 2013-12-18
 url: https://lafilosofiabarata.wordpress.com/2013/12/18/descartes-y-los-animales/
 tipo: entrada

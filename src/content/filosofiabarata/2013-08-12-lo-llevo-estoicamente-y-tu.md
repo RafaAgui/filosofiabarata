@@ -1,6 +1,6 @@
 ---
 title: "Lo llevo estoicamente ¿y tú?"
-descripcion: "Reflexión personal sobre el estoicismo de Epicteto aplicado a llevar un tobillo roto todo el verano, aprendiendo a aceptar lo que no depende de nosotros y encontrar lo que sí podemos hacer."
+description: "Reflexión personal sobre el estoicismo de Epicteto aplicado a llevar un tobillo roto todo el verano, aprendiendo a aceptar lo que no depende de nosotros y encontrar lo que sí podemos hacer."
 date: 2013-08-12
 url: https://lafilosofiabarata.wordpress.com/2013/08/12/lo-llevo-estoicamente-y-tu/
 tipo: entrada

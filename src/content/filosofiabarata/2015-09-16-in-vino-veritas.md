@@ -1,6 +1,6 @@
 ---
 title: "In vino veritas"
-descripcion: "Crítica feminista al texto de Kierkegaard In vino veritas, denunciando que bajo el pretexto del amor esconde un análisis misógino de la mujer que refleja el desprecio intelectual hacia ella heredado en Occidente."
+description: "Crítica feminista al texto de Kierkegaard In vino veritas, denunciando que bajo el pretexto del amor esconde un análisis misógino de la mujer que refleja el desprecio intelectual hacia ella heredado en Occidente."
 date: 2015-09-16
 url: https://lafilosofiabarata.wordpress.com/2015/09/16/in-vino-veritas/
 tipo: entrada

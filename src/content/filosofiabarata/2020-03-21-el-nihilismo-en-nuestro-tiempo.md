@@ -1,6 +1,6 @@
 ---
 title: "El nihilismo en nuestro tiempo"
-descripcion: "Análisis del texto de Gurwitsch escrito en plena II Guerra Mundial sobre el nihilismo occidental como abandono de la razón, con una llamada a reconquistar la libertad a través de la tolerancia racional y el pensamiento crítico."
+description: "Análisis del texto de Gurwitsch escrito en plena II Guerra Mundial sobre el nihilismo occidental como abandono de la razón, con una llamada a reconquistar la libertad a través de la tolerancia racional y el pensamiento crítico."
 date: 2020-03-21
 url: https://lafilosofiabarata.wordpress.com/2020/03/21/el-nihilismo-en-nuestro-tiempo/
 tipo: entrada

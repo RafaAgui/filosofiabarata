@@ -1,6 +1,6 @@
 ---
 title: "El coronavirus y el decrecimiento"
-descripcion: "Reflexión sobre el decrecimiento de Serge Latouche y Carlos Taibo a raíz de la pandemia, argumentando que el confinamiento demostró que podemos vivir con menos y que la recuperación no debería volver a los mismos excesos."
+description: "Reflexión sobre el decrecimiento de Serge Latouche y Carlos Taibo a raíz de la pandemia, argumentando que el confinamiento demostró que podemos vivir con menos y que la recuperación no debería volver a los mismos excesos."
 date: 2020-05-27
 url: https://lafilosofiabarata.wordpress.com/2020/05/27/el-coronavirus-y-el-decrecimiento/
 tipo: entrada

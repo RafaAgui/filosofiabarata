@@ -1,6 +1,6 @@
 ---
 title: "Pitágoras I Parte"
-descripcion: "Primera parte sobre Pitágoras, separando leyenda de historia: sus atribuciones como matemático, filósofo y mesías, la leyenda de su concepción divina y la mezcla de sus ideas con las de sus discípulos."
+description: "Primera parte sobre Pitágoras, separando leyenda de historia: sus atribuciones como matemático, filósofo y mesías, la leyenda de su concepción divina y la mezcla de sus ideas con las de sus discípulos."
 date: 2011-10-24
 url: https://lafilosofiabarata.wordpress.com/2011/10/24/pitagoras-i-parte/
 tipo: entrada

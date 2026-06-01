@@ -1,6 +1,6 @@
 ---
 title: "Las minas del rey Salomón"
-descripcion: "Cita poética de la novela de H. Rider Haggard sobre el misterio de la vida y la muerte, comparando la existencia humana con un pájaro arrastrado por la tormenta que vuela un instante a la luz y vuelve a la oscuridad."
+description: "Cita poética de la novela de H. Rider Haggard sobre el misterio de la vida y la muerte, comparando la existencia humana con un pájaro arrastrado por la tormenta que vuela un instante a la luz y vuelve a la oscuridad."
 date: 2011-01-27
 url: https://lafilosofiabarata.wordpress.com/2011/01/27/las-minas-del-rey-salomon/
 tipo: entrada

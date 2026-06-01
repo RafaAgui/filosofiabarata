@@ -1,6 +1,6 @@
 ---
 title: "Etica para laicos de Richard Rorty"
-descripcion: "Reseña de Ética para Laicos de Rorty, que defiende el relativismo pragmático frente al fundamentalismo de Benedicto XVI, apoyándose en Singer y Mill para ampliar el círculo de la igualdad y la felicidad colectiva."
+description: "Reseña de Ética para Laicos de Rorty, que defiende el relativismo pragmático frente al fundamentalismo de Benedicto XVI, apoyándose en Singer y Mill para ampliar el círculo de la igualdad y la felicidad colectiva."
 date: 2020-03-24
 url: https://lafilosofiabarata.wordpress.com/2020/03/24/etica-para-laicos-de-richard-rorty/
 tipo: entrada

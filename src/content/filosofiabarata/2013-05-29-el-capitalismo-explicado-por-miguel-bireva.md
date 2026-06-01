@@ -1,6 +1,6 @@
 ---
 title: "El capitalismo explicado por Miguel Bireva"
-descripcion: "Imagen del dibujante Miguel Brieva que explica el capitalismo de forma gráfica e irónica, desnudando las contradicciones del sistema económico con su habitual humor crítico."
+description: "Imagen del dibujante Miguel Brieva que explica el capitalismo de forma gráfica e irónica, desnudando las contradicciones del sistema económico con su habitual humor crítico."
 date: 2013-05-29
 url: https://lafilosofiabarata.wordpress.com/2013/05/29/el-capitalismo-explicado-por-miguel-bireva/
 tipo: entrada

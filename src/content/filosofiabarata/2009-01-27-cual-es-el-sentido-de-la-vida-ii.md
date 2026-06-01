@@ -1,6 +1,6 @@
 ---
 title: "¿Cuál es el sentido de la vida? II"
-descripcion: "Cita de la novela Como un ladrón de André Thérive sobre la distinción entre existencia y vida, y el deseo de vivir frente al miedo a dejar de existir."
+description: "Cita de la novela Como un ladrón de André Thérive sobre la distinción entre existencia y vida, y el deseo de vivir frente al miedo a dejar de existir."
 date: 2009-01-27
 url: https://lafilosofiabarata.wordpress.com/2009/01/27/%c2%bfcual-es-el-sentido-de-la-vida-ii/
 tipo: entrada

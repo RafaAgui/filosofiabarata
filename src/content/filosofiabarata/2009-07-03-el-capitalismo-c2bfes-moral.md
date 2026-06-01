@@ -1,6 +1,6 @@
 ---
 title: "El Capitalismo ¿es moral?"
-descripcion: "Reseña del libro de André Comte-Sponville que defiende que el capitalismo no es moral ni inmoral sino amoral, ya que opera mediante el egoísmo y no mediante la virtud, diferenciando los distintos órdenes de la realidad."
+description: "Reseña del libro de André Comte-Sponville que defiende que el capitalismo no es moral ni inmoral sino amoral, ya que opera mediante el egoísmo y no mediante la virtud, diferenciando los distintos órdenes de la realidad."
 date: 2009-07-03
 url: https://lafilosofiabarata.wordpress.com/2009/07/03/el-capitalismo-%c2%bfes-moral/
 tipo: entrada

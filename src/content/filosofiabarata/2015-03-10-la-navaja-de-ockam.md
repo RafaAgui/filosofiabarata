@@ -1,6 +1,6 @@
 ---
 title: "La navaja de Ockam"
-descripcion: "Viñeta filosófica sobre la Navaja de Ockham, el principio de parsimonia medieval que establece que ante explicaciones equivalentes siempre debe preferirse la más simple."
+description: "Viñeta filosófica sobre la Navaja de Ockham, el principio de parsimonia medieval que establece que ante explicaciones equivalentes siempre debe preferirse la más simple."
 date: 2015-03-10
 url: https://lafilosofiabarata.wordpress.com/2015/03/10/la-navaja-de-ockam/
 tipo: entrada

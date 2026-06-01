@@ -1,6 +1,6 @@
 ---
 title: "Clase de ética"
-descripcion: "Relato humorístico de una clase de ética en la que un profesor ilustra la importancia de las prioridades vitales con un frasco de piedras, arena y perdigones, con un inesperado y cómico giro final."
+description: "Relato humorístico de una clase de ética en la que un profesor ilustra la importancia de las prioridades vitales con un frasco de piedras, arena y perdigones, con un inesperado y cómico giro final."
 date: 2009-04-29
 url: https://lafilosofiabarata.wordpress.com/2009/04/29/clase-de-etica/
 tipo: entrada

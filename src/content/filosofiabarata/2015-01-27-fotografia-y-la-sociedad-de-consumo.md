@@ -1,6 +1,6 @@
 ---
 title: "Fotografía y la sociedad de consumo"
-descripcion: "Ampliación sobre la fotografía y el consumismo: la fotografía en redes sociales se ha convertido en capitalismo salvaje donde el selfie importa más que el momento, alejándonos del decrecimiento consciente."
+description: "Ampliación sobre la fotografía y el consumismo: la fotografía en redes sociales se ha convertido en capitalismo salvaje donde el selfie importa más que el momento, alejándonos del decrecimiento consciente."
 date: 2015-01-27
 url: https://lafilosofiabarata.wordpress.com/2015/01/27/fotografia-y-la-sociedad-de-consumo/
 tipo: entrada

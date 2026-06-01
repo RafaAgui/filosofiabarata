@@ -1,6 +1,6 @@
 ---
 title: "El derecho a la ventana"
-descripcion: "Cita del artista Hundertwasser sobre el derecho de cada habitante a decorar la fachada exterior de su ventana, afirmando la identidad individual frente a la arquitectura uniforme."
+description: "Cita del artista Hundertwasser sobre el derecho de cada habitante a decorar la fachada exterior de su ventana, afirmando la identidad individual frente a la arquitectura uniforme."
 date: 2011-01-28
 url: https://lafilosofiabarata.wordpress.com/2011/01/28/el-derecho-a-la-ventana/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "La educación y la estética 1"
-descripcion: "Primera parte de una serie sobre la crisis de los sistemas educativos occidentales, argumentando que la estética puede ser el arma para demoler un modelo curricular anquilosado en la tradición."
+description: "Primera parte de una serie sobre la crisis de los sistemas educativos occidentales, argumentando que la estética puede ser el arma para demoler un modelo curricular anquilosado en la tradición."
 date: 2011-02-23
 url: https://lafilosofiabarata.wordpress.com/2011/02/23/la-educacion-y-la-estetica-1/
 tipo: entrada

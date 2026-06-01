@@ -1,6 +1,6 @@
 ---
 title: "Rousseau y el mal"
-descripcion: "Exposición de la teoría de Rousseau sobre el mal: no tiene origen religioso sino social, causado por la propiedad privada y un mal gobierno, y su solución no es espiritual sino política y revolucionaria."
+description: "Exposición de la teoría de Rousseau sobre el mal: no tiene origen religioso sino social, causado por la propiedad privada y un mal gobierno, y su solución no es espiritual sino política y revolucionaria."
 date: 2019-04-24
 url: https://lafilosofiabarata.wordpress.com/2019/04/24/rousseau-y-el-mal/
 tipo: entrada

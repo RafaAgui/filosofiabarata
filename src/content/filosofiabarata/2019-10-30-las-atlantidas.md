@@ -1,6 +1,6 @@
 ---
 title: "Las Atlántidas"
-descripcion: "Análisis del texto de Ortega y Gasset sobre las culturas sumergidas, reflexionando sobre los límites de la perspectiva subjetiva al estudiar la historia y cómo la cultura occidental interpreta las demás desde su sesgo."
+description: "Análisis del texto de Ortega y Gasset sobre las culturas sumergidas, reflexionando sobre los límites de la perspectiva subjetiva al estudiar la historia y cómo la cultura occidental interpreta las demás desde su sesgo."
 date: 2019-10-30
 url: https://lafilosofiabarata.wordpress.com/2019/10/30/las-atlantidas/
 tipo: entrada

@@ -1,6 +1,6 @@
 ---
 title: "Fichte y la quintuplicidad de la razón"
-descripcion: "Explicación de las cinco etapas históricas de Fichte como proceso de autoconciencia del ente absoluto, con su polémica afirmación de que los alemanes estaban llamados a guiar al resto de naciones hacia la libertad."
+description: "Explicación de las cinco etapas históricas de Fichte como proceso de autoconciencia del ente absoluto, con su polémica afirmación de que los alemanes estaban llamados a guiar al resto de naciones hacia la libertad."
 date: 2019-12-18
 url: https://lafilosofiabarata.wordpress.com/2019/12/18/fichte-y-la-quintuplicidad-de-la-razon/
 tipo: entrada

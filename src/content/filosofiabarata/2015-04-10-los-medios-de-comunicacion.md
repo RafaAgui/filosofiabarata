@@ -1,6 +1,6 @@
 ---
 title: "Los medios de comunicación"
-descripcion: "Análisis de cómo los medios insensibilizan a la población saturando, banalizando y olvidando noticias graves, vaciando el exceso de información de toda sustancia y creando indiferencia ante tragedias reales."
+description: "Análisis de cómo los medios insensibilizan a la población saturando, banalizando y olvidando noticias graves, vaciando el exceso de información de toda sustancia y creando indiferencia ante tragedias reales."
 date: 2015-04-10
 url: https://lafilosofiabarata.wordpress.com/2015/04/10/los-medios-de-comunicacion/
 tipo: entrada

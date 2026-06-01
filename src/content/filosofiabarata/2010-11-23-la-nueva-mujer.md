@@ -1,6 +1,6 @@
 ---
 title: "La nueva Mujer"
-descripcion: "Entrada dedicada a una pieza musical del grupo Rojo Cancionero y Banderas Rotas sobre la mujer emancipada y su lucha por la igualdad."
+description: "Entrada dedicada a una pieza musical del grupo Rojo Cancionero y Banderas Rotas sobre la mujer emancipada y su lucha por la igualdad."
 date: 2010-11-23
 url: https://lafilosofiabarata.wordpress.com/2010/11/23/la-nueva-mujer/
 tipo: entrada

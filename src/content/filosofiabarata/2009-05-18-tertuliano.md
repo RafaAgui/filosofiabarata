@@ -1,6 +1,6 @@
 ---
 title: "Tertuliano"
-descripcion: "Análisis del pensamiento de Tertuliano, padre de la Iglesia, su defensa de la tradición apostólica como única verdad y su feroz ataque contra la filosofía griega, especialmente contra Aristóteles."
+description: "Análisis del pensamiento de Tertuliano, padre de la Iglesia, su defensa de la tradición apostólica como única verdad y su feroz ataque contra la filosofía griega, especialmente contra Aristóteles."
 date: 2009-05-18
 url: https://lafilosofiabarata.wordpress.com/2009/05/18/tertuliano/
 tipo: entrada

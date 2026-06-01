@@ -1,6 +1,6 @@
 ---
 title: "La no existencia"
-descripcion: "Viñeta en la que el personaje Craven visita el bar de Filosofía Barata para reflexionar desde su perspectiva existencial sobre la no existencia y la muerte."
+description: "Viñeta en la que el personaje Craven visita el bar de Filosofía Barata para reflexionar desde su perspectiva existencial sobre la no existencia y la muerte."
 date: 2012-02-25
 url: https://lafilosofiabarata.wordpress.com/2012/02/25/la-no-existencia/
 tipo: entrada

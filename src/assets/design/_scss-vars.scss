@@ -1,0 +1,89 @@
+// SCSS variable aliases for CSS custom properties.
+// Usage: @use '../variables' as *; then $color-text-primary, $spacing-gutter, etc.
+// Note: these wrap var() so they work in property values but NOT in SCSS color functions.
+
+// --- Semantic Colors: Interactive ---
+$color-on-secondary: var(--color-on-secondary);
+
+// --- Semantic Colors: Text ---
+$color-text-primary:    var(--color-text-primary);
+$color-text-secondary:  var(--color-text-secondary);
+$color-text-tertiary:   var(--color-text-tertiary);
+$color-text-disabled:   var(--color-text-disabled);
+$color-text-inverse:    var(--color-text-inverse);
+
+// --- Semantic Colors: UI shortcuts ---
+$color-bg:              var(--color-bg);
+$color-text:            var(--color-text);
+$color-heading:         var(--color-heading);
+$color-meta:            var(--color-meta);
+$color-border:          var(--color-border);
+$color-link:            var(--color-link);
+$color-icon:            var(--color-icon);
+
+// --- Semantic Colors: Backgrounds & Surfaces ---
+$color-background:             var(--color-background);
+$color-background-secondary:   var(--color-background-secondary);
+$color-background-tertiary:    var(--color-background-tertiary);
+$color-surface-primary:        var(--color-surface-primary);
+$color-surface-secondary:      var(--color-surface-secondary);
+$color-surface-tertiary:       var(--color-surface-tertiary);
+$color-footer-bg:              var(--color-footer-bg);
+$color-featured-bg:            var(--color-featured-bg);
+
+// --- Semantic Colors: Borders ---
+$color-border-primary:    var(--color-border-primary);
+$color-border-secondary:  var(--color-border-secondary);
+$color-divider:           var(--color-divider);
+
+// --- Semantic Colors: Pills ---
+$color-pill-bg:           var(--color-pill-bg);
+$color-pill-text:         var(--color-pill-text);
+$color-pill-active-bg:    var(--color-pill-active-bg);
+$color-pill-active-text:  var(--color-pill-active-text);
+
+// --- Semantic Colors: Buttons ---
+$color-btn-bg:        var(--color-btn-bg);
+$color-btn-text:      var(--color-btn-text);
+$color-btn-hover-bg:  var(--color-btn-hover-bg);
+
+// --- Semantic Colors: Primary ---
+$color-primary:           var(--color-primary-base);
+$color-primary-container: var(--color-primary-container);
+
+// --- Semantic Colors: Secondary (Terracotta) ---
+$color-secondary:            var(--color-secondary-base);
+$color-secondary-container:  var(--color-secondary-container);
+$color-secondary-fixed:      var(--color-secondary-fixed);
+$color-secondary-fixed-dim:  var(--color-secondary-fixed-dim);
+
+// --- Semantic Colors: Tertiary ---
+$color-tertiary:            var(--color-tertiary-base);
+$color-tertiary-container:  var(--color-tertiary-container);
+$color-tertiary-fixed:      var(--color-tertiary-fixed);
+
+// --- Semantic Colors: Feedback ---
+$color-error:    var(--color-error-base);
+$color-accent:   var(--color-accent);
+
+// --- Spacing ---
+$spacing-container-max:   var(--spacing-container-max);
+$spacing-section-gap:     var(--spacing-section-gap);
+$spacing-element-gap:     var(--spacing-element-gap);
+$spacing-gutter:          var(--spacing-gutter);
+$spacing-margin-mobile:   var(--spacing-margin-mobile);
+$spacing-margin-desktop:  var(--spacing-margin-desktop);
+
+// --- Radius ---
+$radius-sm:       var(--radius-sm);
+$radius-default:  var(--radius-default);
+$radius-md:       var(--radius-md);
+$radius-lg:       var(--radius-lg);
+$radius-xl:       var(--radius-xl);
+$radius-full:     var(--radius-full);
+
+// --- Fonts ---
+$font-display: var(--font-display);
+$font-body:    var(--font-body);
+$font-ui:      var(--font-ui);
+$font-serif:   var(--font-serif);

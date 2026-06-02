@@ -1,0 +1,46 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import FilosofiabarataPosts from "../../components/FilosofiabarataPosts";
+import { parseCategories, categoryToSlug } from "../../utils/categories";
+import "../../assets/components/Filosofiabarata.scss";
+
+export async function getStaticPaths() {
+  const entries: CollectionEntry<'filosofiabarata'>[] = await getCollection('filosofiabarata');
+
+  const allCategories = new Set<string>();
+  entries.forEach((entry) => {
+    parseCategories(entry.data.categorias).forEach((cat) => allCategories.add(cat));
+  });
+
+  return Array.from(allCategories).map((category) => {
+    const posts = entries
+      .filter((entry) => parseCategories(entry.data.categorias).includes(category))
+      .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+      .map((entry) => ({
+        slug: entry.slug,
+        title: entry.data.title,
+        date: entry.data.date.toISOString().split('T')[0],
+        categorias: entry.data.categorias,
+        description: entry.data.description ?? '',
+      }));
+
+    return {
+      params: { categoria: categoryToSlug(category) },
+      props: { category, posts },
+    };
+  });
+}
+
+const { category, posts } = Astro.props;
+---
+
+<Layout>
+  <section class="category-page">
+    <header class="category-page__header">
+      <h1 class="category-page__title">{category}</h1>
+      <p class="category-page__count">{posts.length} {posts.length === 1 ? 'entrada' : 'entradas'}</p>
+    </header>
+    <FilosofiabarataPosts posts={posts} client:load />
+  </section>
+</Layout>

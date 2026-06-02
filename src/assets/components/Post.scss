@@ -1,0 +1,120 @@
+@use '../variables' as *;
+
+.post {
+  max-width: $spacing-container-max;
+  margin: 0 auto;
+  padding: $spacing-element-gap $spacing-gutter;
+
+  &__header {
+    margin-bottom: $spacing-element-gap;
+  }
+
+  &__header-content {
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  &__category {
+    @include type-label-md;
+    display: inline-block;
+    background-color: $color-secondary-container;
+    color: $color-pill-text;
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+    margin-bottom: 0.75rem;
+  }
+
+  &__meta {
+    @include type-label-sm;
+    color: $color-text-secondary;
+    margin: 0 0 0.75rem;
+  }
+
+  &__date {
+    color: $color-text-secondary;
+  }
+
+  &__title {
+    @include type-display-lg;
+    color: $color-heading;
+    margin: 0;
+  }
+
+  &__body {
+    h1, h2, h3 {
+      @include type-headline-md;
+      color: $color-heading;
+      margin: 2rem 0 0.75rem;
+    }
+
+    h3 {
+      @include type-headline-sm;
+    }
+
+    p {
+      @include type-body-lg;
+      color: $color-text-primary;
+      margin: 0 0 1.25rem;
+    }
+
+    blockquote {
+      border-left: 3px solid $color-border-primary;
+      margin: 1.5rem 0;
+      padding: 0.75rem 1.25rem;
+      color: $color-text-secondary;
+      font-style: italic;
+
+      p {
+        margin: 0;
+      }
+    }
+
+    a {
+      color: $color-link;
+      text-decoration: underline;
+
+      &:hover {
+        color: $color-text-primary;
+      }
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+    }
+
+    ul, ol {
+      @include type-body-lg;
+      color: $color-text-primary;
+      padding-left: 1.5rem;
+      margin-bottom: 1.25rem;
+    }
+  }
+
+  &__footer {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid $color-border;
+  }
+
+  &__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  &__tag {
+    @include type-label-sm;
+    background-color: $color-pill-bg;
+    color: $color-pill-text;
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+  }
+}

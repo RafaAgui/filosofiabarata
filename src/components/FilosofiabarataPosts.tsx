@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { parseCategories, categoryToSlug } from "../utils/categories";
 
 interface Post {
   slug: string;
@@ -24,14 +25,24 @@ export default function FilosofiabarataPosts({ posts, initialCount = 13, loadMor
     <>
       <ul className="posts">
         {visiblePosts.map((post) => (
-          <a key={post.slug} className="posts__link" href={`/blog/${post.slug}`}>
-            <li className="posts__item">
+          <li key={post.slug} className="posts__item">
+            <a className="posts__title-link" href={`/blog/${post.slug}`}>
               <h2 className="posts__title">{post.title}</h2>
-              <p className="posts__description">{post.description}</p>
-              <p className="posts__date">Fecha: {post.date}</p>
-              <p className="posts__categories">Categorias: {post.categorias}</p>
-            </li>
-          </a>
+            </a>
+            <p className="posts__description">{post.description}</p>
+            <p className="posts__date">{post.date}</p>
+            <div className="posts__categories">
+              {parseCategories(post.categorias).map((cat) => (
+                <a
+                  key={cat}
+                  className="posts__category"
+                  href={`/categorias/${categoryToSlug(cat)}`}
+                >
+                  {cat}
+                </a>
+              ))}
+            </div>
+          </li>
         ))}
       </ul>
       {hasMore && (

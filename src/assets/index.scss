@@ -1,0 +1,46 @@
+@use "../assets/variables";
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: oklch(97.8% 0.003 70);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: 'Sarabun', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background: oklch(97.8% 0.003 70);
+	color: #000000;
+}
+
+.bold {
+  font-weight: 700;
+  font-style: normal;
+}
+
+.italic {
+  font-weight: 400;
+  font-style: italic;
+}
+
+.main-page{
+      max-width: var(--spacing-home-max);
+    margin: 0 auto;
+    padding: var(--spacing-element-gap) var(--spacing-gutter);
+}

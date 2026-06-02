@@ -1,6 +1,8 @@
 ---
 import { getCollection, render } from "astro:content";
-import Layout  from "../../layouts/Layout.astro";
+import Layout from "../../layouts/Layout.astro";
+import '../../assets/components/Post.scss';
+import { parseCategories, categoryToSlug } from "../../utils/categories";
 
 export async function getStaticPaths() {
   const filosofiabarata = await getCollection('filosofiabarata');
@@ -12,28 +14,41 @@ export async function getStaticPaths() {
 
 const { filosofiabarata } = Astro.props;
 const { data } = filosofiabarata;
-const { date, description, title, etiquetas } = data;
+const { date, categorias, title, etiquetas } = data;
 
 const { Content } = await render(filosofiabarata);
 
-console.log(filosofiabarata);
+const formattedDate = date.toISOString().split('T')[0];
 ---
 
 <Layout>
-  <section class="section">
-      <div class="content">
-        <Content />
+  <article class="post">
+    <header class="post__header">
+      <div class="post__header-content">
+        <div class="post__categories">
+          {parseCategories(categorias).map((cat) => (
+            <a class="post__category" href={`/categorias/${categoryToSlug(cat)}`}>{cat}</a>
+          ))}
+        </div>
+        <p class="post__meta">
+          <time class="post__date" datetime={formattedDate}>{formattedDate}</time>
+        </p>
       </div>
-      <p>date: {date}</p>
-      <p>etiquetas: {etiquetas}</p>
-  </section>
-</>
+      <h1 class="post__title">{title}</h1>
+    </header>
 
-<style>
-  .section {
+    <div class="post__body">
+      <Content />
+    </div>
 
-  }
-  .section-img{
-    max-width: 300px;
-  }
-</style>
+    {etiquetas && (
+      <footer class="post__footer">
+        <ul class="post__tags">
+          {etiquetas.split(',').map((tag: string) => (
+            <li class="post__tag">{tag.trim()}</li>
+          ))}
+        </ul>
+      </footer>
+    )}
+  </article>
+</Layout>

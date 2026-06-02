@@ -1,0 +1,97 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { parseCategories, categoryToSlug } from "../../utils/categories";
+
+const entries: CollectionEntry<'filosofiabarata'>[] = await getCollection('filosofiabarata');
+
+const categoryMap = new Map<string, number>();
+entries.forEach((entry) => {
+  parseCategories(entry.data.categorias).forEach((cat) => {
+    categoryMap.set(cat, (categoryMap.get(cat) ?? 0) + 1);
+  });
+});
+
+const categories = Array.from(categoryMap.entries())
+  .sort((a, b) => b[1] - a[1]);
+---
+
+<Layout>
+  <section class="category-index">
+    <header class="category-index__header">
+      <h1 class="category-index__title">Categorías</h1>
+      <p class="category-index__subtitle">{categories.length} categorías</p>
+    </header>
+    <ul class="category-index__list">
+      {categories.map(([name, count]) => (
+        <li class="category-index__item">
+          <a class="category-index__link" href={`/categorias/${categoryToSlug(name)}`}>
+            <span class="category-index__name">{name}</span>
+            <span class="category-index__count">{count}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Layout>
+
+<style lang="scss">
+  @use '../../assets/variables' as *;
+
+  .category-index {
+    max-width: $spacing-container-max;
+    margin: 0 auto;
+    padding: $spacing-element-gap $spacing-gutter;
+
+    &__header {
+      margin-bottom: $spacing-element-gap;
+    }
+
+    &__title {
+      @include type-display-lg;
+      color: $color-heading;
+      margin: 0 0 0.25rem;
+    }
+
+    &__subtitle {
+      @include type-label-md;
+      color: $color-text-secondary;
+      margin: 0;
+    }
+
+    &__list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 0.5rem;
+    }
+
+    &__item {
+      border-bottom: 1px solid $color-border;
+    }
+
+    &__link {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.75rem 0;
+      text-decoration: none;
+      color: $color-text-primary;
+      transition: color 0.2s ease-in-out;
+
+      &:hover {
+        color: $color-link;
+      }
+    }
+
+    &__name {
+      @include type-body-lg;
+    }
+
+    &__count {
+      @include type-label-sm;
+      color: $color-text-secondary;
+    }
+  }
+</style>

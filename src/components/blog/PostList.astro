@@ -14,6 +14,7 @@ const posts: Post[] = entries
     date: entry.data.date.toISOString().split('T')[0],
     categorias: entry.data.categorias,
     description: entry.data.description ?? '',
+    img: entry.data.img,
   }));
 ---
 

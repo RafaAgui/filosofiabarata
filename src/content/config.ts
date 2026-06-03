@@ -8,6 +8,7 @@ const filosofiabarata = defineCollection({
     tipo: z.string().optional(),
     categorias: z.string(),
     etiquetas: z.string().optional(),
+    img: z.string().optional(),
   }),
 })
 

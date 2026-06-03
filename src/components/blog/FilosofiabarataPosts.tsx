@@ -19,6 +19,11 @@ export default function FilosofiabarataPosts({ posts, initialCount = 13, loadMor
       <ul className="posts">
         {visiblePosts.map((post) => (
           <li key={post.slug} className="posts__item">
+            {post.img && (
+              <a className="posts__img-link" href={`/blog/${post.slug}`}>
+                <img className="posts__img" src={post.img} alt={post.title} />
+              </a>
+            )}
             <a className="posts__title-link" href={`/blog/${post.slug}`}>
               <h2 className="posts__title">{post.title}</h2>
             </a>

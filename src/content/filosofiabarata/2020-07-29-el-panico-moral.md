@@ -1,5 +1,6 @@
 ---
 title: "El pánico moral"
+img: "/imagenes/panico-moral.png"
 description: "Explicación del concepto de pánico moral acuñado por Stanley Cohen y desarrollado por Stuart Hall, mostrando cómo los medios sobredimensionan ciertos hechos para crear alarma social y justificar medidas represivas."
 date: 2020-07-29
 url: https://lafilosofiabarata.wordpress.com/2020/07/29/el-panico-moral/

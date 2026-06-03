@@ -2,7 +2,7 @@
 title: "La fotografía y el ser (I parte)"
 description: "Primera parte de un ensayo sobre la fotografía y su autonomía artística desde el siglo XIX, analizando cómo democratizó el arte al permitir que cada individuo expresara su propia sensibilidad."
 date: 2011-07-14
-url: https://lafilosofiabarata.wordpress.com/2011/07/14/la-fotografia-y-el-ser-i-parte/
+url: /blog/2011-07-14-la-fotografia-y-el-ser-i-parte
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Estética, fotografía"

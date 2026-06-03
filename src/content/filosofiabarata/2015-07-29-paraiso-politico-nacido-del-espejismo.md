@@ -2,7 +2,7 @@
 title: "Paraíso político nacido del espejismo"
 description: "Reflexión sobre la ilusión de cambio político en España con la irrupción de Podemos y Ciudadanos, usando una cita de la novela La Bodega para cuestionar si los nuevos partidos son esperanza real o nuevo espejismo."
 date: 2015-07-29
-url: https://lafilosofiabarata.wordpress.com/2015/07/29/paraiso-politico-nacido-del-espejismo/
+url: /blog/2015-07-29-paraiso-politico-nacido-del-espejismo
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "citas, libros, política"

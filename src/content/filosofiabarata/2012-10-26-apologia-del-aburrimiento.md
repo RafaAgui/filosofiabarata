@@ -2,7 +2,7 @@
 title: "Apología del aburrimiento"
 description: "Defensa del aburrimiento como fuente de creatividad e ideas, criticando cómo la sociedad capitalista nos obliga a entretenernos constantemente para que dejemos de pensar y sigamos consumiendo."
 date: 2012-10-26
-url: https://lafilosofiabarata.wordpress.com/2012/10/26/apologia-del-aburrimiento/
+url: /blog/2012-10-26-apologia-del-aburrimiento
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "ética, capitalismo, libros"

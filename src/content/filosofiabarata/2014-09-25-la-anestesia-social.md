@@ -2,7 +2,7 @@
 title: "La anestesia social"
 description: "Análisis basado en Susan Buck-Morss y Walter Benjamin sobre cómo la sobreestimulación moderna bloquea la percepción, creando una anestesia social que impide reaccionar críticamente ante la realidad."
 date: 2014-09-25
-url: https://lafilosofiabarata.wordpress.com/2014/09/25/la-anestesia-social/
+url: /blog/2014-09-25-la-anestesia-social
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Estética, Susan Buck-Morss, Walter Benjamin"

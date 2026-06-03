@@ -2,7 +2,7 @@
 title: "Lo bello y lo sublime, lo liso y lo pulido"
 description: "Diálogo con Byung-Chul Han sobre la anestesia estética de las imágenes pulidas en redes sociales, parcialmente en desacuerdo al defender que el arte pop de Jeff Koons sí revela la realidad social."
 date: 2019-05-22
-url: https://lafilosofiabarata.wordpress.com/2019/05/22/lo-bello-y-lo-sublime-lo-liso-y-lo-pulido/
+url: /blog/2019-05-22-lo-bello-y-lo-sublime-lo-liso-y-lo-pulido
 tipo: entrada
 categorias: "Actualidad"
 ---

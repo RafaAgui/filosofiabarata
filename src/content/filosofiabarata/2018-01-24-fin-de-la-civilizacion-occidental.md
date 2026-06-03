@@ -2,7 +2,7 @@
 title: "Fin de la civilizacion occidental"
 description: "Reflexión pesimista sobre el futuro de la civilización occidental ante la destrucción medioambiental, argumentando que los poderosos no tienen interés en resolver la crisis climática y que la clase media pagará las consecuencias."
 date: 2018-01-24
-url: https://lafilosofiabarata.wordpress.com/2018/01/24/fin-de-la-civilizacion-occidental/
+url: /blog/2018-01-24-fin-de-la-civilizacion-occidental
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Ciencia"

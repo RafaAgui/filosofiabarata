@@ -2,7 +2,7 @@
 title: "Fotografía y la sociedad de consumo"
 description: "Ampliación sobre la fotografía y el consumismo: la fotografía en redes sociales se ha convertido en capitalismo salvaje donde el selfie importa más que el momento, alejándonos del decrecimiento consciente."
 date: 2015-01-27
-url: https://lafilosofiabarata.wordpress.com/2015/01/27/fotografia-y-la-sociedad-de-consumo/
+url: /blog/2015-01-27-fotografia-y-la-sociedad-de-consumo
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "ética, capitalismo, Cine, citas, decrecimiento, fotografía, redes sociales"
@@ -10,7 +10,7 @@ etiquetas: "ética, capitalismo, Cine, citas, decrecimiento, fotografía, redes 
 
 # Fotografía y la sociedad de consumo
 
-> *En contestación al comentario recibido por* El tocapelotas *en mi [entrada anterior](https://lafilosofiabarata.wordpress.com/2015/01/21/fotografia-y-redes-sociales/ "Fotografía y redes sociales"), he escrito esta nueva entrada, iba a contestarle directamente, pero me extendí tanto en mis explicaciones que consideré interesante dedicarle una nueva entrada.*
+> *En contestación al comentario recibido por* El tocapelotas *en mi [entrada anterior](/blog/2015-01-21-fotografia-y-redes-sociales "Fotografía y redes sociales"), he escrito esta nueva entrada, iba a contestarle directamente, pero me extendí tanto en mis explicaciones que consideré interesante dedicarle una nueva entrada.*
 
 A lo que yo quería llegar e intentaba demostrar, quizás de manera demasiado sutil, es que los comportamientos convulsivos no los considero inherentes al ser humano, sino al mundo occidental. No soy un gran conocedor del mundo nipón, pero es de sobra conocida, los comportamientos llevados a extremos que tienen (jóvenes recluidos en su cuarto, o los denominados soltero parásito, o la fobia social que sufren muchas personas en dicho país, por no hablar de sus trastornos sexuales). Es decir tienen comportamientos verdaderamente compulsivos (llevados a la enfermedad), no hay que negarlo, pero esto sólo ocurre en el mundo capitalista, industrializado o el llamado primer mundo.
 

@@ -2,7 +2,7 @@
 title: "Causalidad y Saint Germain"
 description: "Crítica irónica a los ejercicios pseudocientíficos de Saint Germain para adelgazar mediante visualizaciones mentales, advirtiendo del peligro de aplicar estas ideas a enfermedades graves como el cáncer."
 date: 2011-01-04
-url: https://lafilosofiabarata.wordpress.com/2011/01/04/causalidad-y-saint-germain/
+url: /blog/2011-01-04-causalidad-y-saint-germain
 tipo: entrada
 categorias: "Ilustración"
 etiquetas: "Causalidad, Saint Germain"

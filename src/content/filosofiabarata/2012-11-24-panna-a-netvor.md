@@ -2,7 +2,7 @@
 title: "Panna a netvor"
 description: "Cita de la película checa Panna a netvor de Juraj Herz sobre el precio de amar: hacerse humano implica descubrir la muerte y el sufrimiento, pero el personaje declara que pagará ese precio."
 date: 2012-11-24
-url: https://lafilosofiabarata.wordpress.com/2012/11/24/panna-a-netvor/
+url: /blog/2012-11-24-panna-a-netvor
 tipo: entrada
 categorias: "Existencialismo"
 etiquetas: "Cine, citas, Existencialismo"

@@ -2,7 +2,7 @@
 title: "Rojo cancionero y Banderas rotas"
 description: "Reseña del espectáculo de Rojo Cancionero y Banderas Rotas, en el que se narró una célebre cita de Diógenes el Cínico sobre la honestidad y la búsqueda de la autenticidad."
 date: 2011-11-26
-url: https://lafilosofiabarata.wordpress.com/2011/11/26/rojo-cancionero-y-banderas-rotas/
+url: /blog/2011-11-26-rojo-cancionero-y-banderas-rotas
 tipo: entrada
 categorias: "Grecia"
 etiquetas: "Cínicos, citas, Diogenes, poesía"

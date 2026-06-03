@@ -2,7 +2,7 @@
 title: "Maquiavelo nos gobierna"
 description: "Análisis de las teorías de Maquiavelo aplicadas a la política actual, mostrando cómo El Príncipe prescinde de la moral para mantener el poder y cómo eso se refleja en los gobiernos contemporáneos."
 date: 2012-08-30
-url: https://lafilosofiabarata.wordpress.com/2012/08/30/maquiavelo-nos-gobierna/
+url: /blog/2012-08-30-maquiavelo-nos-gobierna
 tipo: entrada
 categorias: "Actualidad, Ilustración"
 etiquetas: "Indignados, Maquiavelo, Miedo"

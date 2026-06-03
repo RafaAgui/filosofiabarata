@@ -2,7 +2,7 @@
 title: "Luis Estrada"
 description: "Reseña del cine comprometido del director mexicano Luis Estrada, que en películas como La ley de Herodes y Un mundo maravilloso denuncia con humor negro la corrupción política y las injusticias sociales."
 date: 2017-11-01
-url: https://lafilosofiabarata.wordpress.com/2017/11/01/luis-estrada/
+url: /blog/2017-11-01-luis-estrada
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Cine, La ley de Herodes, Luis Estrada, Un mundo maravilloso"

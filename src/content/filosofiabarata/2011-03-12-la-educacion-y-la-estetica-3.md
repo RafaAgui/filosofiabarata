@@ -2,7 +2,7 @@
 title: "La educación y la estética 3"
 description: "Tercera parte que analiza la distinción kantiana entre talento científico y artístico, criticando que el sistema educativo actual anula la autonomía y el genio creativo en favor de la acumulación de conocimientos."
 date: 2011-03-12
-url: https://lafilosofiabarata.wordpress.com/2011/03/12/la-educacion-y-la-estetica-3/
+url: /blog/2011-03-12-la-educacion-y-la-estetica-3
 tipo: entrada
 categorias: "Educación"
 etiquetas: "educación, Estética, Ilustración, Kant, Schiller"

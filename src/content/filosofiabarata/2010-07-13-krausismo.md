@@ -2,7 +2,7 @@
 title: "Krausismo"
 description: "Explicación del krausismo como corriente filosófica derivada de Krause, que defiende el panenteísmo, la igualdad social, el ecologismo y una enseñanza libre y no dogmática que forje individuos autónomos."
 date: 2010-07-13
-url: https://lafilosofiabarata.wordpress.com/2010/07/13/krausismo/
+url: /blog/2010-07-13-krausismo
 tipo: entrada
 categorias: "Educación, Moderna"
 etiquetas: "Giner de los Ríos, Krause, Krausismo, Libertad, Moderna"

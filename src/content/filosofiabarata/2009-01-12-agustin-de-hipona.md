@@ -2,7 +2,7 @@
 title: "Agustín de Hipona"
 description: "Análisis del pensamiento de San Agustín, máximo exponente de la Patrística, sobre el alma, el libre albedrío, el mal como ausencia del bien y la dualidad cuerpo-alma en el contexto neoplatónico."
 date: 2009-01-12
-url: https://lafilosofiabarata.wordpress.com/2009/01/12/agustin-de-hipona/
+url: /blog/2009-01-12-agustin-de-hipona
 tipo: entrada
 categorias: "Edad Media"
 etiquetas: "Cristianismo, Patrística, San Agustín"

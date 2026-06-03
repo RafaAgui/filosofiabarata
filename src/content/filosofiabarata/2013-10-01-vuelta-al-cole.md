@@ -2,7 +2,7 @@
 title: "Vuelta al cole…"
 description: "Cita de Bob Black en La abolición del trabajo en la que describe a las escuelas como campos de concentración juveniles donde se enseñan obediencia y puntualidad al futuro trabajador."
 date: 2013-10-01
-url: https://lafilosofiabarata.wordpress.com/2013/10/01/vuelta-al-cole/
+url: /blog/2013-10-01-vuelta-al-cole
 tipo: entrada
 categorias: "S. XX"
 etiquetas: "Bob Black, citas, libros"

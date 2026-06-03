@@ -2,7 +2,7 @@
 title: "El mito de caverna"
 description: "Actualización del mito de la caverna de Platón aplicado a la sociedad mediática actual, donde la TV e internet son las nuevas sombras, y la educación es la única vía para romper las cadenas de la ignorancia."
 date: 2015-10-07
-url: https://lafilosofiabarata.wordpress.com/2015/10/07/el-mito-de-caverna/
+url: /blog/2015-10-07-el-mito-de-caverna
 tipo: entrada
 categorias: "Grecia"
 etiquetas: "educación, Libertad, Mito de la caverna, Platón"

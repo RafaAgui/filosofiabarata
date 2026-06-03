@@ -2,7 +2,7 @@
 title: "La revolución"
 description: "Reflexión sobre el cambio social gradual en lugar de la gran revolución, argumentando que los pequeños cambios en hábitos de consumo y ocio son más transformadores y duraderos, apoyado con una referencia a El Señor de los Anillos."
 date: 2013-08-23
-url: https://lafilosofiabarata.wordpress.com/2013/08/23/la-revolucion/
+url: /blog/2013-08-23-la-revolucion
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Cine, citas, Crisis, Revolución"

@@ -2,7 +2,7 @@
 title: "Nicholas Nixon"
 description: "Reflexión sobre la fotografía ontológica de Nicholas Nixon, destacando sus series sobre ancianos en residencias, personas con sida y Las hermanas Brown como retratos del tiempo, la humanidad y la enfermedad."
 date: 2017-12-20
-url: https://lafilosofiabarata.wordpress.com/2017/12/20/nicholas-nixon/
+url: /blog/2017-12-20-nicholas-nixon
 tipo: entrada
 categorias: "S. XX"
 ---

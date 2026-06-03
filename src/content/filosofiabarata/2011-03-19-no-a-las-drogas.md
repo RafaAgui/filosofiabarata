@@ -2,7 +2,7 @@
 title: "No a las drogas"
 description: "Reflexión ética sobre el consumo de drogas en Occidente y su conexión directa con la violencia del narcotráfico, especialmente en México, cuestionando la doble moral del consumidor que condena las mafias."
 date: 2011-03-19
-url: https://lafilosofiabarata.wordpress.com/2011/03/19/no-a-las-drogas/
+url: /blog/2011-03-19-no-a-las-drogas
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "ética, drogas"

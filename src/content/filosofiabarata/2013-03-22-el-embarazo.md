@@ -2,7 +2,7 @@
 title: "El embarazo"
 description: "Poema de Emma de Coro del libro Galápagos de California sobre las ideas como hijos que crecen en el cuerpo y que morirán con su autor, expresando la angustia creativa de quien lleva sus obras consigo."
 date: 2013-03-22
-url: https://lafilosofiabarata.wordpress.com/2013/03/22/el-embarazo/
+url: /blog/2013-03-22-el-embarazo
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "citas, libros, poesía"

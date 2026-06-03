@@ -2,7 +2,7 @@
 title: "<em>Racionalidad, fundamentación y aplicación de la ética</em> de Javier Muguerza"
 description: "Análisis del texto de Muguerza sobre la ética aplicada: defiende una ética cívica articulada en tres niveles (cosmopolita, nacional y sectorial) donde la política media entre la libertad individual y el bien común."
 date: 2020-03-31
-url: https://lafilosofiabarata.wordpress.com/2020/03/31/racionalidad-fundamentacion-y-aplicacion-de-la-etica-de-javier-muguerza/
+url: /blog/2020-03-31-racionalidad-fundamentacion-y-aplicacion-de-la-etica-de-javier-muguerza
 tipo: entrada
 categorias: "S. XX"
 etiquetas: "ética, Javier Muguerza"

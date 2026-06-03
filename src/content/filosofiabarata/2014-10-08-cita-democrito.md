@@ -2,7 +2,7 @@
 title: "Cita Demócrito"
 description: "Cita de Demócrito de Abdera afirmando que quien está dominado enteramente por la riqueza nunca podrá ser justo, conectando la avaricia con la imposibilidad de la virtud."
 date: 2014-10-08
-url: https://lafilosofiabarata.wordpress.com/2014/10/08/cita-democrito/
+url: /blog/2014-10-08-cita-democrito
 tipo: entrada
 categorias: "Grecia"
 etiquetas: "capitalismo, citas, Demócrito, Grecia"

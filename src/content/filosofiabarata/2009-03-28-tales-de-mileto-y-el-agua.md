@@ -2,7 +2,7 @@
 title: "Tales de Mileto y el agua"
 description: "Exposición de la teoría de Tales de Mileto sobre el agua como principio fundamental de todas las cosas, destacando su mérito como primer filósofo que buscó causas racionales al margen de los mitos."
 date: 2009-03-28
-url: https://lafilosofiabarata.wordpress.com/2009/03/28/tales-de-mileto-y-el-agua/
+url: /blog/2009-03-28-tales-de-mileto-y-el-agua
 tipo: entrada
 categorias: "Grecia"
 etiquetas: "Grecia, Mileto, Presocráticos, Tales"

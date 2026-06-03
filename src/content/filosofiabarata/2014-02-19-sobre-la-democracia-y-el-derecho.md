@@ -2,7 +2,7 @@
 title: "Sobre la democracia y el derecho"
 description: "Argumentación sobre la primacía del derecho sobre la democracia: los Derechos Humanos deben estar por encima de cualquier decisión democrática que atente contra la dignidad e igualdad de las personas."
 date: 2014-02-19
-url: https://lafilosofiabarata.wordpress.com/2014/02/19/sobre-la-democracia-y-el-derecho/
+url: /blog/2014-02-19-sobre-la-democracia-y-el-derecho
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "democracia, derechos, DUDH, Libertad"

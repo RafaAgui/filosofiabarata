@@ -2,7 +2,7 @@
 title: "Contra el tiempo"
 description: "Reseña del libro Contra el tiempo de Luciano Concheiro, que propone vivir cada instante como eternidad en lugar de desacelerar, como respuesta filosófica a la velocidad consumista del capitalismo."
 date: 2017-10-04
-url: https://lafilosofiabarata.wordpress.com/2017/10/04/contra-el-tiempo/
+url: /blog/2017-10-04-contra-el-tiempo
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Contra el tiempo, Filosofía práctica del instante, libros, Luciano Concheiro"

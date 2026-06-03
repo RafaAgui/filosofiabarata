@@ -2,7 +2,7 @@
 title: "Polémicas morales"
 description: "Reflexión ética sobre si las acciones son buenas o malas en sí mismas, independientemente de quien las realiza, defendiendo que se debe juzgar el acto y no al actor con ejemplos de dilemas morales concretos."
 date: 2012-02-03
-url: https://lafilosofiabarata.wordpress.com/2012/02/03/polemicas-morales/
+url: /blog/2012-02-03-polemicas-morales
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "ética, Cine, Indignados"

@@ -2,7 +2,7 @@
 title: "El abandono de la técnica V"
 description: "Conclusión del ensayo sobre el abandono de la técnica: el enjambre digital es el hombre-masa de Ortega actualizado, consumiendo sin reflexionar y sin poder ensimismarse, a la deriva como predijo el filósofo español."
 date: 2020-05-20
-url: https://lafilosofiabarata.wordpress.com/2020/05/20/el-abandono-de-la-tecnica-v/
+url: /blog/2020-05-20-el-abandono-de-la-tecnica-v
 tipo: entrada
 categorias: "Actualidad, S. XX"
 etiquetas: "Byung-Chul Han, enjambre, hombre-masa, homo digitalis, masa, Ortega y Gasset, técnica"

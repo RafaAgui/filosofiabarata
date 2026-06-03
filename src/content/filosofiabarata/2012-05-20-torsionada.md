@@ -2,7 +2,7 @@
 title: "Realidad distorsionada"
 description: "Reflexión sobre la fotografía como memoria y construcción de identidad, usando Memento y Blade Runner para explorar cómo las imágenes crean una realidad que nosotros mismos distorsionamos."
 date: 2012-05-20
-url: https://lafilosofiabarata.wordpress.com/2012/05/20/torsionada/
+url: /blog/2012-05-20-torsionada
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Cine, Descartes, Estética, Foncuberta, fotografía, libros"

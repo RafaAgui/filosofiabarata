@@ -2,7 +2,7 @@
 title: "Ética de la computación: principios de funcionalidad y diseño"
 description: "Análisis de la ética informática basada en el texto de Roberto Feltrero, defendiendo la funcionalidad abierta y el diseño transparente como alternativa ética a los sistemas cerrados que concentran el poder tecnológico."
 date: 2020-01-15
-url: https://lafilosofiabarata.wordpress.com/2020/01/15/etica-de-la-computacion-principios-de-funcionalidad-y-diseno/
+url: /blog/2020-01-15-etica-de-la-computacion-principios-de-funcionalidad-y-diseno
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "ética, computación, diseño, funcionalidad"

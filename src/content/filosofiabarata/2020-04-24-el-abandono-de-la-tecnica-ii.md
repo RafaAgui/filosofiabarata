@@ -2,7 +2,7 @@
 title: "El abandono de la técnica II"
 description: "Segunda parte sobre el abandono de la técnica: Ortega muestra cómo los avances tecnológicos ocultan la naturaleza primaria y nos hacen olvidar que fueron creados, conectando con el concepto de enjambre de Byung-Chul Han."
 date: 2020-04-24
-url: https://lafilosofiabarata.wordpress.com/2020/04/24/el-abandono-de-la-tecnica-ii/
+url: /blog/2020-04-24-el-abandono-de-la-tecnica-ii
 tipo: entrada
 categorias: "Actualidad, S. XX"
 etiquetas: "Byung-Chul Han, enjambre, hombre-masa, homo digitalis, masa, Ortega y Gasset, técnica"

@@ -2,7 +2,7 @@
 title: "Fotografía y ser (II Parte)"
 description: "Segunda parte del ensayo sobre fotografía que analiza su carácter multidisciplinar y ontológico, relacionando realidad y memoria como pilares que nos permiten conocer nuestra identidad como personas."
 date: 2011-07-22
-url: https://lafilosofiabarata.wordpress.com/2011/07/22/fotografia-y-ser-ii-parte/
+url: /blog/2011-07-22-fotografia-y-ser-ii-parte
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Estética, fotografía"

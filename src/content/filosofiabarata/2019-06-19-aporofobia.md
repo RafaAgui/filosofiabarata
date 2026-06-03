@@ -2,7 +2,7 @@
 title: "Aporofobia"
 description: "Reseña del libro de Adela Cortina sobre la aporofobia, el rechazo al pobre, explicando el origen del término, sus causas biológicas y sociales y las soluciones educativas para erradicar este fenómeno."
 date: 2019-06-19
-url: https://lafilosofiabarata.wordpress.com/2019/06/19/aporofobia/
+url: /blog/2019-06-19-aporofobia
 tipo: entrada
 categorias: "Actualidad, ética"
 ---

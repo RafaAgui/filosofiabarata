@@ -2,7 +2,7 @@
 title: "Sobre el diseño"
 description: "Crítica al diseño puesto al servicio del mercado y la obsolescencia programada, argumentando que debemos resistir las necesidades artificiales creadas por el capitalismo y consumir de forma consciente."
 date: 2014-01-20
-url: https://lafilosofiabarata.wordpress.com/2014/01/20/sobre-el-diseno/
+url: /blog/2014-01-20-sobre-el-diseno
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "ética, capitalismo, diseño, Thoreau, walden"

@@ -2,7 +2,7 @@
 title: "Mesopotamia"
 description: "Reflexión sobre el Poema de Gilgamesh y su invitación hedonista a disfrutar de los placeres de la vida como respuesta a la búsqueda del sentido de la existencia y la inmortalidad."
 date: 2010-01-07
-url: https://lafilosofiabarata.wordpress.com/2010/01/07/mesopotamia/
+url: /blog/2010-01-07-mesopotamia
 tipo: entrada
 categorias: "Mesopotamia"
 etiquetas: "citas, Existencialismo, Gilgamesh, libros, Marcos Méndez, Mesopotamia"

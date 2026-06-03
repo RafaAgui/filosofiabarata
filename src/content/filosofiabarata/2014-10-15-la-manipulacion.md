@@ -2,7 +2,7 @@
 title: "La manipulación"
 description: "Recomendación de un episodio de Historias para no dormir de Chicho Ibáñez Serrador como ilustración del problema de la manipulación mediática y la anestesia social por sobreestimulación."
 date: 2014-10-15
-url: https://lafilosofiabarata.wordpress.com/2014/10/15/la-manipulacion/
+url: /blog/2014-10-15-la-manipulacion
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Cine, Estética, filosofía con humor, Miedo"

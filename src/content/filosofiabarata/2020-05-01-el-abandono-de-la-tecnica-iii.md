@@ -2,7 +2,7 @@
 title: "El abandono de la técnica III"
 description: "Tercera parte: Ortega define las tres etapas de la técnica (azar, artesano, técnico) y su relación con el bienestar humano, mostrando cómo la técnica es la reforma de la naturaleza que diferencia al hombre del animal."
 date: 2020-05-01
-url: https://lafilosofiabarata.wordpress.com/2020/05/01/el-abandono-de-la-tecnica-iii/
+url: /blog/2020-05-01-el-abandono-de-la-tecnica-iii
 tipo: entrada
 categorias: "Actualidad, S. XX"
 etiquetas: "Byung-Chul Han, enjambre, Hannah Arendt, hombre-masa, homo digitalis, masa, Ortega y Gasset, técnica"

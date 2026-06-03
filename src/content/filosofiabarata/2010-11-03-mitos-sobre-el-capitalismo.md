@@ -2,7 +2,7 @@
 title: "Mitos sobre el capitalismo"
 description: "Lista de once mitos del capitalismo desmontados por el economista Ha-Joon Chang, que cuestiona desde el libre mercado hasta el emprendimiento, la desigualdad de oportunidades y la planificación económica."
 date: 2010-11-03
-url: https://lafilosofiabarata.wordpress.com/2010/11/03/mitos-sobre-el-capitalismo/
+url: /blog/2010-11-03-mitos-sobre-el-capitalismo
 tipo: entrada
 categorias: "Actualidad, Uncategorized"
 etiquetas: "capitalismo"

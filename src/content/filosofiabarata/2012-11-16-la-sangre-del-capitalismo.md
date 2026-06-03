@@ -2,16 +2,16 @@
 title: "La sangre del capitalismo"
 description: "Denuncia de la guerra en el Congo como consecuencia directa del consumo tecnológico occidental: millones de muertos por el control del coltán en nuestros móviles, mostrando el nihilismo de nuestra desconexión moral."
 date: 2012-11-16
-url: https://lafilosofiabarata.wordpress.com/2012/11/16/la-sangre-del-capitalismo/
+url: /blog/2012-11-16-la-sangre-del-capitalismo
 tipo: entrada
 categorias: "Actualidad"
 ---
 
 # La sangre del capitalismo
 
-Hace ya más de un año que a raíz de una entrevista de radio escribí un post llamado [No a las drogas](https://lafilosofiabarata.wordpress.com/2011/03/19/no-a-las-drogas/ "No a las drogas"). En él, exponía, como el consumo de drogas en occidente estaba realmente bañado de sangre en los países de origen.
+Hace ya más de un año que a raíz de una entrevista de radio escribí un post llamado [No a las drogas](/blog/2011-03-19-no-a-las-drogas "No a las drogas"). En él, exponía, como el consumo de drogas en occidente estaba realmente bañado de sangre en los países de origen.
 
-También en otra [entrada](https://lafilosofiabarata.wordpress.com/2012/10/26/apologia-del-aburrimiento/ "Apología del aburrimiento"), esta más reciente, hablaba de como se poroducían guerras en países en vías de desarrollo, para tener el control del coltan o del petróleo.
+También en otra [entrada](/blog/2012-10-26-apologia-del-aburrimiento "Apología del aburrimiento"), esta más reciente, hablaba de como se poroducían guerras en países en vías de desarrollo, para tener el control del coltan o del petróleo.
 
 Lo cierto es que en la República Democrática del Congo, se calcula que han podido morir hasta seis millones de personas (estas cifras varían según las fuentes), por la guerra civil que ha habido en dicho país desde 1997 hasta 2004.
 

@@ -2,7 +2,7 @@
 title: "Cita de Platón"
 description: "Cita de La República de Platón sobre el verdadero gobernante: en un estado de hombres de bien habría lucha por no gobernar, pues el poder debe servir al gobernado y no al gobernante."
 date: 2011-12-11
-url: https://lafilosofiabarata.wordpress.com/2011/12/11/cita-de-platon/
+url: /blog/2011-12-11-cita-de-platon
 tipo: entrada
 categorias: "Grecia"
 etiquetas: "citas, Grecia, Indignados, Platón"

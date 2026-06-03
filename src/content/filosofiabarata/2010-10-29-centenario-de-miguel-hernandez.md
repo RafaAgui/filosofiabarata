@@ -2,7 +2,7 @@
 title: "Centenario de Miguel Hernández"
 description: "Homenaje al centenario del nacimiento de Miguel Hernández con unos versos de su poesía en los que expresa dignidad y determinación ante la muerte."
 date: 2010-10-29
-url: https://lafilosofiabarata.wordpress.com/2010/10/29/centenario-de-miguel-hernandez/
+url: /blog/2010-10-29-centenario-de-miguel-hernandez
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "citas, Libertad, Miguel Hernández, poesía"

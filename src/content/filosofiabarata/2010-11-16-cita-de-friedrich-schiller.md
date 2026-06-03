@@ -2,7 +2,7 @@
 title: "Cita de Friedrich Schiller"
 description: "Cita de Schiller de su obra Sobre la educación estética del hombre afirmando que es a través de la belleza como se alcanza la libertad y se resuelven los problemas políticos."
 date: 2010-11-16
-url: https://lafilosofiabarata.wordpress.com/2010/11/16/cita-de-friedrich-schiller/
+url: /blog/2010-11-16-cita-de-friedrich-schiller
 tipo: entrada
 categorias: "Ilustración"
 etiquetas: "citas, Estética, Ilustración, Schiller"

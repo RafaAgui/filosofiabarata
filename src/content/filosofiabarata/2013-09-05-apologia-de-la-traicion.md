@@ -2,7 +2,7 @@
 title: "Apología de la traición"
 description: "Defensa filosófica de la evolución del pensamiento y el cambio de ideas como algo positivo, cuestionando si la fidelidad a principios, personas o ideas es siempre una virtud o a veces una trampa moral."
 date: 2013-09-05
-url: https://lafilosofiabarata.wordpress.com/2013/09/05/apologia-de-la-traicion/
+url: /blog/2013-09-05-apologia-de-la-traicion
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "ética, Kant, traición"

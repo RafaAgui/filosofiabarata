@@ -2,7 +2,7 @@
 title: "El código Platón"
 description: "Reflexión escéptica sobre la moda de buscar mensajes ocultos en los escritos de Platón, criticando las interpretaciones esotéricas que supuestamente revelan que el universo está regido por las matemáticas."
 date: 2010-11-23
-url: https://lafilosofiabarata.wordpress.com/2010/11/23/el-codigo-platon/
+url: /blog/2010-11-23-el-codigo-platon
 tipo: entrada
 categorias: "Actualidad, Grecia"
 etiquetas: "Grecia, Marcos Méndez, Platón"

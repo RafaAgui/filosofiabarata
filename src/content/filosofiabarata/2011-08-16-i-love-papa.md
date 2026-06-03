@@ -2,7 +2,7 @@
 title: "I love Papa"
 description: "Reflexión sobre la visita del Papa a España durante las JMJ, cuestionando si la devoción juvenil responde a una fe auténtica o al marketing religioso y el consumo de merchandising espiritual."
 date: 2011-08-16
-url: https://lafilosofiabarata.wordpress.com/2011/08/16/i-love-papa/
+url: /blog/2011-08-16-i-love-papa
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "capitalismo, Cristianismo"
@@ -12,7 +12,7 @@ etiquetas: "capitalismo, Cristianismo"
 
 Desde la ventana de mi casa descubro medio centenar de jóvenes que se acercan a las 8:30 de la mañana, se posicionan en los jardines situados detrás de mi casa… desde la cocina los observo mientras tomo mi vaso de leche. Traen una mesa ¿que harán? Bueno simplemente se colocan en corro, uno de ellos se viste con una túnica blanca y empiezan a celebrar una misa. Es de suponer que a los devotos de JMJ, esto lo harán con sumo agrado; aunque a mi, realmente, me han agriado un poco el desayuno.
 
-[![Misa en el parque JMJ](imagenes/cf901f3c3ac49259.jpg "I love Papa")](https://lafilosofiabarata.wordpress.com/wp-content/uploads/2011/08/dsc_0001.jpg)
+![Misa en el parque JMJ](imagenes/cf901f3c3ac49259.jpg "I love Papa")
 
 Me fijo bien, una chica lleva una camiseta de I love NY. No sé muy bien por qué, pero me parece un tanto extraño ver como la devoción va acompañada de elementos y logotipos, más próximos de lo material que de lo espiritual. Este pensamiento hace que mi mente divague y empiece a pensar en el “merchandaising” que acompaña a la visita del Papa a España; banderitas, camisetas, gorras, carteles, etc… me da la sensación de un superestreno de Disney, más que la visita de un líder espiritual.
 

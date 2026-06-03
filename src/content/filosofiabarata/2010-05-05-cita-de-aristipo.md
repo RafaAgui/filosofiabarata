@@ -2,7 +2,7 @@
 title: "Cita de Aristipo"
 description: "Cita de Aristipo en la que rechaza participar en política, argumentando que gobernar es una insensatez ya que las ciudades pretenden servirse de sus gobernantes como instrumentos de sus propios fines."
 date: 2010-05-05
-url: https://lafilosofiabarata.wordpress.com/2010/05/05/cita-de-aristipo/
+url: /blog/2010-05-05-cita-de-aristipo
 tipo: entrada
 categorias: "Grecia, Uncategorized"
 etiquetas: "Aristipo, Cirenaicos, citas, Grecia, Marcos Méndez"

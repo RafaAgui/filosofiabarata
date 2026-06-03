@@ -2,7 +2,7 @@
 title: "La deseducación"
 description: "Resumen del pensamiento de Chomsky en La Deseducación, que denuncia que el sistema educativo real está diseñado para impedir el pensamiento crítico y formar ciudadanos obedientes al modelo establecido."
 date: 2012-09-07
-url: https://lafilosofiabarata.wordpress.com/2012/09/07/la-deseducacion/
+url: /blog/2012-09-07-la-deseducacion
 tipo: entrada
 categorias: "Educación"
 etiquetas: "Chomsky, educación"

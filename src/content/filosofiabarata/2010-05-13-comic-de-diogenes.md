@@ -2,7 +2,7 @@
 title: "Cómic de Diógenes"
 description: "Viñeta sobre Diógenes el Cínico que recorría Atenas con un farol de día buscando un hombre honesto, ilustrando su radical escepticismo sobre la virtud humana."
 date: 2010-05-13
-url: https://lafilosofiabarata.wordpress.com/2010/05/13/comic-de-diogenes/
+url: /blog/2010-05-13-comic-de-diogenes
 tipo: entrada
 categorias: "Grecia, Uncategorized"
 etiquetas: "Cínicos, Cómic, citas, Diogenes, filosofía con humor, Grecia"

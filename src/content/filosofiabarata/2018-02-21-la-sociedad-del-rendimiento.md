@@ -2,7 +2,7 @@
 title: "La sociedad del rendimiento"
 description: "Exposición de la teoría de Byung-Chul Han sobre la sociedad del rendimiento, en la que hemos pasado del deber al querer pero la disciplina capitalista sigue vigente, haciendo al individuo responsable de todo."
 date: 2018-02-21
-url: https://lafilosofiabarata.wordpress.com/2018/02/21/la-sociedad-del-rendimiento/
+url: /blog/2018-02-21-la-sociedad-del-rendimiento
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Byung-Chul Han, La sociedad del cansancio, libros, trabajo"

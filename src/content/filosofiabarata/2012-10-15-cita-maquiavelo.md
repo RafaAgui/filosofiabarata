@@ -2,7 +2,7 @@
 title: "Cita Maquiavelo"
 description: "Cita de El Príncipe de Maquiavelo sobre la diferencia entre el amor y el miedo como instrumentos de gobierno, concluyendo que el temor al castigo es un lazo más duradero que el amor."
 date: 2012-10-15
-url: https://lafilosofiabarata.wordpress.com/2012/10/15/cita-maquiavelo/
+url: /blog/2012-10-15-cita-maquiavelo
 tipo: entrada
 categorias: "Ilustración"
 etiquetas: "capitalismo, citas, Maquiavelo, Miedo"

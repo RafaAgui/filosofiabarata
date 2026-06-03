@@ -2,7 +2,7 @@
 title: "Miguel Hernández"
 description: "Poema Los cobardes de Miguel Hernández sobre los hombres que solo aparentan valentía pero desaparecen cuando llega el momento de la verdad, junto a la recomendación del espectáculo Rojo Cancionero y Banderas Rotas."
 date: 2010-11-10
-url: https://lafilosofiabarata.wordpress.com/2010/11/10/miguel-hernandez/
+url: /blog/2010-11-10-miguel-hernandez
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "citas, Libertad, Miguel Hernández, poesía"

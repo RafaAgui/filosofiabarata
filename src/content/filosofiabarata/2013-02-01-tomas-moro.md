@@ -2,7 +2,7 @@
 title: "Tomás Moro"
 description: "Presentación de Tomás Moro y su obra Utopía, que critica la acumulación de riqueza y la propiedad privada, proponiendo una sociedad sin ella donde todos los medios de vida están garantizados para todos."
 date: 2013-02-01
-url: https://lafilosofiabarata.wordpress.com/2013/02/01/tomas-moro/
+url: /blog/2013-02-01-tomas-moro
 tipo: entrada
 categorias: "Edad Media"
 etiquetas: "capitalismo, citas, Tomás Moro, Utopía"

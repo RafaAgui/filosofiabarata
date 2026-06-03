@@ -2,7 +2,7 @@
 title: "Giordano Bruno"
 description: "Presentación de Giordano Bruno como pensador renacentista quemado en la hoguera en 1600, mártir de la libertad de pensamiento que mezclaba magia, alquimia y filosofía en defensa de sus ideas."
 date: 2009-04-20
-url: https://lafilosofiabarata.wordpress.com/2009/04/20/giordano-bruno/
+url: /blog/2009-04-20-giordano-bruno
 tipo: entrada
 categorias: "Moderna"
 etiquetas: "Daniel Tubau, Giordano Bruno, libros, Moderna"

@@ -2,7 +2,7 @@
 title: "Carta sobre el humanismo"
 description: "Comentario de la Carta sobre el humanismo de Heidegger, en la que critica toda etiqueta filosófica como limitación y reivindica la diferencia ontológica entre ser y ente, accesible solo a través del Dasein humano."
 date: 2020-03-27
-url: https://lafilosofiabarata.wordpress.com/2020/03/27/carta-sobre-el-humanismo/
+url: /blog/2020-03-27-carta-sobre-el-humanismo
 tipo: entrada
 categorias: "S. XX"
 etiquetas: "Carta sobre el humanismo, Dasein, Heidegger, Humanismo"

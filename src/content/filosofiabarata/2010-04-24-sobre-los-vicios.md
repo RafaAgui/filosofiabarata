@@ -2,7 +2,7 @@
 title: "Sobre los vicios"
 description: "Reflexión irónica sobre vicios y virtudes a través de la historia de Carrie Nation, la radical abolicionista del alcohol que recorría Kansas destruyendo bares, y la propuesta aristotélica del término medio."
 date: 2010-04-24
-url: https://lafilosofiabarata.wordpress.com/2010/04/24/sobre-los-vicios/
+url: /blog/2010-04-24-sobre-los-vicios
 tipo: entrada
 categorias: "ética, Grecia"
 etiquetas: "Aristóteles, ética, Carrie Nation, Cristianismo, Grecia, vicio, virtud"

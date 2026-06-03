@@ -2,7 +2,7 @@
 title: "Fotografía y redes sociales"
 description: "Reflexión sobre la fotografía compulsiva en redes sociales, usando la película La vida secreta de Walter Mitty para mostrar que el consumo fotográfico nos aleja de vivir el momento presente."
 date: 2015-01-21
-url: https://lafilosofiabarata.wordpress.com/2015/01/21/fotografia-y-redes-sociales/
+url: /blog/2015-01-21-fotografia-y-redes-sociales
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "capitalismo, Cine, citas, fotografía, La vida secreta de Walter Mitty"

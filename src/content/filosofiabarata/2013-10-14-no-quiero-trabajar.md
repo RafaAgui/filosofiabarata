@@ -2,7 +2,7 @@
 title: "No quiero trabajar"
 description: "Reseña del libro de Bob Black La abolición del trabajo, que propone transformar el trabajo en juego y actividad lúdica, cuestionando el dogma social universal de que el trabajo dignifica."
 date: 2013-10-14
-url: https://lafilosofiabarata.wordpress.com/2013/10/14/no-quiero-trabajar/
+url: /blog/2013-10-14-no-quiero-trabajar
 tipo: entrada
 categorias: "S. XX"
 etiquetas: "Bob Black, citas, La abolición del trabajo, libros, trabajo"

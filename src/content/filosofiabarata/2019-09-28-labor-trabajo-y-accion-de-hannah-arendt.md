@@ -2,7 +2,7 @@
 title: "Labor, trabajo y acción de Hannah Arendt"
 description: "Análisis de la distinción de Arendt entre labor, trabajo y acción, conectándola con Hans Jonas y la destrucción medioambiental como consecuencia de la acción humana desmedida más allá de las necesidades básicas."
 date: 2019-09-28
-url: https://lafilosofiabarata.wordpress.com/2019/09/28/labor-trabajo-y-accion-de-hannah-arendt/
+url: /blog/2019-09-28-labor-trabajo-y-accion-de-hannah-arendt
 tipo: entrada
 categorias: "S. XX"
 ---

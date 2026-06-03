@@ -2,7 +2,7 @@
 title: "Schiller y su concepto de historia"
 description: "Análisis de la visión teleológica de la historia de Schiller como ascenso hacia la perfección estética, en la que la belleza concilia sensibilidad y razón y representa la única forma posible de libertad en el fenómeno."
 date: 2019-12-04
-url: https://lafilosofiabarata.wordpress.com/2019/12/04/schiller-y-su-concepto-de-historia/
+url: /blog/2019-12-04-schiller-y-su-concepto-de-historia
 tipo: entrada
 categorias: "Idealismo"
 etiquetas: "Estética, Historia, Schiller"

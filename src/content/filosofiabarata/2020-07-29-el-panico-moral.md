@@ -3,7 +3,7 @@ title: "El pánico moral"
 img: "/imagenes/panico-moral.png"
 description: "Explicación del concepto de pánico moral acuñado por Stanley Cohen y desarrollado por Stuart Hall, mostrando cómo los medios sobredimensionan ciertos hechos para crear alarma social y justificar medidas represivas."
 date: 2020-07-29
-url: https://lafilosofiabarata.wordpress.com/2020/07/29/el-panico-moral/
+url: /blog/2020-07-29-el-panico-moral
 tipo: entrada
 categorias: "S. XX"
 etiquetas: "medios de comunicación, Pánico moral, Stanley Cohen, Stuart Hall"
@@ -11,7 +11,7 @@ etiquetas: "medios de comunicación, Pánico moral, Stanley Cohen, Stuart Hall"
 
 # El pánico moral
 
-Hace tiempo escribía sobre como funcionan los [medios de comunicación](https://lafilosofiabarata.wordpress.com/2015/04/10/los-medios-de-comunicacion/) y la forma que tenían de insensibilizarnos ante ciertos problemas, y lo sigo pensando, pero es cierto que igual que nos insensibilizan antes ciertas tragedias, en muchas ocasiones crean otras, nos saturan con ellas y así crean el llamado pánico moral.
+Hace tiempo escribía sobre como funcionan los [medios de comunicación](/blog/2015-04-10-los-medios-de-comunicacion) y la forma que tenían de insensibilizarnos ante ciertos problemas, y lo sigo pensando, pero es cierto que igual que nos insensibilizan antes ciertas tragedias, en muchas ocasiones crean otras, nos saturan con ellas y así crean el llamado pánico moral.
 
 El concepto de pánico moral lo acuñó Stanley Cohen cuando en los años sesenta en las playas del sur de inglaterra se establecieron continuos conflictos en bandas juveniles (Rockers y Mods). Este hecho se sobredimensiona, llegando a calificar cualquier altercado juvenil de conflicto incontrolable y estableciendo tanto en la prensa como en cierto sector conservador de la sociedad unos límites morales infranqueables.
 

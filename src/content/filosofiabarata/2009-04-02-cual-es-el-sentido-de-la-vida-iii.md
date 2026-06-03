@@ -2,7 +2,7 @@
 title: "¿Cuál es el sentido de la vida? III"
 description: "Cita de la película Princesas de Fernando León de Aranoa en la que una joven reflexiona sobre la nostalgia de cosas que aún no han sucedido y la tristeza anticipada ante una vida que quizás nunca llegue."
 date: 2009-04-02
-url: https://lafilosofiabarata.wordpress.com/2009/04/02/%c2%bfcual-es-el-sentido-de-la-vida-iii/
+url: /blog/2009-04-02-cual-es-el-sentido-de-la-vida-iii
 tipo: entrada
 categorias: "Existencialismo"
 etiquetas: "ética, Cine, Existencialismo"

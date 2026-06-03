@@ -2,7 +2,7 @@
 title: "Feminismo del S XVIII"
 description: "Homenaje a Olympe de Gouges y Mary Wollstonecraft, precursoras del feminismo ilustrado que reivindicaron los derechos de la mujer en el siglo XVIII, una murió guillotinada y la otra fue ignorada por sus contemporáneos."
 date: 2017-09-06
-url: https://lafilosofiabarata.wordpress.com/2017/09/06/feminismo-del-s-xviii/
+url: /blog/2017-09-06-feminismo-del-s-xviii
 tipo: entrada
 categorias: "Moderna"
 etiquetas: "feminismo, Mary Wollstonecraft, Olympe de Gouges, patriarcado"

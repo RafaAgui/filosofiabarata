@@ -2,7 +2,7 @@
 title: "Leviatán I"
 description: "Presentación del monstruo bíblico Leviatán, su presencia en el Libro de Job y su uso por Hobbes como metáfora del Estado absolutista que protege a los individuos devorándolos."
 date: 2010-03-10
-url: https://lafilosofiabarata.wordpress.com/2010/03/10/leviatan-i/
+url: /blog/2010-03-10-leviatan-i
 tipo: entrada
 categorias: "Moderna, Uncategorized"
 etiquetas: "Cristianismo, Hoobes, Leviatán, Marcos Méndez"

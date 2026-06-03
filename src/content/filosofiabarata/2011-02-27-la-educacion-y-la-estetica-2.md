@@ -2,7 +2,7 @@
 title: "La educación y la estética 2"
 description: "Segunda parte sobre los orígenes ilustrados del sistema educativo público y cómo la Revolución Industrial modeló la escuela a imagen de la fábrica, creando alumnos alienados y obedientes."
 date: 2011-02-27
-url: https://lafilosofiabarata.wordpress.com/2011/02/27/la-educacion-y-la-estetica-2/
+url: /blog/2011-02-27-la-educacion-y-la-estetica-2
 tipo: entrada
 categorias: "Educación"
 etiquetas: "educación, Estética, Ilustración, Schiller"

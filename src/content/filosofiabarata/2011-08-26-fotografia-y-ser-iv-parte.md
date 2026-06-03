@@ -2,7 +2,7 @@
 title: "Fotografía y ser (IV parte)"
 description: "Conclusión del ensayo sobre fotografía y ser: la fotografía no engaña sino que revela nuestra memoria e identidad, y su valor ontológico reside en que nos dice quiénes somos y dónde hemos estado."
 date: 2011-08-26
-url: https://lafilosofiabarata.wordpress.com/2011/08/26/fotografia-y-ser-iv-parte/
+url: /blog/2011-08-26-fotografia-y-ser-iv-parte
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "Estética, fotografía"

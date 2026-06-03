@@ -2,7 +2,7 @@
 title: "Iñaki Gabilondo"
 description: "Cita de Iñaki Gabilondo en la que denuncia que los mercados financieros ejercen una dictadura disfrazada de democracia, convirtiendo a los ciudadanos en súbditos del poder económico."
 date: 2010-07-24
-url: https://lafilosofiabarata.wordpress.com/2010/07/24/inaki-gabilondo/
+url: /blog/2010-07-24-inaki-gabilondo
 tipo: entrada
 categorias: "Actualidad"
 etiquetas: "capitalismo, citas, Libertad"

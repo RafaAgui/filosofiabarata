@@ -2,7 +2,7 @@
 title: "La bondad y el egoismo"
 description: "Análisis del debate entre Rousseau y Voltaire sobre si el hombre es bueno por naturaleza o egoísta, reflexionando sobre las desigualdades globales como demostración de que el egoísmo predomina sobre la bondad."
 date: 2012-04-08
-url: https://lafilosofiabarata.wordpress.com/2012/04/08/la-bondad-y-el-egoismo/
+url: /blog/2012-04-08-la-bondad-y-el-egoismo
 tipo: entrada
 categorias: "Actualidad, Moderna"
 etiquetas: "capitalismo, citas, egoismo, Hobbes, Ilustración, Rousseau, Voltaire"

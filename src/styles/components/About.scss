@@ -1,0 +1,36 @@
+@use '../variables' as *;
+
+.about {
+  max-width: $spacing-container-max;
+  margin: 0 auto;
+  padding: $spacing-element-gap $spacing-gutter;
+
+  &__header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: $spacing-element-gap;
+    margin-bottom: $spacing-element-gap;
+    @media (min-width: 768px) {
+      flex-direction: row;
+    }
+  }
+
+  &__photo {
+    width: 120px;
+    height: 120px;
+    border-radius: $radius-full;
+    object-fit: cover;
+  }
+
+  &__title {
+    @include type-display-lg;
+    color: $color-heading;
+    margin: 0;
+  }
+
+  &__body {
+    @include type-body-lg;
+    color: $color-text-primary;
+  }
+}

@@ -1,9 +1,9 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import FilosofiabarataPosts from "../../components/FilosofiabarataPosts";
+import FilosofiabarataPosts from "../../components/blog/FilosofiabarataPosts";
 import { parseCategories, categoryToSlug } from "../../utils/categories";
-import "../../assets/components/Filosofiabarata.scss";
+import "../../styles/components/Filosofiabarata.scss";
 
 export async function getStaticPaths() {
   const entries: CollectionEntry<'filosofiabarata'>[] = await getCollection('filosofiabarata');

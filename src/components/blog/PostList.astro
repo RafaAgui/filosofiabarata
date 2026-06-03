@@ -1,26 +1,24 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content";
-import '../assets/components/Filosofiabarata.scss';
-import FilosofiabarataPosts from '../components/FilosofiabarataPosts';
+import "../../styles/components/Filosofiabarata.scss";
+import FilosofiabarataPosts from "./FilosofiabarataPosts";
+import type { Post } from "../../types/blog";
 
 const entries: CollectionEntry<'filosofiabarata'>[] = await getCollection('filosofiabarata');
 
-const posts = entries
+const posts: Post[] = entries
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .map((entry) => ({
     slug: entry.slug,
     title: entry.data.title,
     date: entry.data.date.toISOString().split('T')[0],
     categorias: entry.data.categorias,
-    description: entry.data.description,
+    description: entry.data.description ?? '',
   }));
 ---
 
-
-  <>
-    <h2 class="">Últimas entradas</h2>
-    <p class="">Explorando el pensamiento filosófico sin complicaciones.</p>
-    <section>
-      <FilosofiabarataPosts posts={posts} client:load />
-    </section>
-  </>
+<h2>Últimas entradas</h2>
+<p>Explorando el pensamiento filosófico sin complicaciones.</p>
+<section>
+  <FilosofiabarataPosts posts={posts} client:load />
+</section>

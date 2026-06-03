@@ -1,13 +1,6 @@
 import { useState } from "react";
-import { parseCategories, categoryToSlug } from "../utils/categories";
-
-interface Post {
-  slug: string;
-  title: string;
-  date: string;
-  categorias: string;
-  description: string;
-}
+import { parseCategories, categoryToSlug } from "../../utils/categories";
+import type { Post } from "../../types/blog";
 
 interface Props {
   posts: Post[];

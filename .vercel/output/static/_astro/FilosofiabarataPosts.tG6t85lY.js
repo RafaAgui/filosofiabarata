@@ -1,0 +1,9 @@
+import{r as _}from"./index.Dy6lLLXr.js";var m={exports:{}},o={};/**
+ * @license React
+ * react-jsx-runtime.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */var d;function p(){if(d)return o;d=1;var i=Symbol.for("react.transitional.element"),a=Symbol.for("react.fragment");function l(c,r,t){var n=null;if(t!==void 0&&(n=""+t),r.key!==void 0&&(n=""+r.key),"key"in r){t={};for(var e in r)e!=="key"&&(t[e]=r[e])}else t=r;return r=t.ref,{$$typeof:i,type:c,key:n,ref:r!==void 0?r:null,props:t}}return o.Fragment=a,o.jsx=l,o.jsxs=l,o}var x;function h(){return x||(x=1,m.exports=p()),m.exports}var s=h();const g={ética:"Ética"},j=new Set(["Uncategorized"]);function R(i){return i.split(",").map(a=>{const l=a.trim();return g[l]??l}).filter(a=>!j.has(a))}function f(i){return i.normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/\./g,"").trim().toLowerCase().replace(/\s+/g,"-")}function E({posts:i,initialCount:a=13,loadMoreCount:l=24}){const[c,r]=_.useState(a),t=i.slice(0,c),n=c<i.length;return s.jsxs(s.Fragment,{children:[s.jsx("ul",{className:"posts",children:t.map(e=>s.jsxs("li",{className:"posts__item",children:[e.img&&s.jsx("a",{className:"posts__img-link",href:`/blog/${e.slug}`,children:s.jsx("img",{className:"posts__img",src:e.img,alt:e.title})}),s.jsx("a",{className:"posts__title-link",href:`/blog/${e.slug}`,children:s.jsx("h2",{className:"posts__title",children:e.title})}),s.jsx("p",{className:"posts__description",children:e.description}),s.jsx("p",{className:"posts__date",children:e.date}),s.jsx("div",{className:"posts__categories",children:R(e.categorias).map(u=>s.jsx("a",{className:"posts__category",href:`/categorias/${f(u)}`,children:u},u))})]},e.slug))}),n&&s.jsx("button",{className:"posts__load-more",onClick:()=>r(e=>e+l),children:"Ver más"})]})}export{E as default};

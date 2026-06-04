@@ -47,6 +47,12 @@
     color: $color-text-secondary;
   }
 
+  &__contact{
+    @include type-label-sm;
+    color: $color-text-secondary;
+    margin-top: $spacing-element-gap;
+  }
+
   @media (min-width: 768px) {
     flex-direction: row;
     justify-content: space-between;

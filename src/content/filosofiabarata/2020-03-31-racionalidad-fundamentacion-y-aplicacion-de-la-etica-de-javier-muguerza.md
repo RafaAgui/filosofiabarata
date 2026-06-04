@@ -1,5 +1,5 @@
 ---
-title: "<em>Racionalidad, fundamentación y aplicación de la ética</em> de Javier Muguerza"
+title: "Racionalidad, fundamentación y aplicación de la ética de Javier Muguerza"
 description: "Análisis del texto de Muguerza sobre la ética aplicada: defiende una ética cívica articulada en tres niveles (cosmopolita, nacional y sectorial) donde la política media entre la libertad individual y el bien común."
 date: 2020-03-31
 url: /blog/2020-03-31-racionalidad-fundamentacion-y-aplicacion-de-la-etica-de-javier-muguerza
@@ -8,7 +8,7 @@ categorias: "S. XX"
 etiquetas: "ética, Javier Muguerza"
 ---
 
-# <em>Racionalidad, fundamentación y aplicación de la ética</em> de Javier Muguerza
+# _Racionalidad, fundamentación y aplicación de la ética_ de Javier Muguerza
 
 La conclusión de Muguerza en este texto es que la ética, debe ser una ética aplicada. Una moral cívica, se debe formar en comités de ética que creen unos códigos, que sirvan para crear una conciencia en un determinado ámbito profesional. El consenso alcanzado en dichos comités no puede ser un valor en si mismo, ya que la voluntad del individuo debe ser respetada (como por ejemplo puede pasar en temas como el aborto, aunque un comité ético decida legalizar algunos supuestos para que las mujeres ejerzan su derecho a abortar; la libertad del individuo debe estar por encima, para poder decidir).
 

@@ -12,7 +12,7 @@ etiquetas: "Gustavo Bueno, Mito de la caverna, Platón, Radio 3"
 
 Después de publicar mi entrada sobre el mito de caverna, entrevistan a Gustavo Bueno, en Radio 3, y dice cosas tan interesantes como esta…
 
-<http://www.rtve.es/drmn/embed/audio/3317019>
+[RTVE – Audio entrevista Gustavo Bueno](http://www.rtve.es/drmn/embed/audio/3317019)
 
 ![](imagenes/19829289c269b15a.png) [**Hoy Empieza Todo con Angel Carmona – Gustavo Bueno – 09/10/15**](http://www.rtve.es/alacarta/audios/hoy-empieza-todo-con-angel-carmona/het-1-gustavo-bueno-2015-10-09t09-53-46887/3317019/ "Hoy Empieza Todo con Angel Carmona - Gustavo Bueno - 09/10/15")
 

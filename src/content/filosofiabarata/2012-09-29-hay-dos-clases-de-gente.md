@@ -19,4 +19,4 @@ etiquetas: "Cine, citas, Existencialismo, Libertad"
 >
 > La leyenda de la ciudad sin nombre, Joshua Logan
 >
-> <http://www.youtube.com/watch?v=H74dHupGL6s>
+> [La leyenda de la ciudad sin nombre – YouTube](http://www.youtube.com/watch?v=H74dHupGL6s)

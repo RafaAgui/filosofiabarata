@@ -24,4 +24,4 @@ Bob no aboga por que no hagamos nada, sino simplemente que hagamos las cosas que
 
 Bueno,si quereis leer algo más sobre este tema os dejo un enlace muy interesante:
 
-<http://weblogs.clarin.com/revistaenie-nerdsallstar/2009/01/07/no_trabajes_nunca/>
+[Clarín – No trabajes nunca](http://weblogs.clarin.com/revistaenie-nerdsallstar/2009/01/07/no_trabajes_nunca/)

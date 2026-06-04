@@ -16,4 +16,4 @@ Con dos hilos argumentales paralelos: la vida de propio Bertrand Russel, contado
 
 En fin una obra exquisita, imprescindible para los amantes del cómic y la filosofía.
 
-<http://www.logicomix.com/en/>
+[logicomix.com](http://www.logicomix.com/en/)

@@ -12,4 +12,4 @@ etiquetas: "Cómic, filosofía con humor, libros"
 
 Aqui os dejo un magnífico cómic de filosofía para jóvenes:
 
-<http://margreetdeheer.com/eng/philosophy.html>
+[Margreet de Heer – Philosophy](http://margreetdeheer.com/eng/philosophy.html)

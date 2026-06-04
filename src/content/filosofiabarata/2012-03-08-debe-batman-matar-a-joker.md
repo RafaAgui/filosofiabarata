@@ -12,4 +12,4 @@ etiquetas: "ética, Cómic, filosofía con humor"
 
 Interesante enlace en el que analizan desde el punto de vista de 5 filósofos sin Batman debe matar a Joker:
 
-<http://www.comicsalliance.com/2012/03/02/batman-kill-joker-philosophy/>
+[Comics Alliance – Should Batman Kill The Joker?](http://www.comicsalliance.com/2012/03/02/batman-kill-joker-philosophy/)

@@ -4,7 +4,7 @@ description: "Análisis de las teorías de Maquiavelo aplicadas a la política a
 date: 2012-08-30
 url: /blog/2012-08-30-maquiavelo-nos-gobierna
 tipo: entrada
-categorias: "Actualidad, Ilustración"
+categorias: "Actualidad, Renacimiento"
 etiquetas: "Indignados, Maquiavelo, Miedo"
 ---
 

@@ -4,7 +4,7 @@ description: "Presentación del monstruo bíblico Leviatán, su presencia en el 
 date: 2010-03-10
 url: /blog/2010-03-10-leviatan-i
 tipo: entrada
-categorias: "Moderna, Uncategorized"
+categorias: "Moderna"
 etiquetas: "Cristianismo, Hoobes, Leviatán, Marcos Méndez"
 ---
 

@@ -4,7 +4,7 @@ description: "Segunda viñeta de la serie sobre la indignación ciudadana, prese
 date: 2011-11-14
 url: /blog/2011-11-14-comic-indignado-2
 tipo: entrada
-categorias: "Uncategorized"
+categorias: "Actualidad"
 etiquetas: "Amistad, Cómic, Indignados"
 ---
 

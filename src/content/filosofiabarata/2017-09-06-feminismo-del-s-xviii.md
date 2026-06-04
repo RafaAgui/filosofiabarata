@@ -4,7 +4,7 @@ description: "Homenaje a Olympe de Gouges y Mary Wollstonecraft, precursoras del
 date: 2017-09-06
 url: /blog/2017-09-06-feminismo-del-s-xviii
 tipo: entrada
-categorias: "Moderna"
+categorias: "Ilustración"
 etiquetas: "feminismo, Mary Wollstonecraft, Olympe de Gouges, patriarcado"
 ---
 

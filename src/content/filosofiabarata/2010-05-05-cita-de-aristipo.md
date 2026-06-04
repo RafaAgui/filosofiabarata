@@ -4,7 +4,7 @@ description: "Cita de Aristipo en la que rechaza participar en política, argume
 date: 2010-05-05
 url: /blog/2010-05-05-cita-de-aristipo
 tipo: entrada
-categorias: "Grecia, Uncategorized"
+categorias: "Grecia"
 etiquetas: "Aristipo, Cirenaicos, citas, Grecia, Marcos Méndez"
 ---
 

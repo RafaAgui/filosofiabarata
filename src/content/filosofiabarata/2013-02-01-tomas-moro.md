@@ -4,7 +4,7 @@ description: "Presentación de Tomás Moro y su obra Utopía, que critica la acu
 date: 2013-02-01
 url: /blog/2013-02-01-tomas-moro
 tipo: entrada
-categorias: "Edad Media"
+categorias: "Renacimiento"
 etiquetas: "capitalismo, citas, Tomás Moro, Utopía"
 ---
 

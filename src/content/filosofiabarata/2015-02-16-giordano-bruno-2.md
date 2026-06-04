@@ -4,7 +4,7 @@ description: "Vídeo animado sobre la historia de Giordano Bruno, el filósofo r
 date: 2015-02-16
 url: /blog/2015-02-16-giordano-bruno-2
 tipo: entrada
-categorias: "Edad Media"
+categorias: "Renacimiento"
 etiquetas: "Ciencia, citas, Cristianismo, Giordano Bruno"
 ---
 

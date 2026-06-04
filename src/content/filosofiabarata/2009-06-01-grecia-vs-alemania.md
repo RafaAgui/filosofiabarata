@@ -4,7 +4,7 @@ description: "Entrada visual sin texto que contrapone de forma humorística la f
 date: 2009-06-01
 url: /blog/2009-06-01-grecia-vs-alemania
 tipo: entrada
-categorias: "Uncategorized"
+categorias: "Grecia, Idealismo"
 etiquetas: "filosofía con humor, Grecia"
 ---
 

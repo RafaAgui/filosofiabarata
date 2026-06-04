@@ -4,7 +4,7 @@ description: "Cita de Erasmo de Rotterdam sobre la verdadera amistad como aquell
 date: 2009-08-24
 url: /blog/2009-08-24-cita-de-erasmo-de-rotterdam
 tipo: entrada
-categorias: "Edad Media"
+categorias: "Renacimiento"
 etiquetas: "Amistad, citas, Cristianismo, Erasmo de Rotterdam"
 ---
 

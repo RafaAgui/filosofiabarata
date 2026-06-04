@@ -4,7 +4,7 @@ description: "Análisis del pensamiento de Hobbes sobre la necesidad de un estad
 date: 2010-03-12
 url: /blog/2010-03-12-leviatan-ii
 tipo: entrada
-categorias: "Moderna, Uncategorized"
+categorias: "Moderna"
 etiquetas: "capitalismo, Hobbes, Leviatán, libros, Marcos Méndez, Rousseau"
 ---
 

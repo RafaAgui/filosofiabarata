@@ -4,7 +4,7 @@ description: "Análisis de la Carta sobre la tolerancia de Locke, que defiende l
 date: 2019-04-06
 url: /blog/2019-04-06-john-locke-y-la-tolerancia
 tipo: entrada
-categorias: "Ilustración, Uncategorized"
+categorias: "Ilustración"
 ---
 
 # John Locke y la tolerancia

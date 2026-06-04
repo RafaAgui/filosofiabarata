@@ -1,7 +1,7 @@
 # Indice del blog: Filosofia Barata
 
 Total de archivos: 235
-
+- [2026-06-04 - La utilidad de lo inutil](2026-06-04-la-utilidad-de-lo-inutil.md)
 - [2020-07-29 - El pánico moral](2020-07-29-el-panico-moral.md)
 - [2020-07-01 - Consideraciones éticas sobre el libro electrónico II](2020-07-01-consideraciones-eticas-sobre-el-libro-electronico-ii.md)
 - [2020-06-22 - Consideraciones éticas sobre el libro electrónico I](2020-06-22-consideraciones-eticas-sobre-el-libro-electronico-i.md)

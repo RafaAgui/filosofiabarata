@@ -4,7 +4,7 @@ description: "Lista de once mitos del capitalismo desmontados por el economista 
 date: 2010-11-03
 url: /blog/2010-11-03-mitos-sobre-el-capitalismo
 tipo: entrada
-categorias: "Actualidad, Uncategorized"
+categorias: "Actualidad"
 etiquetas: "capitalismo"
 ---
 

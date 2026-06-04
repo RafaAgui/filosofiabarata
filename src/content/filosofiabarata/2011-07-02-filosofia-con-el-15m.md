@@ -4,7 +4,7 @@ description: "Manifiesto de profesores y estudiantes de Filosofía en apoyo al m
 date: 2011-07-02
 url: /blog/2011-07-02-filosofia-con-el-15m
 tipo: entrada
-categorias: "Uncategorized"
+categorias: "Actualidad"
 ---
 
 # Filosofía con el 15M

@@ -4,7 +4,7 @@ description: "Presentación de un cómic filosófico de Daniel Tubau basado en u
 date: 2009-06-30
 url: /blog/2009-06-30-filocomic
 tipo: entrada
-categorias: "Grecia, Uncategorized"
+categorias: "Grecia"
 etiquetas: "Cínicos, Daniel Tubau, filosofía con humor, Grecia, Heraclito"
 ---
 

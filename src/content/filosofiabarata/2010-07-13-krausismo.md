@@ -4,7 +4,7 @@ description: "Explicación del krausismo como corriente filosófica derivada de 
 date: 2010-07-13
 url: /blog/2010-07-13-krausismo
 tipo: entrada
-categorias: "Educación, Moderna"
+categorias: "Educación, S. XIX"
 etiquetas: "Giner de los Ríos, Krause, Krausismo, Libertad, Moderna"
 ---
 

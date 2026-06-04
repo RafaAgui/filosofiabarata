@@ -4,7 +4,7 @@ description: "Análisis del debate entre Rousseau y Voltaire sobre si el hombre 
 date: 2012-04-08
 url: /blog/2012-04-08-la-bondad-y-el-egoismo
 tipo: entrada
-categorias: "Actualidad, Moderna"
+categorias: "Actualidad, Ilustración"
 etiquetas: "capitalismo, citas, egoismo, Hobbes, Ilustración, Rousseau, Voltaire"
 ---
 

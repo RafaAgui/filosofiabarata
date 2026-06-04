@@ -4,7 +4,7 @@ description: "Cita de René Descartes sobre la necesidad de la filosofía para v
 date: 2010-01-11
 url: /blog/2010-01-11-cita-de-descartes
 tipo: entrada
-categorias: "Ilustración"
+categorias: "Moderna"
 etiquetas: "citas, Descartes, Ilustración"
 ---
 

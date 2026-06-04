@@ -4,7 +4,7 @@ description: "Imagen crítica sobre la vuelta al cole marcada por los recortes e
 date: 2011-09-13
 url: /blog/2011-09-13-hiperrecortes
 tipo: entrada
-categorias: "Uncategorized"
+categorias: "Actualidad"
 ---
 
 # Hiperrecortes

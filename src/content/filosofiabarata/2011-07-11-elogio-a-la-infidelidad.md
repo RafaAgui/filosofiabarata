@@ -4,7 +4,7 @@ description: "Presentación del libro Elogio a la infidelidad de Daniel Tubau me
 date: 2011-07-11
 url: /blog/2011-07-11-elogio-a-la-infidelidad
 tipo: entrada
-categorias: "Uncategorized"
+categorias: "ética"
 etiquetas: "Daniel Tubau, filosofía con humor, Infidelidad, libros"
 ---
 

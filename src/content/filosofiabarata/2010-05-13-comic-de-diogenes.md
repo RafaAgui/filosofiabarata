@@ -4,7 +4,7 @@ description: "Viñeta sobre Diógenes el Cínico que recorría Atenas con un far
 date: 2010-05-13
 url: /blog/2010-05-13-comic-de-diogenes
 tipo: entrada
-categorias: "Grecia, Uncategorized"
+categorias: "Grecia"
 etiquetas: "Cínicos, Cómic, citas, Diogenes, filosofía con humor, Grecia"
 ---
 

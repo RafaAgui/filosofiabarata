@@ -1,5 +1,6 @@
 ---
 title: "La utilidad de lo inútil"
+img: "/imagenes/utilidad-inutil.png"
 description: "Reseña del ensayo de Nuccio Ordine 'La utilidad de lo inútil', que defiende que disciplinas sin rentabilidad inmediata —filosofía, literatura, arte y ciencia pura— son imprescindibles para la humanidad, y distingue su uso del concepto de utilitarismo del que empleaba Stuart Mill."
 date: 2026-06-04
 url: /blog/2026-06-04-la-utilidad-de-lo-inutil

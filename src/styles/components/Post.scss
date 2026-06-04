@@ -44,8 +44,8 @@
 
   &__img {
     width: 100%;
-    max-height: 420px;
-    object-fit: cover;
+    max-height: 500px;
+    object-fit: contain;
     border-radius: $radius-md;
     margin-top: $spacing-element-gap;
   }

@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 235
+Total de archivos: 236
+- [2026-06-05 - ¿Existen los monstruos?](2026-06-05-existen-los-monstruos.md)
 - [2026-06-04 - La utilidad de lo inutil](2026-06-04-la-utilidad-de-lo-inutil.md)
 - [2020-07-29 - El pánico moral](2020-07-29-el-panico-moral.md)
 - [2020-07-01 - Consideraciones éticas sobre el libro electrónico II](2020-07-01-consideraciones-eticas-sobre-el-libro-electronico-ii.md)

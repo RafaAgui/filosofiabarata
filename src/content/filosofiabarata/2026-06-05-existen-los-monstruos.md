@@ -1,6 +1,6 @@
 ---
 title: "¿Existen los monstruos?"
-img: "/imagenes/"
+img: "/imagenes/existen-los-monstruos.png"
 description: "Reflexión sobre el libro 'Decir el mal' de Ana Carrasco-Conde: el concepto de 'monstruo' externaliza el mal y nos exime de responsabilidad, cuando en realidad el mal habita en lo cotidiano y se nutre de la falta de empatía y pensamiento crítico, como analizan Hannah Arendt y Carrasco-Conde."
 date: 2026-06-05
 url: /blog/2026-06-05-existen-los-monstruos

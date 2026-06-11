@@ -5,7 +5,7 @@ description: "Reflexión sobre el libro 'Decir el mal' de Ana Carrasco-Conde: el
 date: 2026-06-05
 url: /blog/2026-06-05-existen-los-monstruos
 tipo: entrada
-categorias: "S. XX, ética"
+categorias: "ética"
 etiquetas: "Hannah Arendt, Ana Carrasco-Conde, libros, mal, monstruosidad, empatía"
 ---
 

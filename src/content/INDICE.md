@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 236
+Total de archivos: 237
+- [2026-06-11 - Andar por andar](2026-06-11-andar-por-andar.md)
 - [2026-06-05 - ¿Existen los monstruos?](2026-06-05-existen-los-monstruos.md)
 - [2026-06-04 - La utilidad de lo inutil](2026-06-04-la-utilidad-de-lo-inutil.md)
 - [2020-07-29 - El pánico moral](2020-07-29-el-panico-moral.md)

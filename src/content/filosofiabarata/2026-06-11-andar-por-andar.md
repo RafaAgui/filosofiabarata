@@ -11,7 +11,7 @@ etiquetas: "Adriana Herreros, caminar, espacio público, rebeldía, libros, tiem
 
 # Andar por andar
 
-Si el otro día hablaba de [La utilidad de lo inútil](/blog/2026-06-04-la-utilidad-de-lo-inutil), de Nuccio Ordine, hoy me detengo en este pequeño librito de Adriana Herreros que se llama Andar por andar, y es que al final no hay nada más inútil que "andar por andar", que se convierte en un acto de rebeldía ante la velocidad y la productividad que nos dominan, y que nos permite conectar con nosotros mismos y con nuestro entorno.
+Si el otro día hablaba de _[La utilidad de lo inútil](/blog/2026-06-04-la-utilidad-de-lo-inutil)_, de Nuccio Ordine, hoy me detengo en este pequeño librito de Adriana Herreros que se llama _Andar por andar_, y es que al final no hay nada más inútil que "andar por andar", que se convierte en un acto de rebeldía ante la velocidad y la productividad que nos dominan, y que nos permite conectar con nosotros mismos y con nuestro entorno.
 
 Caminar no tiene un retorno económico, si lo hacemos por placer; solo aporta bienestar y nos permite un tiempo para estar con nosotros mismos y hacer reflexiones personales. Además, nos sirve, según la autora, para reclamar un espacio que cada vez nos está siendo arrebatado por coches, terrazas o, en el caso del campo, por vallas y cercados. De esta manera, el andar se convierte también en un acto político y reivindicativo, una forma de reapropiarnos de unos espacios cada vez menos públicos.
 

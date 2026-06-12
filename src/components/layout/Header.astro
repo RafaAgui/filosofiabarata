@@ -22,6 +22,17 @@
     <button class="header__btn header__btn--search" aria-label="Buscar" style="display: none;">
       <Search size="24" />
     </button>
+    <button class="header__btn header__btn--theme" id="theme-toggle" aria-label="Cambiar tema">
+      <!-- Sun icon (shown in dark mode) -->
+      <svg class="theme-icon theme-icon--sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="4"/>
+        <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/>
+      </svg>
+      <!-- Moon icon (shown in light mode) -->
+      <svg class="theme-icon theme-icon--moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>
+      </svg>
+    </button>
         <button class="header__btn header__btn--menu" aria-label="Abrir menú">
       <Menu size="24" />
     </button>
@@ -40,5 +51,18 @@
   const drawer = document.getElementById('header-drawer');
   menuBtn?.addEventListener('click', () => {
     drawer?.classList.toggle('header__drawer--open');
+  });
+
+  const themeToggle = document.getElementById('theme-toggle');
+  const root = document.documentElement;
+
+  function applyTheme(theme: string) {
+    root.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+  }
+
+  themeToggle?.addEventListener('click', () => {
+    const current = root.getAttribute('data-theme');
+    applyTheme(current === 'dark' ? 'light' : 'dark');
   });
 </script>

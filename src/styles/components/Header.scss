@@ -38,6 +38,12 @@
     padding: 0.25rem;
     color: var(--color-icon);
   }
+
+  &__btn--theme {
+    .theme-icon {
+      display: none;
+    }
+  }
   &__nav {
     display: none;
   }
@@ -92,6 +98,19 @@
 }
 
 
+
+/* ---- Theme toggle icons ---- */
+
+// Light mode: show moon, hide sun
+:root[data-theme="light"] .theme-icon--moon,
+:root:not([data-theme="dark"]) .theme-icon--moon {
+  display: block;
+}
+
+// Dark mode: show sun, hide moon
+:root[data-theme="dark"] .theme-icon--sun {
+  display: block;
+}
 
 /* ---- Desktop layout ---- */
 

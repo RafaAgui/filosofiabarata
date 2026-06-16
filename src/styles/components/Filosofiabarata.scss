@@ -10,6 +10,22 @@
 
   &__item {
     padding: 1rem;
+    animation: article linear both;
+    animation-timeline: view();
+    animation-range: 0 200px;
+
+  @keyframes article {
+    from {
+      opaticity: 0;
+      transleate: 0 100px;
+      scale: .5;
+    }
+    to {
+      opaticity: 1;
+      transleate: 0 0;
+      scale: 1;
+    }
+  }
 
     &:first-child {
       grid-column: 1 / -1;

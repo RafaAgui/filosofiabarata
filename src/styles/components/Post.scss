@@ -126,3 +126,24 @@
     border-radius: 999px;
   }
 }
+
+#progress {
+  position: fixed;
+  left:0;
+  top: 0;
+  width: 0%;
+  background: var(--color-secondary-container);
+  height: 3px;
+  
+  animation: progress-bar auto linear;
+  animation-timeline: scroll(root block);
+}
+
+@keyframes progress-bar {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}

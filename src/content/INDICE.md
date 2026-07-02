@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 238
+Total de archivos: 239
+- [2026-07-02 - El Círculo de Viena](2026-07-02-circulo-de-viena.md)
 - [2026-06-29 - Popper y la falsabilidad](2026-06-29-popper-falsabilidad.md)
 - [2026-06-11 - Andar por andar](2026-06-11-andar-por-andar.md)
 - [2026-06-05 - ¿Existen los monstruos?](2026-06-05-existen-los-monstruos.md)

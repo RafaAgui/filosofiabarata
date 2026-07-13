@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 240
+Total de archivos: 241
+- [2026-07-13 - Lo de la IA](2026-07-13-lo-de-la-ia.md)
 - [2026-07-09 - A la mierda la autoestima, dadme lucha de clases](2026-07-09-a-la-mierda-la-autoestima-dadme-lucha-de-clases.md)
 - [2026-07-02 - El Círculo de Viena](2026-07-02-circulo-de-viena.md)
 - [2026-06-29 - Popper y la falsabilidad](2026-06-29-popper-falsabilidad.md)

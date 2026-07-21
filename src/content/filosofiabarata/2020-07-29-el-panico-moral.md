@@ -20,3 +20,5 @@ Este término lo recoge Stuart Hall y analiza el fenómeno de los *muggins*. Tra
 La prensa más sensacionalista se hizo eco de ella y empezó a pedir y generar, en forma de pánico moral, una respuesta tanto judicial como política, lo que no tardaría en llegar. Se aumentaron las penas por atraco y se castigo de forma ejemplar a los atracadores. 
 
 Todo esto se llevó además a la criminalización de un sector de la población, sobre todo inmigrantes, ya que se les consideraba los causantes de la elevada nueva amenaza. Los datos aportados por Hall en su estudio muestran que realmente no hubo un aumento de atracos, ni que realmente los inmigrantes fueran los causante de dichos atracos.
+
+*Imagen generada con Copilot

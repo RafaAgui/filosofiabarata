@@ -26,3 +26,5 @@ El autor también advierte que el capitalismo no solo es compatible con el recon
 Por ello, el libro no propone abandonar las políticas de identidad, sino replantearlas. Una política de identidad verdaderamente emancipadora no debería limitarse a universalizar o visibilizar experiencias de opresión, sino orientarse a eliminar las condiciones materiales que las generan y perpetúan. Solo así el reconocimiento de las diferencias puede vincularse a un proyecto político que tenga como objetivo transformar las estructuras económicas y sociales, en lugar de limitarse a gestionar sus efectos.
 
 > Para la izquierda debe volver a cobrar importancia el elemento común, porque une a la inmensa mayoría: se trata de la pertenencia a una clase que no posee nada más que su propia fuerza de trabajo, que intercambia por un salario. (pág. 13)
+
+*Imagen generada con Copilot

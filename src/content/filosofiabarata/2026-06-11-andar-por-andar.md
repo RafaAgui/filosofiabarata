@@ -18,3 +18,5 @@ Caminar no tiene un retorno económico, si lo hacemos por placer; solo aporta bi
 No hay nada más revolucionario, ahora mismo, que disponer de tiempo para uno mismo, y eso nos permite dedicarle un tiempo a caminar, descubrir lugares y llevar una mirada atenta al camino que, aunque ya conocemos, se nos presente como nuevo.
 
 En suma, la obra defiende el caminar como práctica transformadora: relajante, intelectual, política y cultural, frente a una sociedad acelerada que subestima lo humano y lo cotidiano.
+
+*Imagen generada con Copilot

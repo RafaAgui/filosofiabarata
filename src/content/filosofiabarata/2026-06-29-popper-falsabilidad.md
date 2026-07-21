@@ -26,3 +26,5 @@ En resumen, como diría el propio Popper:
 > "Una teoría que no es refutable por ningún suceso concebible no es científica. La irrefutabilidad no es una virtud de una teoría, sino un defecto."
 >
 > — *Conjeturas y refutaciones* (Karl R. Popper)
+
+*Imagen generada con Copilot

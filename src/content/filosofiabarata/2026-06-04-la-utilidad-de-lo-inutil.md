@@ -20,3 +20,5 @@ Aunque el autor esté usando todo el rato el concepto de utilitarismo, no hay qu
 Para Ordine es que las cosas consideradas «inútiles» por el mercado son las más necesarias para mantener viva nuestra humanidad. Si destruimos el arte, la literatura y la investigación pura, condenamos a la sociedad a la muerte espiritual y a la barbarie.
 
 El conocimiento, no es un producto, no debe ser tangible es un camino para la transformación de la humanidad y eso poco tiene que ver con el actual liberalismo económico en la que todo tiene que tener una rentabilidad.
+
+*Imagen generada con Copilot

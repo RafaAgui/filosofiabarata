@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 243
+Total de archivos: 244
+- [2026-08-03 - Fast and Furious y el respeto](2026-08-03-fast-and-furious-y-el-respeto.md)
 - [2026-07-28 - La mirada atenta](2026-07-28-la-mirada-atenta.md)
 - [2026-07-21 - Seguimos con lo de la IA](2026-07-21-seguimos-con-lo-de-la-ia.md)
 - [2026-07-13 - Lo de la IA](2026-07-13-lo-de-la-ia.md)

@@ -27,6 +27,6 @@ La familia se construye en los pequeños gestos repetitivos: sentarse a la mesa 
 
 Si algo podemos aprender de Esquirol y de Toretto es que la idea de familia es sinónimo de proximidad protectora. Da igual si está formada por una, tres o cinco personas; lo que la constituye como tal es la voluntad compartida de generar un tejido de resistencia y amparo humano.
 
-> «No importa dónde estés, a un cuarto de milla o al otro lado del mundo. Siempre estarás conmigo y siempre serás mi hermano.» (Dominic Toretto en *Fast and Furious 7*)
+> No importa dónde estés, a un cuarto de milla o al otro lado del mundo. Siempre estarás conmigo y siempre serás mi hermano. (Dominic Toretto en *Fast and Furious 7*)
 
 *Imagen generada con ChatGPT

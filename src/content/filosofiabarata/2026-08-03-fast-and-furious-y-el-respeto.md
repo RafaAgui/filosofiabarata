@@ -11,7 +11,7 @@ etiquetas: "Fast and Furious, Josep María Esquirol, respeto, familia, proximida
 
 # Fast and Furious y el respeto
 
-En la primera película de *Fast and Furious*, Brian O’Conner le dice a Toretto: lo que busco es respeto. Ese respeto es el que Josep María Esquirol definiría de la siguiente manera:
+En la primera película de *Fast and Furious*, Brian O’Conner le dice a Toretto: lo que busco es respeto. Ese respeto es el que [Josep María Esquirol](/blog/2026-07-28-la-mirada-atenta) definiría de la siguiente manera:
 
 > Solo guardando la distancia adecuada es posible advertir y respetar lo que debe ser respetado. [...]
 

@@ -13,9 +13,7 @@ etiquetas: "Fast and Furious, Josep María Esquirol, respeto, familia, proximida
 
 En la primera película de *Fast and Furious*, Brian O’Conner le dice a Toretto: lo que busco es respeto. Ese respeto es el que [Josep María Esquirol](/blog/2026-07-28-la-mirada-atenta) definiría de la siguiente manera:
 
-> Solo guardando la distancia adecuada es posible advertir y respetar lo que debe ser respetado. [...]
-
-> La violencia es la violación del otro, de la persona del otro, en cada una de sus dimensiones: la violencia sobre el cuerpo, sobre su presencia social, sobre su espacio íntimo, sobre sus ideas y sus creencias… (pag.72 *El respeto o la mirada atenta* de Josep María Esquirol)
+> Solo guardando la distancia adecuada es posible advertir y respetar lo que debe ser respetado. [...] La violencia es la violación del otro, de la persona del otro, en cada una de sus dimensiones: la violencia sobre el cuerpo, sobre su presencia social, sobre su espacio íntimo, sobre sus ideas y sus creencias… (pag.72 *El respeto o la mirada atenta* de Josep María Esquirol)
 
 Así O’Conner exige ese respeto gracias a la mirada atenta: cuando ellos conducen, están prestando atención a lo que hacen y cómo lo hacen. En palabras del propio Toretto: «¿corremos o hablamos?» Tienen atención plena en lo que hacen; se fijan en los detalles, en lo cotidiano, en lo familiar y saben el momento exacto en el que apretar el botón del óxido nitroso.
 
@@ -29,8 +27,6 @@ La familia se construye en los pequeños gestos repetitivos: sentarse a la mesa 
 
 Si algo podemos aprender de Esquirol y de Toretto es que la idea de familia es sinónimo de proximidad protectora. Da igual si está formada por una, tres o cinco personas; lo que la constituye como tal es la voluntad compartida de generar un tejido de resistencia y amparo humano.
 
-«No importa dónde estés, a un cuarto de milla o al otro lado del mundo. Siempre estarás conmigo y siempre serás mi hermano.»
-
-(Dominic Toretto en *Fast and Furious 7*)
+> «No importa dónde estés, a un cuarto de milla o al otro lado del mundo. Siempre estarás conmigo y siempre serás mi hermano.» (Dominic Toretto en *Fast and Furious 7*)
 
 *Imagen generada con ChatGPT

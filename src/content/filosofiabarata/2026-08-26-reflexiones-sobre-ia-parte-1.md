@@ -32,3 +32,5 @@ Otra cosa, es que en lugar de escribir este texto, tenga que escribir un e-mail 
 ## Conclusión: La IA como aliada
 
 Para terminar esta primera entrada sobre el tema (desarrollaré algún tema más en otro [post](/blog/2026-08-31-reflexiones-sobre-ia-parte-2)), está claro que no todo el mundo tiene que interesarse por la IA, está claro que no todo el mundo tiene que usarla si no quiere, pero si considero importante no verla como una enemiga. Tiene que ser una aliada, creo que la IA está aquí y se va a quedar mucho tiempo y además nos va a servir de gran ayuda para muchas cosas, así que lo mejor es aprender a usarla lo mejor posible así como entenderla en la medida de nuestras posibilidades; entender sus fortalezas y sus flaquezas (que también las tiene) y aprovecharlas en aquello que consideremos que nos puede ayudar.
+
+*Imagen generada con ChatGPT

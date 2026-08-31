@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 245
+Total de archivos: 246
+- [2026-08-31 - Reflexiones sobre la IA - Parte 2](2026-08-31-reflexiones-sobre-ia-parte-2.md)
 - [2026-08-26 - Reflexiones sobre la IA - Parte I](2026-08-26-reflexiones-sobre-ia-parte-1.md)
 - [2026-08-03 - Fast and Furious y el respeto](2026-08-03-fast-and-furious-y-el-respeto.md)
 - [2026-07-28 - La mirada atenta](2026-07-28-la-mirada-atenta.md)

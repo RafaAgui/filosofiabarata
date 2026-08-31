@@ -5,8 +5,8 @@ description: "Tercera parte sobre reflexiones de la IA: impacto ambiental, soluc
 date: "2026-08-31"
 url: "2026-08-31-reflexiones-sobre-ia-parte-3"
 tipo: "Reflexión"
-categorias: ["Tecnología", "Ética", "Filosofía"]
-etiquetas: ["IA", "medio ambiente", "energía", "creatividad", "pensamiento crítico"]
+categorias: "Filosofía contemporánea, Tecnología y sociedad"
+etiquetas: "IA, medio ambiente, energía, creatividad, pensamiento crítico"
 ---
 
 ## El costo energético de la IA

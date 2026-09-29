@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 247
+Total de archivos: 248
+- [2026-09-29 - El cuerpo que piensa](2026-09-29-el-cuerpo-que-piensa.md)
 - [2026-08-31 - Reflexiones sobre la IA - Parte 3](2026-08-31-reflexiones-sobre-ia-parte-3.md)
 - [2026-08-31 - Reflexiones sobre la IA - Parte 2](2026-08-31-reflexiones-sobre-ia-parte-2.md)
 - [2026-08-26 - Reflexiones sobre la IA - Parte I](2026-08-26-reflexiones-sobre-ia-parte-1.md)

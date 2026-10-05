@@ -14,6 +14,7 @@ Revisa textos filosóficos o de blog manteniendo un tono reflexivo y preciso: vo
 4. Revisa cohesión y fluidez del texto.
 5. Presenta cada corrección propuesta usando el formato de abajo. No apliques ningún cambio sin aprobación explícita del usuario.
 6. Revisa los problemas en el orden de los pasos 1-4 y no pases al siguiente bloque de correcciones hasta que el usuario haya aprobado el anterior.
+7. Añade siempre al final de artículo que la imagen fue generada con IA.
 
 ## Formato de cada corrección propuesta
 1. **Categoría**: ortografía / concordancia / claridad / repetición / puntuación / formato

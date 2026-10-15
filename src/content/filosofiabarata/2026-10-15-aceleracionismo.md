@@ -3,7 +3,7 @@ title: "Aceleracionismo y el futuro del capitalismo"
 img: "/imagenes/aceleracionismo.png"
 description: "Reflexión sobre el aceleracionismo como alternativa política postcapitalista, desde la propuesta de Mark Fisher de una 'izquierda Terminator' que reapropie las tecnologías para emancipar a la humanidad."
 date: 2026-10-15
-url: /blog/2026-10-15-aceleracionismo
+url: 2026-10-15-aceleracionismo
 tipo: entrada
 categorias: "S. XXI"
 etiquetas: "política, aceleracionismo, Mark Fisher, capitalismo, tecnología"

@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 249
+Total de archivos: 250
+- [2026-10-27 - Téano de Crotona](2026-10-27-teano-de-crotona.md)
 - [2026-10-15 - Aceleracionismo y el futuro del capitalismo](2026-10-15-aceleracionismo.md)
 - [2026-09-29 - El cuerpo que piensa](2026-09-29-el-cuerpo-que-piensa.md)
 - [2026-08-31 - Reflexiones sobre la IA - Parte 3](2026-08-31-reflexiones-sobre-ia-parte-3.md)

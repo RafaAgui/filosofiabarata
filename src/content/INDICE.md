@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 250
+Total de archivos: 251
+- [2026-11-13 - La potencia de una huelga](2026-11-13-la-potencia-de-una-huelga.md)
 - [2026-10-27 - Téano de Crotona](2026-10-27-teano-de-crotona.md)
 - [2026-10-15 - Aceleracionismo y el futuro del capitalismo](2026-10-15-aceleracionismo.md)
 - [2026-09-29 - El cuerpo que piensa](2026-09-29-el-cuerpo-que-piensa.md)

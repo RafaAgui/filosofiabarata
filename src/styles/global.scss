@@ -44,21 +44,3 @@ body {
     margin: 0 auto;
     padding: var(--spacing-element-gap) var(--spacing-gutter);
 }
-
-html:root {
-  --pf-text: var(--color-text-primary);
-  --pf-text-secondary: var(--color-text-secondary);
-  --pf-text-muted: var(--color-text-tertiary);
-  --pf-background: var(--color-background);
-  --pf-border: var(--color-border);
-  --pf-border-focus: var(--color-primary);
-  --pf-outline-focus: var(--color-primary);
-  --pf-skeleton: var(--color-surface-container);
-  --pf-skeleton-shine: var(--color-surface-container-low);
-  --pf-hover: var(--color-surface-container);
-  --pf-mark: var(--color-primary);
-  --pf-font: var(--font-ui);
-  --pf-shadow-sm: none;
-  --pf-shadow-md: none;
-  --pf-shadow-lg: none;
-}

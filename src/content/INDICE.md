@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 251
+Total de archivos: 252
+- [2026-11-18 - El agua de Tales de Mileto: el primer paso hacia el pensamiento racional](2026-11-18-el-agua-de-tales-de-mileto-el-primer-paso-hacia-el-pensamiento-racional.md)
 - [2026-11-13 - La potencia de una huelga](2026-11-13-la-potencia-de-una-huelga.md)
 - [2026-10-27 - Téano de Crotona](2026-10-27-teano-de-crotona.md)
 - [2026-10-15 - Aceleracionismo y el futuro del capitalismo](2026-10-15-aceleracionismo.md)

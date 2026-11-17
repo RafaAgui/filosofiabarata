@@ -11,7 +11,7 @@ etiquetas: "Tales de Mileto, presocráticos, arjé, hilozoísmo, filosofía grie
 
 # El agua de Tales de Mileto: el primer paso hacia el pensamiento racional
 
-Las clases de historia de la filosofía suelen empezar con el clásico paso del mito al logos; el que es considerado como el primer pensador fue Tales de Mileto (por cierto, conviene recordar que Mileto pertenece a la actual Turquía). Su tesis fue sencilla y, a la vez, revolucionaria: el agua es el origen de todas las cosas. La resumió en la célebre afirmación: «El principio de todas las cosas es el agua; todo procede del agua y todo se convierte en agua».
+Las clases de historia de la filosofía suelen empezar con el clásico paso del mito al logos; el que es considerado como el primer pensador fue [Tales de Mileto](/blog/2009-03-28-tales-de-mileto-y-el-agua) (por cierto, conviene recordar que Mileto pertenece a la actual Turquía). Su tesis fue sencilla y, a la vez, revolucionaria: el agua es el origen de todas las cosas. La resumió en la célebre afirmación: «El principio de todas las cosas es el agua; todo procede del agua y todo se convierte en agua».
 
 En griego, arjé es como se denomina tanto «comienzo» en el tiempo como «mando» o «soberanía». Anaximandro, discípulo de Tales, empleó este término para referirse al origen del cosmos, al sustrato permanente bajo los cambios y al principio que lo gobierna. Por eso suele decirse que el arjé de Tales era el agua.
 

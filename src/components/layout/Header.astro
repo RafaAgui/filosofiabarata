@@ -1,5 +1,5 @@
 ---
-  import { Menu } from '@lucide/astro';
+  import { Menu, Search } from '@lucide/astro';
   import '../../styles/components/Header.scss';
 ---
 
@@ -19,12 +19,14 @@
       </ul>
     </nav>
     {import.meta.env.PROD && (
-      <pagefind-modal-trigger
+      <button
         class="header__btn header__btn--search"
-        placeholder="Buscar artículos"
-        compact
-        hide-shortcut
-      ></pagefind-modal-trigger>
+        id="search-toggle"
+        type="button"
+        aria-label="Buscar artículos"
+      >
+        <Search size="20" />
+      </button>
     )}
     <button class="header__btn header__btn--theme" id="theme-toggle" aria-label="Cambiar tema">
       <!-- Sun icon (shown in dark mode) -->
@@ -74,6 +76,30 @@
 
   const themeToggle = document.getElementById('theme-toggle');
   const root = document.documentElement;
+
+  const searchButton = document.getElementById('search-toggle');
+  const searchModal = document.querySelector('pagefind-modal');
+
+  function openSearch() {
+    if (!searchModal || !('open' in searchModal) || typeof searchModal.open !== 'function') {
+      console.error('El diálogo de búsqueda no está disponible.');
+      return;
+    }
+
+    searchModal.open();
+  }
+
+  searchButton?.addEventListener('click', openSearch);
+  document.addEventListener('keydown', (event) => {
+    const target = event.target;
+    const isEditing = target instanceof HTMLElement &&
+      (target.isContentEditable || target.matches('input, textarea, select'));
+
+    if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'k' && !isEditing) {
+      event.preventDefault();
+      openSearch();
+    }
+  });
 
   function applyTheme(theme: string) {
     root.setAttribute('data-theme', theme);

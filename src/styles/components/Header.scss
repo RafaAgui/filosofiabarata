@@ -97,20 +97,6 @@
   }
 }
 
-:root .header .header__btn--search {
-  width: auto;
-  height: auto;
-  padding: 0;
-  --pf-background: transparent;
-  --pf-border: transparent;
-  --pf-border-focus: transparent;
-  --pf-text-muted: var(--color-icon);
-  --pf-hover: transparent;
-  --pf-input-height: 2.5rem;
-  --pf-border-radius: 0;
-}
-
-
 /* ---- Theme toggle icons ---- */
 
 // Light mode: show moon, hide sun

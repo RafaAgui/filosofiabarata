@@ -8,8 +8,10 @@ Blog de ensayos filosóficos construido con [Astro](https://astro.build). Pensam
 | :---------------- | :-------------------------------------------- |
 | `npm install`     | Instala dependencias                          |
 | `npm run dev`     | Servidor de desarrollo en `localhost:4321`    |
-| `npm run build`   | Build de producción en `./dist/`              |
-| `npm run preview` | Previsualiza el build antes de desplegar      |
+| `npm run build`   | Compila el sitio y genera el índice de búsqueda |
+| `npm run preview` | Previsualiza el sitio compilado y el buscador |
+
+El buscador se genera durante la compilación. Para probarlo localmente, ejecuta `npm run build` y después `npm run preview`; no está disponible en `npm run dev`.
 
 ## Sistema de diseño
 

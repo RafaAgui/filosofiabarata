@@ -23,7 +23,7 @@ const formattedDate = date.toISOString().split('T')[0];
 
 <Layout>
   <div id="progress"></div>
-  <article class="post">
+  <article class="post" data-pagefind-body>
     <header class="post__header">
       <div class="post__header-content">
         <div class="post__categories">
@@ -35,7 +35,7 @@ const formattedDate = date.toISOString().split('T')[0];
           <time class="post__date" datetime={formattedDate}>{formattedDate}</time>
         </p>
       </div>
-      <h1 class="post__title">{title}</h1>
+      <h1 class="post__title" data-pagefind-meta="title">{title}</h1>
       {img && <img class="post__img" src={img} alt={title} />}
     </header>
 

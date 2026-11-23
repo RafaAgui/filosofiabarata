@@ -1,6 +1,7 @@
 # Indice del blog: Filosofia Barata
 
-Total de archivos: 252
+Total de archivos: 253
+- [2026-11-23 - Dolce far niente, como acto político](2026-11-23-dolce-far-niente-como-acto-politico.md)
 - [2026-11-18 - El agua de Tales de Mileto: el primer paso hacia el pensamiento racional](2026-11-18-el-agua-de-tales-de-mileto-el-primer-paso-hacia-el-pensamiento-racional.md)
 - [2026-11-13 - La potencia de una huelga](2026-11-13-la-potencia-de-una-huelga.md)
 - [2026-10-27 - Téano de Crotona](2026-10-27-teano-de-crotona.md)
